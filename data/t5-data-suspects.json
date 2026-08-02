@@ -1,0 +1,27 @@
+[
+  {
+    "url": "https://www.injector.world/",
+    "stats_zero": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "positive_claims": [
+      "17,020"
+    ],
+    "clinic_zero_claims": [
+      "0\nverified clinics"
+    ],
+    "no_match_text": [
+      "No verified clinics or injectors match"
+    ],
+    "footer_dup_count": 1,
+    "social_empty": [],
+    "screenshot": "/home/heyatoy/Projects/testing/evidence/desktop/home/20260801-174712-viewport.png",
+    "captured_at": "2026-08-01T18:03:40+00:00"
+  }
+]

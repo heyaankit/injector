@@ -1,0 +1,166 @@
+{
+  "perf": [
+    {
+      "device": "iphone-13",
+      "page": "home",
+      "url": "https://www.injector.world/",
+      "load_ms": 9379,
+      "wall_ms": 9475,
+      "weight": {
+        "total": 322776,
+        "count": 20,
+        "next": 31473,
+        "top": [
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Ffooter-wordmark.png&w=640&q=75",
+            "s": 17054
+          },
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Fwordmark.png&w=640&q=75",
+            "s": 9590
+          },
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Ffooter-mark.png&w=96&q=75",
+            "s": 4472
+          }
+        ]
+      },
+      "desktop_ms": 31779,
+      "ratio": 0.3
+    },
+    {
+      "device": "iphone-13",
+      "page": "clinics",
+      "url": "https://www.injector.world/clinics",
+      "load_ms": 8993,
+      "wall_ms": 9240,
+      "weight": {
+        "total": 320978,
+        "count": 22,
+        "next": 44272,
+        "top": [
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Ffooter-wordmark.png&w=640&q=75",
+            "s": 17054
+          },
+          {
+            "n": "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fv1677619818%2F59744",
+            "s": 12442
+          },
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Fwordmark.png&w=640&q=75",
+            "s": 9590
+          }
+        ]
+      },
+      "desktop_ms": 30161,
+      "ratio": 0.3
+    },
+    {
+      "device": "iphone-13",
+      "page": "guide",
+      "url": "https://www.injector.world/guides/what-is-kybella",
+      "load_ms": 8293,
+      "wall_ms": 8541,
+      "weight": {
+        "total": 293963,
+        "count": 17,
+        "next": 31116,
+        "top": [
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Ffooter-wordmark.png&w=640&q=75",
+            "s": 17054
+          },
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Fwordmark.png&w=640&q=75",
+            "s": 9590
+          },
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Ffooter-mark.png&w=96&q=75",
+            "s": 4472
+          }
+        ]
+      },
+      "desktop_ms": 19326,
+      "ratio": 0.43
+    },
+    {
+      "device": "iphone-13",
+      "page": "clinic-detail",
+      "url": "https://www.injector.world/clinics/texas/houston-tx/testclinic",
+      "load_ms": 8894,
+      "wall_ms": 9146,
+      "weight": {
+        "total": 318294,
+        "count": 20,
+        "next": 31116,
+        "top": [
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Ffooter-wordmark.png&w=640&q=75",
+            "s": 17054
+          },
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Fwordmark.png&w=640&q=75",
+            "s": 9590
+          },
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Ffooter-mark.png&w=96&q=75",
+            "s": 4472
+          }
+        ]
+      }
+    }
+  ],
+  "landscape_ham": [
+    {
+      "device": "iphone-13",
+      "before": {
+        "exp": "false",
+        "navH": "64px",
+        "iw": 844,
+        "sw": 844
+      },
+      "after": {
+        "exp": "false",
+        "navH": "64px",
+        "panelH": "326px",
+        "panelOverflow": "auto",
+        "iw": 844,
+        "vh": 390,
+        "sw": 844,
+        "hOverflow": false
+      }
+    },
+    {
+      "device": "pixel-7",
+      "before": {
+        "exp": "false",
+        "navH": "64px",
+        "iw": 915,
+        "sw": 915
+      },
+      "after": {
+        "exp": "true",
+        "navH": "412px",
+        "panelH": "348px",
+        "panelOverflow": "auto",
+        "iw": 915,
+        "vh": 412,
+        "sw": 915,
+        "hOverflow": false
+      }
+    }
+  ],
+  "contrast": [
+    {
+      "page": "home",
+      "url": "https://www.injector.world/",
+      "cands": []
+    },
+    {
+      "page": "guide",
+      "url": "https://www.injector.world/guides/what-is-kybella",
+      "cands": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+# ── Python ─────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+
+# ── OS / editor junk ───────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Large / regenerable test evidence ─────────────────────────────────
+# 628 MB of crawl screenshots. The DOCX bug reports already embed the
+# key screenshots, and evidence/ is regenerable via scripts/harness.py.
+evidence/
+
+# ── Internal orchestration state (plans, notepads, agent logs) ────────
+.sisyphus/
+
+# ── Scratch QA capture dumps ───────────────────────────────────────────
+qa_*.txt
+
+# ── Validation / conversion byproducts ─────────────────────────────────
+*.pdf
+/tmp/opencode/

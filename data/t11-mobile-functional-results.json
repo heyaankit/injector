@@ -1,0 +1,578 @@
+{
+  "iPhone 13": {
+    "device": "iPhone 13",
+    "slug": "iphone-13",
+    "shots": {
+      "search-botox": "/home/heyatoy/Projects/testing/evidence/iphone-13/t11-search/botox-results-20260802-034644.png",
+      "search-austin": "/home/heyatoy/Projects/testing/evidence/iphone-13/t11-search/austin-results-20260802-034650.png",
+      "nl-invalid": "/home/heyatoy/Projects/testing/evidence/iphone-13/t11-newsletter/invalid-email-20260802-034705.png",
+      "nl-empty": "/home/heyatoy/Projects/testing/evidence/iphone-13/t11-newsletter/empty-submit-20260802-034710.png",
+      "touch": "/home/heyatoy/Projects/testing/evidence/iphone-13/t11-touch/after-footer-tap-20260802-034920.png",
+      "stats": "/home/heyatoy/Projects/testing/evidence/iphone-13/t11-stats/counters-after-3s-20260802-034956.png"
+    },
+    "log": [
+      "hero_form_count=1 header_search_probe={\"searchBtns\": [{\"aria\": \"Search\", \"title\": \"\", \"text\": \"\"}], \"inputs\": []}",
+      "search Botox -> {\"url\": \"https://www.injector.world/search?q=Botox&location=462042%2C+Bhopal%2C+MP\", \"count_text\": \"0 results\", \"empty_state\": \"0 results\", \"result_links\": 28, \"pageerrors\": 0}",
+      "search Austin -> {\"url\": \"https://www.injector.world/search?q=Austin&location=462042%2C+Bhopal%2C+MP\", \"count_text\": \"0 results\", \"empty_state\": \"0 results\", \"location_hint\": null, \"pageerrors\": 0}",
+      "newsletter invalid={\"valid\": false, \"msg\": \"Please include an '@' in the email address. 'not-an-email' is missing an '@'.\", \"focused\": true} empty={\"valid\": false, \"msg\": \"Please fill out this field.\"}",
+      "menu expanded=true visible_links=38",
+      "nav phase error: Locator.click: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"header a[href='https://www.injector.world/states']\").nth(26)\n",
+      "clinic links found: 6",
+      "back/fwd failed: Locator.click: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.injector.world/clinics/texas/houston-tx/testclinic']\").first\n",
+      "stats before={\"Clinics Listed\": \"0+ Clinics Listed verified clinics across the US\", \"Brands Listed\": \"0+ Brands Listed aesthetic brands tracked across every market\", \"Markets Covered\": \"0+ Markets Covered metros and cities across the US\", \"Treatment Guides\": \"0+ Treatment Guides medically reviewed\", \"Metro Markets\": \"0+ Metro Markets top US cities covered at launch\", \"Years Independent\": \"0yrs Years Independent editorially independent\"} after={\"Clinics Listed\": \"17,020+ Clinics Listed verified clinics across the US\", \"Brands Listed\": \"10+ Brands Listed aesthetic brands tracked across every market\", \"Markets Covered\": \"2767+ Markets Covered metros and cities across the US\", \"Treatment Guides\": \"31+ Treatment Guides medically reviewed\", \"Metro Markets\": \"0+ Metro Markets top US cities covered at launch\", \"Years Independent\": \"0yrs Years Independent editorially independent\"}",
+      "empty-state search page: graceful=True pageerrors=0 blank=False"
+    ],
+    "search": {
+      "botox": {
+        "url": "https://www.injector.world/search?q=Botox&location=462042%2C+Bhopal%2C+MP",
+        "count_text": "0 results",
+        "empty_state": "0 results",
+        "result_links": 28,
+        "pageerrors": 0
+      },
+      "austin": {
+        "url": "https://www.injector.world/search?q=Austin&location=462042%2C+Bhopal%2C+MP",
+        "count_text": "0 results",
+        "empty_state": "0 results",
+        "location_hint": null,
+        "pageerrors": 0
+      }
+    },
+    "newsletter": {
+      "form_count": 1,
+      "invalid": {
+        "valid": false,
+        "msg": "Please include an '@' in the email address. 'not-an-email' is missing an '@'.",
+        "focused": true
+      },
+      "empty": {
+        "valid": false,
+        "msg": "Please fill out this field."
+      }
+    },
+    "nav": {
+      "burger_count": 1,
+      "expanded": "true",
+      "menu_links": [
+        {
+          "text": "",
+          "href": "https://www.injector.world/"
+        },
+        {
+          "text": "",
+          "href": "https://www.injector.world/login"
+        },
+        {
+          "text": "LATEST IN NEWS A Pharmacists Reality Che",
+          "href": "https://www.injector.world/news/peptide-reclassification-pharmacist-reality-check-june-2026"
+        },
+        {
+          "text": "All news",
+          "href": "https://www.injector.world/news"
+        },
+        {
+          "text": "Botox",
+          "href": "https://www.injector.world/brands/botox"
+        },
+        {
+          "text": "Dysport",
+          "href": "https://www.injector.world/brands/dysport"
+        },
+        {
+          "text": "Xeomin",
+          "href": "https://www.injector.world/brands/xeomin"
+        },
+        {
+          "text": "Daxxify",
+          "href": "https://www.injector.world/brands/daxxify"
+        },
+        {
+          "text": "Juvederm",
+          "href": "https://www.injector.world/brands/juvederm"
+        },
+        {
+          "text": "Restylane",
+          "href": "https://www.injector.world/brands/restylane"
+        },
+        {
+          "text": "Sculptra",
+          "href": "https://www.injector.world/brands/sculptra"
+        },
+        {
+          "text": "Radiesse",
+          "href": "https://www.injector.world/brands/radiesse"
+        },
+        {
+          "text": "Kybella",
+          "href": "https://www.injector.world/brands/kybella"
+        },
+        {
+          "text": "Browse all brands",
+          "href": "https://www.injector.world/brands"
+        },
+        {
+          "text": "Lip Filler",
+          "href": "https://www.injector.world/services/lip-filler"
+        },
+        {
+          "text": "Cheek Filler",
+          "href": "https://www.injector.world/services/cheek-filler"
+        },
+        {
+          "text": "Jawline Filler",
+          "href": "https://www.injector.world/services/jawline-filler"
+        },
+        {
+          "text": "Tear Trough Filler",
+          "href": "https://www.injector.world/services/tear-trough"
+        },
+        {
+          "text": "Masseter Botox",
+          "href": "https://www.injector.world/services/masseter-botox"
+        },
+        {
+          "text": "Forehead Botox",
+          "href": "https://www.injector.world/services/forehead-botox"
+        },
+        {
+          "text": "Thread Lift",
+          "href": "https://www.injector.world/services/thread-lift"
+        },
+        {
+          "text": "Microneedling",
+          "href": "https://www.injector.world/services/microneedling"
+        },
+        {
+          "text": "PRP",
+          "href": "https://www.injector.world/services/prp"
+        },
+        {
+          "text": "Brow Lift",
+          "href": "https://www.injector.world/services/brow-lift"
+        },
+        {
+          "text": "Browse all services",
+          "href": "https://www.injector.world/services"
+        },
+        {
+          "text": "FIND (Directory)",
+          "href": "https://www.injector.world/states"
+        },
+        {
+          "text": "ALL CLINICS",
+          "href": "https://www.injector.world/clinics"
+        },
+        {
+          "text": "Botox Guide",
+          "href": "https://www.injector.world/guides/botox"
+        },
+        {
+          "text": "Lip Filler",
+          "href": "https://www.injector.world/guides/lip-filler"
+        },
+        {
+          "text": "First-time Botox",
+          "href": "https://www.injector.world/guides/first-time-botox"
+        },
+        {
+          "text": "What Botox Costs in 2026",
+          "href": "https://www.injector.world/guides/botox-cost-2026"
+        },
+        {
+          "text": "Is Botox Safe?",
+          "href": "https://www.injector.world/guides/is-botox-safe"
+        },
+        {
+          "text": "MD vs NP vs RN",
+          "href": "https://www.injector.world/guides/md-vs-np-vs-rn"
+        },
+        {
+          "text": "Masseter Botox",
+          "href": "https://www.injector.world/guides/masseter-botox"
+        },
+        {
+          "text": "How to Choose an Injector",
+          "href": "https://www.injector.world/guides/how-to-choose-injector"
+        },
+        {
+          "text": "Red Flags Before Booking",
+          "href": "https://www.injector.world/guides/red-flags"
+        },
+        {
+          "text": "Botox vs Filler",
+          "href": "https://www.injector.world/guides/botox-vs-filler"
+        },
+        {
+          "text": "Browse all guides",
+          "href": "https://www.injector.world/guides"
+        }
+      ],
+      "phase_error": "Locator.click: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"header a[href='https://www.injector.world/states']\").nth(26)\n"
+    },
+    "touch": {
+      "clinic_links_found": 6,
+      "samples": [
+        {
+          "text": "View",
+          "href": "https://www.injector.world/clinics/texas/houston-tx/testclinic"
+        },
+        {
+          "text": "View",
+          "href": "https://www.injector.world/clinics/texas/houston-tx/abcd"
+        },
+        {
+          "text": "View",
+          "href": "https://www.injector.world/clinics/texas/houston-tx/rishavs-clinic"
+        },
+        {
+          "text": "View",
+          "href": "https://www.injector.world/clinics/utah/syracuse-ut/sinful-skin-injections-84075"
+        }
+      ],
+      "taps": [
+        {
+          "type": "clinic",
+          "href": "https://www.injector.world/clinics/texas/houston-tx/testclinic",
+          "navigated": false,
+          "error": "Locator.click: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.injector.world/clinics/te"
+        },
+        {
+          "type": "clinic",
+          "href": "https://www.injector.world/clinics/texas/houston-tx/abcd",
+          "navigated": false,
+          "error": "Locator.click: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.injector.world/clinics/te"
+        },
+        {
+          "type": "footer",
+          "text": "List your practice",
+          "href": "https://www.injector.world/list-your-practice",
+          "navigated": false,
+          "error": "Locator.click: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.injector.world/list-your-"
+        },
+        {
+          "type": "footer",
+          "text": "Cheek Filler",
+          "href": "https://www.injector.world/services/cheek-filler",
+          "navigated": false,
+          "error": "Locator.click: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.injector.world/services/c"
+        }
+      ],
+      "all_navigated": false
+    },
+    "backfwd": {
+      "error": "Locator.click: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.injector.world/clinics/texas/houston-tx/testclinic']\").first\n"
+    },
+    "stats": {
+      "before": {
+        "Clinics Listed": "0+ Clinics Listed verified clinics across the US",
+        "Brands Listed": "0+ Brands Listed aesthetic brands tracked across every market",
+        "Markets Covered": "0+ Markets Covered metros and cities across the US",
+        "Treatment Guides": "0+ Treatment Guides medically reviewed",
+        "Metro Markets": "0+ Metro Markets top US cities covered at launch",
+        "Years Independent": "0yrs Years Independent editorially independent"
+      },
+      "after": {
+        "Clinics Listed": "17,020+ Clinics Listed verified clinics across the US",
+        "Brands Listed": "10+ Brands Listed aesthetic brands tracked across every market",
+        "Markets Covered": "2767+ Markets Covered metros and cities across the US",
+        "Treatment Guides": "31+ Treatment Guides medically reviewed",
+        "Metro Markets": "0+ Metro Markets top US cities covered at launch",
+        "Years Independent": "0yrs Years Independent editorially independent"
+      }
+    },
+    "empty": {
+      "home_empty_state_expected": true,
+      "search_empty_state": true,
+      "pageerrors": 0,
+      "blank": false
+    }
+  },
+  "Pixel 7": {
+    "device": "Pixel 7",
+    "slug": "pixel-7",
+    "shots": {
+      "search-botox": "/home/heyatoy/Projects/testing/evidence/pixel-7/t11-search/botox-results-20260802-035021.png",
+      "search-austin": "/home/heyatoy/Projects/testing/evidence/pixel-7/t11-search/austin-results-20260802-035028.png",
+      "nl-invalid": "/home/heyatoy/Projects/testing/evidence/pixel-7/t11-newsletter/invalid-email-20260802-035042.png",
+      "nl-empty": "/home/heyatoy/Projects/testing/evidence/pixel-7/t11-newsletter/empty-submit-20260802-035046.png",
+      "touch": "/home/heyatoy/Projects/testing/evidence/pixel-7/t11-touch/after-footer-tap-20260802-035250.png",
+      "stats": "/home/heyatoy/Projects/testing/evidence/pixel-7/t11-stats/counters-after-3s-20260802-035325.png"
+    },
+    "log": [
+      "hero_form_count=1 header_search_probe={\"searchBtns\": [{\"aria\": \"Search\", \"title\": \"\", \"text\": \"\"}], \"inputs\": []}",
+      "search Botox -> {\"url\": \"https://www.injector.world/search?q=Botox&location=462042%2C+Bhopal%2C+MP\", \"count_text\": \"0 results\", \"empty_state\": \"0 results\", \"result_links\": 28, \"pageerrors\": 0}",
+      "search Austin -> {\"url\": \"https://www.injector.world/search?q=Austin&location=462042%2C+Bhopal%2C+MP\", \"count_text\": \"0 results\", \"empty_state\": \"0 results\", \"location_hint\": null, \"pageerrors\": 0}",
+      "newsletter invalid={\"valid\": false, \"msg\": \"Please include an '@' in the email address. 'not-an-email' is missing an '@'.\", \"focused\": true} empty={\"valid\": false, \"msg\": \"Please fill out this field.\"}",
+      "menu expanded=true visible_links=38",
+      "nav phase error: Locator.click: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"header a[href='https://www.injector.world/states']\").nth(26)\n",
+      "clinic links found: 6",
+      "back/fwd failed: Locator.click: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.injector.world/clinics/texas/houston-tx/testclinic']\").first\n",
+      "stats before={\"Clinics Listed\": \"0+ Clinics Listed verified clinics across the US\", \"Brands Listed\": \"0+ Brands Listed aesthetic brands tracked across every market\", \"Markets Covered\": \"0+ Markets Covered metros and cities across the US\", \"Treatment Guides\": \"0+ Treatment Guides medically reviewed\", \"Metro Markets\": \"0+ Metro Markets top US cities covered at launch\", \"Years Independent\": \"0yrs Years Independent editorially independent\"} after={\"Clinics Listed\": \"17,020+ Clinics Listed verified clinics across the US\", \"Brands Listed\": \"10+ Brands Listed aesthetic brands tracked across every market\", \"Markets Covered\": \"2767+ Markets Covered metros and cities across the US\", \"Treatment Guides\": \"31+ Treatment Guides medically reviewed\", \"Metro Markets\": \"0+ Metro Markets top US cities covered at launch\", \"Years Independent\": \"0yrs Years Independent editorially independent\"}",
+      "empty-state search page: graceful=True pageerrors=0 blank=False"
+    ],
+    "search": {
+      "botox": {
+        "url": "https://www.injector.world/search?q=Botox&location=462042%2C+Bhopal%2C+MP",
+        "count_text": "0 results",
+        "empty_state": "0 results",
+        "result_links": 28,
+        "pageerrors": 0
+      },
+      "austin": {
+        "url": "https://www.injector.world/search?q=Austin&location=462042%2C+Bhopal%2C+MP",
+        "count_text": "0 results",
+        "empty_state": "0 results",
+        "location_hint": null,
+        "pageerrors": 0
+      }
+    },
+    "newsletter": {
+      "form_count": 1,
+      "invalid": {
+        "valid": false,
+        "msg": "Please include an '@' in the email address. 'not-an-email' is missing an '@'.",
+        "focused": true
+      },
+      "empty": {
+        "valid": false,
+        "msg": "Please fill out this field."
+      }
+    },
+    "nav": {
+      "burger_count": 1,
+      "expanded": "true",
+      "menu_links": [
+        {
+          "text": "",
+          "href": "https://www.injector.world/"
+        },
+        {
+          "text": "",
+          "href": "https://www.injector.world/login"
+        },
+        {
+          "text": "LATEST IN NEWS A Pharmacists Reality Che",
+          "href": "https://www.injector.world/news/peptide-reclassification-pharmacist-reality-check-june-2026"
+        },
+        {
+          "text": "All news",
+          "href": "https://www.injector.world/news"
+        },
+        {
+          "text": "Botox",
+          "href": "https://www.injector.world/brands/botox"
+        },
+        {
+          "text": "Dysport",
+          "href": "https://www.injector.world/brands/dysport"
+        },
+        {
+          "text": "Xeomin",
+          "href": "https://www.injector.world/brands/xeomin"
+        },
+        {
+          "text": "Daxxify",
+          "href": "https://www.injector.world/brands/daxxify"
+        },
+        {
+          "text": "Juvederm",
+          "href": "https://www.injector.world/brands/juvederm"
+        },
+        {
+          "text": "Restylane",
+          "href": "https://www.injector.world/brands/restylane"
+        },
+        {
+          "text": "Sculptra",
+          "href": "https://www.injector.world/brands/sculptra"
+        },
+        {
+          "text": "Radiesse",
+          "href": "https://www.injector.world/brands/radiesse"
+        },
+        {
+          "text": "Kybella",
+          "href": "https://www.injector.world/brands/kybella"
+        },
+        {
+          "text": "Browse all brands",
+          "href": "https://www.injector.world/brands"
+        },
+        {
+          "text": "Lip Filler",
+          "href": "https://www.injector.world/services/lip-filler"
+        },
+        {
+          "text": "Cheek Filler",
+          "href": "https://www.injector.world/services/cheek-filler"
+        },
+        {
+          "text": "Jawline Filler",
+          "href": "https://www.injector.world/services/jawline-filler"
+        },
+        {
+          "text": "Tear Trough Filler",
+          "href": "https://www.injector.world/services/tear-trough"
+        },
+        {
+          "text": "Masseter Botox",
+          "href": "https://www.injector.world/services/masseter-botox"
+        },
+        {
+          "text": "Forehead Botox",
+          "href": "https://www.injector.world/services/forehead-botox"
+        },
+        {
+          "text": "Thread Lift",
+          "href": "https://www.injector.world/services/thread-lift"
+        },
+        {
+          "text": "Microneedling",
+          "href": "https://www.injector.world/services/microneedling"
+        },
+        {
+          "text": "PRP",
+          "href": "https://www.injector.world/services/prp"
+        },
+        {
+          "text": "Brow Lift",
+          "href": "https://www.injector.world/services/brow-lift"
+        },
+        {
+          "text": "Browse all services",
+          "href": "https://www.injector.world/services"
+        },
+        {
+          "text": "FIND (Directory)",
+          "href": "https://www.injector.world/states"
+        },
+        {
+          "text": "ALL CLINICS",
+          "href": "https://www.injector.world/clinics"
+        },
+        {
+          "text": "Botox Guide",
+          "href": "https://www.injector.world/guides/botox"
+        },
+        {
+          "text": "Lip Filler",
+          "href": "https://www.injector.world/guides/lip-filler"
+        },
+        {
+          "text": "First-time Botox",
+          "href": "https://www.injector.world/guides/first-time-botox"
+        },
+        {
+          "text": "What Botox Costs in 2026",
+          "href": "https://www.injector.world/guides/botox-cost-2026"
+        },
+        {
+          "text": "Is Botox Safe?",
+          "href": "https://www.injector.world/guides/is-botox-safe"
+        },
+        {
+          "text": "MD vs NP vs RN",
+          "href": "https://www.injector.world/guides/md-vs-np-vs-rn"
+        },
+        {
+          "text": "Masseter Botox",
+          "href": "https://www.injector.world/guides/masseter-botox"
+        },
+        {
+          "text": "How to Choose an Injector",
+          "href": "https://www.injector.world/guides/how-to-choose-injector"
+        },
+        {
+          "text": "Red Flags Before Booking",
+          "href": "https://www.injector.world/guides/red-flags"
+        },
+        {
+          "text": "Botox vs Filler",
+          "href": "https://www.injector.world/guides/botox-vs-filler"
+        },
+        {
+          "text": "Browse all guides",
+          "href": "https://www.injector.world/guides"
+        }
+      ],
+      "phase_error": "Locator.click: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"header a[href='https://www.injector.world/states']\").nth(26)\n"
+    },
+    "touch": {
+      "clinic_links_found": 6,
+      "samples": [
+        {
+          "text": "View",
+          "href": "https://www.injector.world/clinics/texas/houston-tx/testclinic"
+        },
+        {
+          "text": "View",
+          "href": "https://www.injector.world/clinics/texas/houston-tx/abcd"
+        },
+        {
+          "text": "View",
+          "href": "https://www.injector.world/clinics/texas/houston-tx/rishavs-clinic"
+        },
+        {
+          "text": "View",
+          "href": "https://www.injector.world/clinics/utah/syracuse-ut/sinful-skin-injections-84075"
+        }
+      ],
+      "taps": [
+        {
+          "type": "clinic",
+          "href": "https://www.injector.world/clinics/texas/houston-tx/testclinic",
+          "navigated": false,
+          "error": "Locator.click: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.injector.world/clinics/te"
+        },
+        {
+          "type": "clinic",
+          "href": "https://www.injector.world/clinics/texas/houston-tx/abcd",
+          "navigated": false,
+          "error": "Locator.click: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.injector.world/clinics/te"
+        },
+        {
+          "type": "footer",
+          "text": "List your practice",
+          "href": "https://www.injector.world/list-your-practice",
+          "navigated": false,
+          "error": "Locator.click: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.injector.world/list-your-"
+        },
+        {
+          "type": "footer",
+          "text": "Cheek Filler",
+          "href": "https://www.injector.world/services/cheek-filler",
+          "navigated": false,
+          "error": "Locator.click: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.injector.world/services/c"
+        }
+      ],
+      "all_navigated": false
+    },
+    "backfwd": {
+      "error": "Locator.click: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href='https://www.injector.world/clinics/texas/houston-tx/testclinic']\").first\n"
+    },
+    "stats": {
+      "before": {
+        "Clinics Listed": "0+ Clinics Listed verified clinics across the US",
+        "Brands Listed": "0+ Brands Listed aesthetic brands tracked across every market",
+        "Markets Covered": "0+ Markets Covered metros and cities across the US",
+        "Treatment Guides": "0+ Treatment Guides medically reviewed",
+        "Metro Markets": "0+ Metro Markets top US cities covered at launch",
+        "Years Independent": "0yrs Years Independent editorially independent"
+      },
+      "after": {
+        "Clinics Listed": "17,020+ Clinics Listed verified clinics across the US",
+        "Brands Listed": "10+ Brands Listed aesthetic brands tracked across every market",
+        "Markets Covered": "2767+ Markets Covered metros and cities across the US",
+        "Treatment Guides": "31+ Treatment Guides medically reviewed",
+        "Metro Markets": "0+ Metro Markets top US cities covered at launch",
+        "Years Independent": "0yrs Years Independent editorially independent"
+      }
+    },
+    "empty": {
+      "home_empty_state_expected": true,
+      "search_empty_state": true,
+      "pageerrors": 0,
+      "blank": false
+    }
+  }
+}

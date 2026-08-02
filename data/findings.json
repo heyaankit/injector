@@ -1,0 +1,1425 @@
+[
+  {
+    "id": "desktop-20260801-174747-1",
+    "device": "desktop",
+    "url": "https://www.injector.world/",
+    "severity": "MEDIUM",
+    "title": "2 form control(s) without an accessible label",
+    "actual": "Controls missing label/aria-label/aria-labelledby/title association. Example: <input[name=?]> placeholder=Search states....",
+    "expected": "Every input/select/textarea has a programmatic label.",
+    "repro_steps": [
+      "Open https://www.injector.world/",
+      "Inspect form controls",
+      "Observe no label association"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/a11y/home-inputs.png",
+    "notes": "Placeholder-only controls counted as unlabeled.",
+    "affected_pages": [
+      "https://www.injector.world/"
+    ],
+    "created_at": "2026-08-01T17:47:47+00:00"
+  },
+  {
+    "id": "desktop-20260801-174801-2",
+    "device": "desktop",
+    "url": "https://www.injector.world/clinics",
+    "severity": "MEDIUM",
+    "title": "3 form control(s) without an accessible label",
+    "actual": "Controls missing label/aria-label/aria-labelledby/title association. Example: <select[name=?]> placeholder=none.",
+    "expected": "Every input/select/textarea has a programmatic label.",
+    "repro_steps": [
+      "Open https://www.injector.world/clinics",
+      "Inspect form controls",
+      "Observe no label association"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/a11y/clinics-inputs.png",
+    "notes": "Placeholder-only controls counted as unlabeled.",
+    "affected_pages": [
+      "https://www.injector.world/clinics"
+    ],
+    "created_at": "2026-08-01T17:48:01+00:00"
+  },
+  {
+    "id": "desktop-20260801-174815-3",
+    "device": "desktop",
+    "url": "https://www.injector.world/states",
+    "severity": "MEDIUM",
+    "title": "2 form control(s) without an accessible label",
+    "actual": "Controls missing label/aria-label/aria-labelledby/title association. Example: <input[name=?]> placeholder=Search states....",
+    "expected": "Every input/select/textarea has a programmatic label.",
+    "repro_steps": [
+      "Open https://www.injector.world/states",
+      "Inspect form controls",
+      "Observe no label association"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/a11y/states-inputs.png",
+    "notes": "Placeholder-only controls counted as unlabeled.",
+    "affected_pages": [
+      "https://www.injector.world/states"
+    ],
+    "created_at": "2026-08-01T17:48:15+00:00"
+  },
+  {
+    "id": "desktop-20260801-174829-4",
+    "device": "desktop",
+    "url": "https://www.injector.world/services",
+    "severity": "MEDIUM",
+    "title": "1 form control(s) without an accessible label",
+    "actual": "Controls missing label/aria-label/aria-labelledby/title association. Example: <input[name=?]> placeholder=First name (optional).",
+    "expected": "Every input/select/textarea has a programmatic label.",
+    "repro_steps": [
+      "Open https://www.injector.world/services",
+      "Inspect form controls",
+      "Observe no label association"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/a11y/services-inputs.png",
+    "notes": "Placeholder-only controls counted as unlabeled.",
+    "affected_pages": [
+      "https://www.injector.world/services"
+    ],
+    "created_at": "2026-08-01T17:48:29+00:00"
+  },
+  {
+    "id": "desktop-20260801-174843-5",
+    "device": "desktop",
+    "url": "https://www.injector.world/brands",
+    "severity": "MEDIUM",
+    "title": "1 form control(s) without an accessible label",
+    "actual": "Controls missing label/aria-label/aria-labelledby/title association. Example: <input[name=?]> placeholder=First name (optional).",
+    "expected": "Every input/select/textarea has a programmatic label.",
+    "repro_steps": [
+      "Open https://www.injector.world/brands",
+      "Inspect form controls",
+      "Observe no label association"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/a11y/brands-inputs.png",
+    "notes": "Placeholder-only controls counted as unlabeled.",
+    "affected_pages": [
+      "https://www.injector.world/brands"
+    ],
+    "created_at": "2026-08-01T17:48:43+00:00"
+  },
+  {
+    "id": "desktop-20260801-174858-6",
+    "device": "desktop",
+    "url": "https://www.injector.world/guides",
+    "severity": "MEDIUM",
+    "title": "1 form control(s) without an accessible label",
+    "actual": "Controls missing label/aria-label/aria-labelledby/title association. Example: <input[name=?]> placeholder=First name (optional).",
+    "expected": "Every input/select/textarea has a programmatic label.",
+    "repro_steps": [
+      "Open https://www.injector.world/guides",
+      "Inspect form controls",
+      "Observe no label association"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/a11y/guides-inputs.png",
+    "notes": "Placeholder-only controls counted as unlabeled.",
+    "affected_pages": [
+      "https://www.injector.world/guides"
+    ],
+    "created_at": "2026-08-01T17:48:58+00:00"
+  },
+  {
+    "id": "desktop-20260801-174912-7",
+    "device": "desktop",
+    "url": "https://www.injector.world/news",
+    "severity": "MEDIUM",
+    "title": "1 form control(s) without an accessible label",
+    "actual": "Controls missing label/aria-label/aria-labelledby/title association. Example: <input[name=?]> placeholder=First name (optional).",
+    "expected": "Every input/select/textarea has a programmatic label.",
+    "repro_steps": [
+      "Open https://www.injector.world/news",
+      "Inspect form controls",
+      "Observe no label association"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/a11y/news-inputs.png",
+    "notes": "Placeholder-only controls counted as unlabeled.",
+    "affected_pages": [
+      "https://www.injector.world/news"
+    ],
+    "created_at": "2026-08-01T17:49:12+00:00"
+  },
+  {
+    "id": "desktop-20260801-174926-8",
+    "device": "desktop",
+    "url": "https://www.injector.world/how-we-verify",
+    "severity": "MEDIUM",
+    "title": "1 form control(s) without an accessible label",
+    "actual": "Controls missing label/aria-label/aria-labelledby/title association. Example: <input[name=?]> placeholder=First name (optional).",
+    "expected": "Every input/select/textarea has a programmatic label.",
+    "repro_steps": [
+      "Open https://www.injector.world/how-we-verify",
+      "Inspect form controls",
+      "Observe no label association"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/a11y/how-we-verify-inputs.png",
+    "notes": "Placeholder-only controls counted as unlabeled.",
+    "affected_pages": [
+      "https://www.injector.world/how-we-verify"
+    ],
+    "created_at": "2026-08-01T17:49:26+00:00"
+  },
+  {
+    "id": "desktop-20260801-174940-9",
+    "device": "desktop",
+    "url": "https://www.injector.world/editorial-standards",
+    "severity": "MEDIUM",
+    "title": "1 form control(s) without an accessible label",
+    "actual": "Controls missing label/aria-label/aria-labelledby/title association. Example: <input[name=?]> placeholder=First name (optional).",
+    "expected": "Every input/select/textarea has a programmatic label.",
+    "repro_steps": [
+      "Open https://www.injector.world/editorial-standards",
+      "Inspect form controls",
+      "Observe no label association"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/a11y/editorial-standards-inputs.png",
+    "notes": "Placeholder-only controls counted as unlabeled.",
+    "affected_pages": [
+      "https://www.injector.world/editorial-standards"
+    ],
+    "created_at": "2026-08-01T17:49:40+00:00"
+  },
+  {
+    "id": "desktop-20260801-174955-10",
+    "device": "desktop",
+    "url": "https://www.injector.world/medical-advisory",
+    "severity": "MEDIUM",
+    "title": "1 form control(s) without an accessible label",
+    "actual": "Controls missing label/aria-label/aria-labelledby/title association. Example: <input[name=?]> placeholder=First name (optional).",
+    "expected": "Every input/select/textarea has a programmatic label.",
+    "repro_steps": [
+      "Open https://www.injector.world/medical-advisory",
+      "Inspect form controls",
+      "Observe no label association"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/a11y/medical-advisory-inputs.png",
+    "notes": "Placeholder-only controls counted as unlabeled.",
+    "affected_pages": [
+      "https://www.injector.world/medical-advisory"
+    ],
+    "created_at": "2026-08-01T17:49:55+00:00"
+  },
+  {
+    "id": "desktop-20260801-175009-11",
+    "device": "desktop",
+    "url": "https://www.injector.world/about",
+    "severity": "MEDIUM",
+    "title": "1 form control(s) without an accessible label",
+    "actual": "Controls missing label/aria-label/aria-labelledby/title association. Example: <input[name=?]> placeholder=First name (optional).",
+    "expected": "Every input/select/textarea has a programmatic label.",
+    "repro_steps": [
+      "Open https://www.injector.world/about",
+      "Inspect form controls",
+      "Observe no label association"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/a11y/about-inputs.png",
+    "notes": "Placeholder-only controls counted as unlabeled.",
+    "affected_pages": [
+      "https://www.injector.world/about"
+    ],
+    "created_at": "2026-08-01T17:50:09+00:00"
+  },
+  {
+    "id": "desktop-20260801-175023-12",
+    "device": "desktop",
+    "url": "https://www.injector.world/list-your-practice",
+    "severity": "MEDIUM",
+    "title": "1 form control(s) without an accessible label",
+    "actual": "Controls missing label/aria-label/aria-labelledby/title association. Example: <input[name=?]> placeholder=First name (optional).",
+    "expected": "Every input/select/textarea has a programmatic label.",
+    "repro_steps": [
+      "Open https://www.injector.world/list-your-practice",
+      "Inspect form controls",
+      "Observe no label association"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/a11y/list-your-practice-inputs.png",
+    "notes": "Placeholder-only controls counted as unlabeled.",
+    "affected_pages": [
+      "https://www.injector.world/list-your-practice"
+    ],
+    "created_at": "2026-08-01T17:50:23+00:00"
+  },
+  {
+    "id": "desktop-20260801-175037-13",
+    "device": "desktop",
+    "url": "https://www.injector.world/contact",
+    "severity": "MEDIUM",
+    "title": "1 form control(s) without an accessible label",
+    "actual": "Controls missing label/aria-label/aria-labelledby/title association. Example: <input[name=?]> placeholder=First name (optional).",
+    "expected": "Every input/select/textarea has a programmatic label.",
+    "repro_steps": [
+      "Open https://www.injector.world/contact",
+      "Inspect form controls",
+      "Observe no label association"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/a11y/contact-inputs.png",
+    "notes": "Placeholder-only controls counted as unlabeled.",
+    "affected_pages": [
+      "https://www.injector.world/contact"
+    ],
+    "created_at": "2026-08-01T17:50:37+00:00"
+  },
+  {
+    "id": "desktop-20260801-175039-14",
+    "device": "desktop",
+    "url": "https://www.injector.world/guides/botox",
+    "severity": "HIGH",
+    "title": "Broken navigation: header/footer link does not reach a valid page",
+    "actual": "Link to https://www.injector.world/guides/botox resolved to status 404 (final URL https://www.injector.world/guides/botox)",
+    "expected": "All header/footer navigation links should resolve to HTTP 200 with the destination page rendered",
+    "repro_steps": "1. Load https://www.injector.world/\n2. Click navigation link https://www.injector.world/guides/botox\n3. Observe the resulting page",
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/navigation/broken-guides-botox-20260801-175039.png",
+    "notes": "",
+    "affected_pages": [
+      "https://www.injector.world",
+      "https://www.injector.world/guides/botox"
+    ],
+    "created_at": "2026-08-01T17:50:39+00:00"
+  },
+  {
+    "id": "desktop-20260801-175051-15",
+    "device": "desktop",
+    "url": "https://www.injector.world/guides/botox-cost-2026",
+    "severity": "HIGH",
+    "title": "Broken navigation: header/footer link does not reach a valid page",
+    "actual": "Link to https://www.injector.world/guides/botox-cost-2026 resolved to status 404 (final URL https://www.injector.world/guides/botox-cost-2026)",
+    "expected": "All header/footer navigation links should resolve to HTTP 200 with the destination page rendered",
+    "repro_steps": "1. Load https://www.injector.world/\n2. Click navigation link https://www.injector.world/guides/botox-cost-2026\n3. Observe the resulting page",
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/navigation/broken-guides-botox-cost-2026-20260801-175051.png",
+    "notes": "",
+    "affected_pages": [
+      "https://www.injector.world",
+      "https://www.injector.world/guides/botox-cost-2026"
+    ],
+    "created_at": "2026-08-01T17:50:51+00:00"
+  },
+  {
+    "id": "desktop-20260801-175051-16",
+    "device": "desktop",
+    "url": "https://www.injector.world/privacy",
+    "severity": "MEDIUM",
+    "title": "1 form control(s) without an accessible label",
+    "actual": "Controls missing label/aria-label/aria-labelledby/title association. Example: <input[name=?]> placeholder=First name (optional).",
+    "expected": "Every input/select/textarea has a programmatic label.",
+    "repro_steps": [
+      "Open https://www.injector.world/privacy",
+      "Inspect form controls",
+      "Observe no label association"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/a11y/privacy-inputs.png",
+    "notes": "Placeholder-only controls counted as unlabeled.",
+    "affected_pages": [
+      "https://www.injector.world/privacy"
+    ],
+    "created_at": "2026-08-01T17:50:51+00:00"
+  },
+  {
+    "id": "desktop-20260801-175103-17",
+    "device": "desktop",
+    "url": "https://www.injector.world/guides/botox-vs-filler",
+    "severity": "HIGH",
+    "title": "Broken navigation: header/footer link does not reach a valid page",
+    "actual": "Link to https://www.injector.world/guides/botox-vs-filler resolved to status 404 (final URL https://www.injector.world/guides/botox-vs-filler)",
+    "expected": "All header/footer navigation links should resolve to HTTP 200 with the destination page rendered",
+    "repro_steps": "1. Load https://www.injector.world/\n2. Click navigation link https://www.injector.world/guides/botox-vs-filler\n3. Observe the resulting page",
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/navigation/broken-guides-botox-vs-filler-20260801-175103.png",
+    "notes": "",
+    "affected_pages": [
+      "https://www.injector.world",
+      "https://www.injector.world/guides/botox-vs-filler"
+    ],
+    "created_at": "2026-08-01T17:51:03+00:00"
+  },
+  {
+    "id": "desktop-20260801-175106-18",
+    "device": "desktop",
+    "url": "https://www.injector.world/terms",
+    "severity": "MEDIUM",
+    "title": "1 form control(s) without an accessible label",
+    "actual": "Controls missing label/aria-label/aria-labelledby/title association. Example: <input[name=?]> placeholder=First name (optional).",
+    "expected": "Every input/select/textarea has a programmatic label.",
+    "repro_steps": [
+      "Open https://www.injector.world/terms",
+      "Inspect form controls",
+      "Observe no label association"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/a11y/terms-inputs.png",
+    "notes": "Placeholder-only controls counted as unlabeled.",
+    "affected_pages": [
+      "https://www.injector.world/terms"
+    ],
+    "created_at": "2026-08-01T17:51:06+00:00"
+  },
+  {
+    "id": "desktop-20260801-175115-19",
+    "device": "desktop",
+    "url": "https://www.injector.world/guides/first-time-botox",
+    "severity": "HIGH",
+    "title": "Broken navigation: header/footer link does not reach a valid page",
+    "actual": "Link to https://www.injector.world/guides/first-time-botox resolved to status 404 (final URL https://www.injector.world/guides/first-time-botox)",
+    "expected": "All header/footer navigation links should resolve to HTTP 200 with the destination page rendered",
+    "repro_steps": "1. Load https://www.injector.world/\n2. Click navigation link https://www.injector.world/guides/first-time-botox\n3. Observe the resulting page",
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/navigation/broken-guides-first-time-botox-20260801-175114.png",
+    "notes": "",
+    "affected_pages": [
+      "https://www.injector.world",
+      "https://www.injector.world/guides/first-time-botox"
+    ],
+    "created_at": "2026-08-01T17:51:15+00:00"
+  },
+  {
+    "id": "desktop-20260801-175120-20",
+    "device": "desktop",
+    "url": "https://www.injector.world/hipaa",
+    "severity": "MEDIUM",
+    "title": "1 form control(s) without an accessible label",
+    "actual": "Controls missing label/aria-label/aria-labelledby/title association. Example: <input[name=?]> placeholder=First name (optional).",
+    "expected": "Every input/select/textarea has a programmatic label.",
+    "repro_steps": [
+      "Open https://www.injector.world/hipaa",
+      "Inspect form controls",
+      "Observe no label association"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/a11y/hipaa-inputs.png",
+    "notes": "Placeholder-only controls counted as unlabeled.",
+    "affected_pages": [
+      "https://www.injector.world/hipaa"
+    ],
+    "created_at": "2026-08-01T17:51:20+00:00"
+  },
+  {
+    "id": "desktop-20260801-175126-21",
+    "device": "desktop",
+    "url": "https://www.injector.world/guides/how-to-choose-injector",
+    "severity": "HIGH",
+    "title": "Broken navigation: header/footer link does not reach a valid page",
+    "actual": "Link to https://www.injector.world/guides/how-to-choose-injector resolved to status 404 (final URL https://www.injector.world/guides/how-to-choose-injector)",
+    "expected": "All header/footer navigation links should resolve to HTTP 200 with the destination page rendered",
+    "repro_steps": "1. Load https://www.injector.world/\n2. Click navigation link https://www.injector.world/guides/how-to-choose-injector\n3. Observe the resulting page",
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/navigation/broken-guides-how-to-choose-injector-20260801-175126.png",
+    "notes": "",
+    "affected_pages": [
+      "https://www.injector.world",
+      "https://www.injector.world/guides/how-to-choose-injector"
+    ],
+    "created_at": "2026-08-01T17:51:26+00:00"
+  },
+  {
+    "id": "desktop-20260801-175136-22",
+    "device": "desktop",
+    "url": "https://www.injector.world/",
+    "severity": "LOW",
+    "title": "Load time 7653 ms",
+    "actual": "loadEventEnd=7653ms (cold, no throttle).",
+    "expected": "Page loads within a reasonable window; measured values are informational except egregious throttled loads.",
+    "repro_steps": [
+      "Cold load https://www.injector.world/ at 1920x1080",
+      "Record navigation timing loadEventEnd",
+      "Observe reported value"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/perf/home-normal.png",
+    "notes": "mode=cold, no throttle; wall_time=12727ms. Re-measured with loadEventEnd polling (T8 fix pass). Perf data only - excluded from issue list (kind=performance).",
+    "affected_pages": [
+      "https://www.injector.world/"
+    ],
+    "created_at": "2026-08-01T17:51:36+00:00",
+    "kind": "performance",
+    "load_time_ms": 7653
+  },
+  {
+    "id": "desktop-20260801-175139-23",
+    "device": "desktop",
+    "url": "https://www.injector.world/guides/is-botox-safe",
+    "severity": "HIGH",
+    "title": "Broken navigation: header/footer link does not reach a valid page",
+    "actual": "Link to https://www.injector.world/guides/is-botox-safe resolved to status 404 (final URL https://www.injector.world/guides/is-botox-safe)",
+    "expected": "All header/footer navigation links should resolve to HTTP 200 with the destination page rendered",
+    "repro_steps": "1. Load https://www.injector.world/\n2. Click navigation link https://www.injector.world/guides/is-botox-safe\n3. Observe the resulting page",
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/navigation/broken-guides-is-botox-safe-20260801-175139.png",
+    "notes": "",
+    "affected_pages": [
+      "https://www.injector.world",
+      "https://www.injector.world/guides/is-botox-safe"
+    ],
+    "created_at": "2026-08-01T17:51:39+00:00"
+  },
+  {
+    "id": "desktop-20260801-175149-24",
+    "device": "desktop",
+    "url": "https://www.injector.world/clinics",
+    "severity": "LOW",
+    "title": "Load time 10299 ms",
+    "actual": "loadEventEnd=10299ms (cold, no throttle).",
+    "expected": "Page loads within a reasonable window; measured values are informational except egregious throttled loads.",
+    "repro_steps": [
+      "Cold load https://www.injector.world/clinics at 1920x1080",
+      "Record navigation timing loadEventEnd",
+      "Observe reported value"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/perf/clinics-normal.png",
+    "notes": "mode=cold, no throttle; wall_time=12928ms. Re-measured with loadEventEnd polling (T8 fix pass). Perf data only - excluded from issue list (kind=performance).",
+    "affected_pages": [
+      "https://www.injector.world/clinics"
+    ],
+    "created_at": "2026-08-01T17:51:49+00:00",
+    "kind": "performance",
+    "load_time_ms": 10299
+  },
+  {
+    "id": "desktop-20260801-175152-25",
+    "device": "desktop",
+    "url": "https://www.injector.world/guides/masseter-botox",
+    "severity": "HIGH",
+    "title": "Broken navigation: header/footer link does not reach a valid page",
+    "actual": "Link to https://www.injector.world/guides/masseter-botox resolved to status 404 (final URL https://www.injector.world/guides/masseter-botox)",
+    "expected": "All header/footer navigation links should resolve to HTTP 200 with the destination page rendered",
+    "repro_steps": "1. Load https://www.injector.world/\n2. Click navigation link https://www.injector.world/guides/masseter-botox\n3. Observe the resulting page",
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/navigation/broken-guides-masseter-botox-20260801-175152.png",
+    "notes": "",
+    "affected_pages": [
+      "https://www.injector.world",
+      "https://www.injector.world/guides/masseter-botox"
+    ],
+    "created_at": "2026-08-01T17:51:52+00:00"
+  },
+  {
+    "id": "desktop-20260801-175201-26",
+    "device": "desktop",
+    "url": "https://www.injector.world/guides/what-is-kybella",
+    "severity": "LOW",
+    "title": "Load time 1628 ms",
+    "actual": "loadEventEnd=1628ms (cold, no throttle).",
+    "expected": "Page loads within a reasonable window; measured values are informational except egregious throttled loads.",
+    "repro_steps": [
+      "Cold load https://www.injector.world/guides/what-is-kybella at 1920x1080",
+      "Record navigation timing loadEventEnd",
+      "Observe reported value"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/perf/guides-what-is-kybella-normal.png",
+    "notes": "mode=cold, no throttle; wall_time=12697ms. Re-measured with loadEventEnd polling (T8 fix pass). Perf data only - excluded from issue list (kind=performance).",
+    "affected_pages": [
+      "https://www.injector.world/guides/what-is-kybella"
+    ],
+    "created_at": "2026-08-01T17:52:01+00:00",
+    "kind": "performance",
+    "load_time_ms": 1628
+  },
+  {
+    "id": "desktop-20260801-175204-27",
+    "device": "desktop",
+    "url": "https://www.injector.world/guides/md-vs-np-vs-rn",
+    "severity": "HIGH",
+    "title": "Broken navigation: header/footer link does not reach a valid page",
+    "actual": "Link to https://www.injector.world/guides/md-vs-np-vs-rn resolved to status 404 (final URL https://www.injector.world/guides/md-vs-np-vs-rn)",
+    "expected": "All header/footer navigation links should resolve to HTTP 200 with the destination page rendered",
+    "repro_steps": "1. Load https://www.injector.world/\n2. Click navigation link https://www.injector.world/guides/md-vs-np-vs-rn\n3. Observe the resulting page",
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/navigation/broken-guides-md-vs-np-vs-rn-20260801-175204.png",
+    "notes": "",
+    "affected_pages": [
+      "https://www.injector.world",
+      "https://www.injector.world/guides/md-vs-np-vs-rn"
+    ],
+    "created_at": "2026-08-01T17:52:04+00:00"
+  },
+  {
+    "id": "desktop-20260801-175214-28",
+    "device": "desktop",
+    "url": "https://www.injector.world/news/unapproved-injectables-online-fda-warning-june-2026",
+    "severity": "LOW",
+    "title": "Load time 4722 ms",
+    "actual": "loadEventEnd=4722ms (cold, no throttle).",
+    "expected": "Page loads within a reasonable window; measured values are informational except egregious throttled loads.",
+    "repro_steps": [
+      "Cold load https://www.injector.world/news/unapproved-injectables-online-fda-warning-june-2026 at 1920x1080",
+      "Record navigation timing loadEventEnd",
+      "Observe reported value"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/perf/news-unapproved-injectables-online-fda-warning-june-2026-normal.png",
+    "notes": "mode=cold, no throttle; wall_time=13446ms. Re-measured with loadEventEnd polling (T8 fix pass). Perf data only - excluded from issue list (kind=performance).",
+    "affected_pages": [
+      "https://www.injector.world/news/unapproved-injectables-online-fda-warning-june-2026"
+    ],
+    "created_at": "2026-08-01T17:52:14+00:00",
+    "kind": "performance",
+    "load_time_ms": 4722
+  },
+  {
+    "id": "desktop-20260801-175216-29",
+    "device": "desktop",
+    "url": "https://www.injector.world/guides/red-flags",
+    "severity": "HIGH",
+    "title": "Broken navigation: header/footer link does not reach a valid page",
+    "actual": "Link to https://www.injector.world/guides/red-flags resolved to status 404 (final URL https://www.injector.world/guides/red-flags)",
+    "expected": "All header/footer navigation links should resolve to HTTP 200 with the destination page rendered",
+    "repro_steps": "1. Load https://www.injector.world/\n2. Click navigation link https://www.injector.world/guides/red-flags\n3. Observe the resulting page",
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/navigation/broken-guides-red-flags-20260801-175215.png",
+    "notes": "",
+    "affected_pages": [
+      "https://www.injector.world",
+      "https://www.injector.world/guides/red-flags"
+    ],
+    "created_at": "2026-08-01T17:52:16+00:00"
+  },
+  {
+    "id": "desktop-20260801-175227-30",
+    "device": "desktop",
+    "url": "https://www.injector.world/brands/botox",
+    "severity": "LOW",
+    "title": "Load time 15183 ms",
+    "actual": "loadEventEnd=15183ms (cold, no throttle).",
+    "expected": "Page loads within a reasonable window; measured values are informational except egregious throttled loads.",
+    "repro_steps": [
+      "Cold load https://www.injector.world/brands/botox at 1920x1080",
+      "Record navigation timing loadEventEnd",
+      "Observe reported value"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/perf/brands-botox-normal.png",
+    "notes": "mode=cold, no throttle; wall_time=15864ms. Re-measured with loadEventEnd polling (T8 fix pass). Perf data only - excluded from issue list (kind=performance).",
+    "affected_pages": [
+      "https://www.injector.world/brands/botox"
+    ],
+    "created_at": "2026-08-01T17:52:27+00:00",
+    "kind": "performance",
+    "load_time_ms": 15183
+  },
+  {
+    "id": "desktop-20260801-175227-31",
+    "device": "desktop",
+    "url": "https://www.injector.world/services/botox",
+    "severity": "HIGH",
+    "title": "Broken navigation: header/footer link does not reach a valid page",
+    "actual": "Link to https://www.injector.world/services/botox resolved to status 404 (final URL https://www.injector.world/services/botox)",
+    "expected": "All header/footer navigation links should resolve to HTTP 200 with the destination page rendered",
+    "repro_steps": "1. Load https://www.injector.world/\n2. Click navigation link https://www.injector.world/services/botox\n3. Observe the resulting page",
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/navigation/broken-services-botox-20260801-175227.png",
+    "notes": "",
+    "affected_pages": [
+      "https://www.injector.world",
+      "https://www.injector.world/services/botox"
+    ],
+    "created_at": "2026-08-01T17:52:27+00:00"
+  },
+  {
+    "id": "desktop-20260801-175239-32",
+    "device": "desktop",
+    "url": "https://www.injector.world/services/abdomen",
+    "severity": "LOW",
+    "title": "Load time 8393 ms",
+    "actual": "loadEventEnd=8393ms (cold, no throttle).",
+    "expected": "Page loads within a reasonable window; measured values are informational except egregious throttled loads.",
+    "repro_steps": [
+      "Cold load https://www.injector.world/services/botox at 1920x1080",
+      "Record navigation timing loadEventEnd",
+      "Observe reported value"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/perf/services-abdomen-normal.png",
+    "notes": "mode=cold, no throttle; wall_time=15774ms. Re-measured with loadEventEnd polling (T8 fix pass). Perf data only - excluded from issue list (kind=performance).",
+    "affected_pages": [
+      "https://www.injector.world/services/abdomen"
+    ],
+    "created_at": "2026-08-01T17:52:39+00:00",
+    "kind": "performance",
+    "load_time_ms": 8393
+  },
+  {
+    "id": "desktop-20260801-175239-33",
+    "device": "desktop",
+    "url": "https://www.injector.world/services/dysport",
+    "severity": "HIGH",
+    "title": "Broken navigation: header/footer link does not reach a valid page",
+    "actual": "Link to https://www.injector.world/services/dysport resolved to status 404 (final URL https://www.injector.world/services/dysport)",
+    "expected": "All header/footer navigation links should resolve to HTTP 200 with the destination page rendered",
+    "repro_steps": "1. Load https://www.injector.world/\n2. Click navigation link https://www.injector.world/services/dysport\n3. Observe the resulting page",
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/navigation/broken-services-dysport-20260801-175239.png",
+    "notes": "",
+    "affected_pages": [
+      "https://www.injector.world",
+      "https://www.injector.world/services/dysport"
+    ],
+    "created_at": "2026-08-01T17:52:39+00:00"
+  },
+  {
+    "id": "desktop-20260801-175251-34",
+    "device": "desktop",
+    "url": "https://www.injector.world/services/sculptra",
+    "severity": "HIGH",
+    "title": "Broken navigation: header/footer link does not reach a valid page",
+    "actual": "Link to https://www.injector.world/services/sculptra resolved to status 404 (final URL https://www.injector.world/services/sculptra)",
+    "expected": "All header/footer navigation links should resolve to HTTP 200 with the destination page rendered",
+    "repro_steps": "1. Load https://www.injector.world/\n2. Click navigation link https://www.injector.world/services/sculptra\n3. Observe the resulting page",
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/navigation/broken-services-sculptra-20260801-175251.png",
+    "notes": "",
+    "affected_pages": [
+      "https://www.injector.world",
+      "https://www.injector.world/services/sculptra"
+    ],
+    "created_at": "2026-08-01T17:52:51+00:00"
+  },
+  {
+    "id": "desktop-20260801-175252-35",
+    "device": "desktop",
+    "url": "https://www.injector.world/california/los-angeles-ca",
+    "severity": "LOW",
+    "title": "Load time 3370 ms",
+    "actual": "loadEventEnd=3370ms (cold, no throttle).",
+    "expected": "Page loads within a reasonable window; measured values are informational except egregious throttled loads.",
+    "repro_steps": [
+      "Cold load https://www.injector.world/california/los-angeles-ca at 1920x1080",
+      "Record navigation timing loadEventEnd",
+      "Observe reported value"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/perf/california-los-angeles-ca-normal.png",
+    "notes": "mode=cold, no throttle; wall_time=13388ms. Re-measured with loadEventEnd polling (T8 fix pass). Perf data only - excluded from issue list (kind=performance).",
+    "affected_pages": [
+      "https://www.injector.world/california/los-angeles-ca"
+    ],
+    "created_at": "2026-08-01T17:52:52+00:00",
+    "kind": "performance",
+    "load_time_ms": 3370
+  },
+  {
+    "id": "desktop-20260801-175305-36",
+    "device": "desktop",
+    "url": "https://www.injector.world/about",
+    "severity": "LOW",
+    "title": "Load time 1287 ms",
+    "actual": "loadEventEnd=1287ms (cold, no throttle).",
+    "expected": "Page loads within a reasonable window; measured values are informational except egregious throttled loads.",
+    "repro_steps": [
+      "Cold load https://www.injector.world/about at 1920x1080",
+      "Record navigation timing loadEventEnd",
+      "Observe reported value"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/perf/about-normal.png",
+    "notes": "mode=cold, no throttle; wall_time=12430ms. Re-measured with loadEventEnd polling (T8 fix pass). Perf data only - excluded from issue list (kind=performance).",
+    "affected_pages": [
+      "https://www.injector.world/about"
+    ],
+    "created_at": "2026-08-01T17:53:05+00:00",
+    "kind": "performance",
+    "load_time_ms": 1287
+  },
+  {
+    "id": "desktop-20260801-175323-38",
+    "device": "desktop",
+    "url": "https://www.injector.world/",
+    "severity": "HIGH",
+    "title": "Load time 31779 ms [EGREGIOUS]",
+    "actual": "loadEventEnd=31779ms (throttled (Slow 4G + 4x CPU)).",
+    "expected": "Page loads within a reasonable window; measured values are informational except egregious throttled loads.",
+    "repro_steps": [
+      "Cold load https://www.injector.world/ at 1920x1080",
+      "Record navigation timing loadEventEnd",
+      "Observe reported value"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/perf/home-throttled.png",
+    "notes": "mode=throttled (Slow 4G + 4x CPU); wall_time=32044ms. Re-measured with loadEventEnd polling (T8 fix pass). Perf data only - excluded from issue list (kind=performance). Exceeds 15s threshold on throttled pass -> HIGH.",
+    "affected_pages": [
+      "https://www.injector.world/"
+    ],
+    "created_at": "2026-08-01T17:53:23+00:00",
+    "kind": "performance",
+    "load_time_ms": 31779
+  },
+  {
+    "id": "desktop-20260801-175339-39",
+    "device": "desktop",
+    "url": "https://www.injector.world/clinics",
+    "severity": "HIGH",
+    "title": "Load time 30161 ms [EGREGIOUS]",
+    "actual": "loadEventEnd=30161ms (throttled (Slow 4G + 4x CPU)).",
+    "expected": "Page loads within a reasonable window; measured values are informational except egregious throttled loads.",
+    "repro_steps": [
+      "Cold load https://www.injector.world/clinics at 1920x1080",
+      "Record navigation timing loadEventEnd",
+      "Observe reported value"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/perf/clinics-throttled.png",
+    "notes": "mode=throttled (Slow 4G + 4x CPU); wall_time=30671ms. Re-measured with loadEventEnd polling (T8 fix pass). Perf data only - excluded from issue list (kind=performance). Exceeds 15s threshold on throttled pass -> HIGH.",
+    "affected_pages": [
+      "https://www.injector.world/clinics"
+    ],
+    "created_at": "2026-08-01T17:53:39+00:00",
+    "kind": "performance",
+    "load_time_ms": 30161
+  },
+  {
+    "id": "desktop-20260801-175353-40",
+    "device": "desktop",
+    "url": "https://www.injector.world/guides/what-is-kybella",
+    "severity": "HIGH",
+    "title": "Load time 19326 ms [EGREGIOUS]",
+    "actual": "loadEventEnd=19326ms (throttled (Slow 4G + 4x CPU)).",
+    "expected": "Page loads within a reasonable window; measured values are informational except egregious throttled loads.",
+    "repro_steps": [
+      "Cold load https://www.injector.world/guides/what-is-kybella at 1920x1080",
+      "Record navigation timing loadEventEnd",
+      "Observe reported value"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/perf/guides-what-is-kybella-throttled.png",
+    "notes": "mode=throttled (Slow 4G + 4x CPU); wall_time=20545ms. Re-measured with loadEventEnd polling (T8 fix pass). Perf data only - excluded from issue list (kind=performance). Exceeds 15s threshold on throttled pass -> HIGH.",
+    "affected_pages": [
+      "https://www.injector.world/guides/what-is-kybella"
+    ],
+    "created_at": "2026-08-01T17:53:53+00:00",
+    "kind": "performance",
+    "load_time_ms": 19326
+  },
+  {
+    "id": "desktop-20260801-180018-41",
+    "device": "desktop",
+    "url": "https://www.injector.world/search?q=Botox&location=462042%2C+Bhopal%2C+MP",
+    "severity": "HIGH",
+    "title": "Search returns 0 results for a valid brand query (Botox)",
+    "actual": "Searching 'Botox' on the directory search returned '0 results'; page context: ' an Injector Red Flags Before Booking Botox vs Filler Browse all guides SEARCH Botox injectors in 462042, Bhopal, MP 0 results across providers and clinics. Search TOP RESULTS SERV'. Site simultaneously claims 17,020+ verified clinics.",
+    "expected": "A valid brand query like 'Botox' should return matching clinics/injectors given the site's 17,020+ clinics claim",
+    "repro_steps": "1. Load homepage\n2. Type 'Botox' in the directory search\n3. Click Search\n4. Observe the results count",
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/search/variant-botox-20260801-180017.png",
+    "notes": "Consistent with the empty clinics directory (0 verified clinics on /clinics and homepage).",
+    "affected_pages": [
+      "https://www.injector.world",
+      "https://www.injector.world/search?q=Botox&location=462042%2C+Bhopal%2C+MP"
+    ],
+    "created_at": "2026-08-01T18:00:18+00:00"
+  },
+  {
+    "id": "desktop-20260801-180803-44",
+    "device": "desktop",
+    "url": "https://www.injector.world",
+    "severity": "CRITICAL",
+    "title": "Homepage claims 17,020+ clinics / 12,400+ injectors while directory shows zero results and test clinics",
+    "actual": "The homepage renders the stats band 'LIVE 17,020+' and hero '12,400+ VERIFIED INJECTORS' / '4 YEARS INDEPENDENT', yet the clinics directory shows 'No verified clinics or injectors match.'. The 'Featured Clinics' (TOP AESTHETIC CLINICS) section lists test fixtures including ['Test Clinic', 'ABCD Clinic', \"Rishav's Clinic\"] alongside real-looking clinic names.",
+    "expected": "Production claims about verified clinics/injectors must match the data the directory actually renders, and no test fixtures may appear as featured clinics",
+    "repro_steps": "1. Load the homepage\n2. Read the LIVE stats band and hero claims\n3. Scroll to the clinics directory and Featured Clinics section",
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/empty-state/data-consistency-final-180753.png",
+    "notes": "Medical-directory context: a user seeing '17,020+ verified clinics' + '12,400+ verified injectors' while the directory returns 'No verified clinics or injectors match.' and surfaces test listings ('Test Clinic', 'ABCD Clinic', 'Rishav's Clinic') is materially misled \u2014 including risk of booking a fake/test listing.",
+    "affected_pages": [
+      "https://www.injector.world",
+      "https://www.injector.world/search",
+      "https://www.injector.world/states",
+      "https://www.injector.world/clinics",
+      "https://www.injector.world/"
+    ],
+    "created_at": "2026-08-01T18:08:03+00:00"
+  },
+  {
+    "id": "desktop-20260801-181039-55",
+    "device": "desktop",
+    "url": "https://www.injector.world/",
+    "severity": "MEDIUM",
+    "title": "Stats counters render as '0+' (zero state) on homepage",
+    "actual": "counter elements with only zero values: ['0', '0', '0', '0', '0', '0', '0']",
+    "expected": "stats counters should display real aggregated numbers",
+    "repro_steps": "1. Open https://www.injector.world/\n2. Inspect the stats section\n3. Observe counters stuck at 0+",
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/home/20260801-174712-viewport.png",
+    "notes": "DOM captured during T5 desktop crawl; final triage deferred to T6/T7.\nVerified OK by T7: scroll-triggered count-up animation renders 17,020+/10+/2767+/31+/20+/4yrs after scroll+3s. Pre-scroll '0+' is the animation start state, not a defect.",
+    "affected_pages": [
+      "https://www.injector.world/"
+    ],
+    "created_at": "2026-08-01T18:10:39+00:00",
+    "status": "not_reproducible"
+  },
+  {
+    "id": "desktop-20260801-181612-56",
+    "device": "desktop",
+    "url": "https://www.injector.world/news",
+    "severity": "MEDIUM",
+    "title": "News article images missing (404 via _next/image) on news listing + articles",
+    "actual": "31 broken <img> references to missing /images/news/* assets (https://www.injector.world/news + https://www.injector.world/news/unapproved-injectables-online-fda-warning-june-2026 + https://www.injector.world/news/peptide-reclassification-pharmacist-reality-check-june-2026 + https://www.injector.world/news/compounded-glp1-comment-deadline-june-2026 + https://www.injector.world/news/cagrisema-diabetes-data-fda-decision-june-2026 + https://www.injector.world/news/post-glp1-restoration-aesthetics-june-2026 + https://www.injector.world/news/how-to-vet-injector-product-2026 + https://www.injector.world/news/natural-subtle-results-aesthetics-2026 + https://www.injector.world/news/prejuvenation-baby-botox-preventative-2026 + https://www.injector.world/news/us-toxin-landscape-approved-pending-june-2026 + https://www.injector.world/news/regenerative-injectables-polynucleotides-biostimulators-june-2026)",
+    "expected": "news cards and article bodies render their images",
+    "repro_steps": "1. Open https://www.injector.world/news\n2. Observe 21 broken images (full-page capture)\n3. Open any news article and observe the same missing assets",
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/news/20260801-174857-viewport.png",
+    "notes": "All failures go through the Next.js image optimizer (_next/image?url=.../images/news/*.jpg&w=3840&q=75). Worst on the /news listing (21 broken images).",
+    "affected_pages": [
+      "https://www.injector.world/news",
+      "https://www.injector.world/news/unapproved-injectables-online-fda-warning-june-2026",
+      "https://www.injector.world/news/peptide-reclassification-pharmacist-reality-check-june-2026",
+      "https://www.injector.world/news/compounded-glp1-comment-deadline-june-2026",
+      "https://www.injector.world/news/cagrisema-diabetes-data-fda-decision-june-2026",
+      "https://www.injector.world/news/post-glp1-restoration-aesthetics-june-2026",
+      "https://www.injector.world/news/how-to-vet-injector-product-2026",
+      "https://www.injector.world/news/natural-subtle-results-aesthetics-2026",
+      "https://www.injector.world/news/prejuvenation-baby-botox-preventative-2026",
+      "https://www.injector.world/news/us-toxin-landscape-approved-pending-june-2026",
+      "https://www.injector.world/news/regenerative-injectables-polynucleotides-biostimulators-june-2026"
+    ],
+    "created_at": "2026-08-01T18:16:12+00:00"
+  },
+  {
+    "id": "desktop-20260801-181612-57",
+    "device": "desktop",
+    "url": "https://www.injector.world/",
+    "severity": "MEDIUM",
+    "title": "Broken media.alle.com CDN images across brand/service/city pages",
+    "actual": "216 broken <img> references resolved through the media.alle.com image CDN (c_crop transform)",
+    "expected": "CDN-hosted imagery (brand/service/city listings) should render",
+    "repro_steps": "1. Open any brand (e.g. /brands/botox), service (e.g. /services/abdomen) or state page (e.g. /new-york)\n2. Observe broken images served via media.alle.com",
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/home/20260801-174712-viewport.png",
+    "notes": "Affects 21 of 67 crawled pages incl. homepage and /clinics. 216 broken instances total. Also visible as repeated media.alle.com request failures in the crawl log.",
+    "affected_pages": [
+      "https://www.injector.world/",
+      "https://www.injector.world/clinics",
+      "https://www.injector.world/brands/botox",
+      "https://www.injector.world/brands/kybella",
+      "https://www.injector.world/services/abdomen",
+      "https://www.injector.world/services/back-includes-bra-fat",
+      "https://www.injector.world/services/breast",
+      "https://www.injector.world/services/buttock",
+      "https://www.injector.world/services/calves",
+      "https://www.injector.world/services/cheek-filler",
+      "https://www.injector.world/services/chin-filler",
+      "https://www.injector.world/california",
+      "https://www.injector.world/california/los-angeles-ca",
+      "https://www.injector.world/colorado",
+      "https://www.injector.world/florida",
+      "https://www.injector.world/florida/miami-fl",
+      "https://www.injector.world/illinois",
+      "https://www.injector.world/illinois/chicago-il",
+      "https://www.injector.world/new-york",
+      "https://www.injector.world/new-york/new-york-ny",
+      "https://www.injector.world/texas"
+    ],
+    "created_at": "2026-08-01T18:16:12+00:00"
+  },
+  {
+    "id": "desktop-20260801-181629-58",
+    "device": "desktop",
+    "url": "https://www.injector.world/services/abdomen",
+    "severity": "MEDIUM",
+    "title": "Broken Google Places photo thumbnails on service/city listings",
+    "actual": "7 broken <img> references to expired/blocked lh3.googleusercontent.com/gps-cs-s/* photo URLs",
+    "expected": "clinic/provider photos from Google Places should render",
+    "repro_steps": "1. Open a service or state/city listing that shows provider photos (e.g. /services/abdomen, /florida/miami-fl)\n2. Observe broken image placeholders for Google Places photos",
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/services-abdomen/20260801-180508-viewport.png",
+    "notes": "gps-cs-s URLs are signed Google Place photo references that have expired or been revoked; no refresh/fallback logic observed.",
+    "affected_pages": [
+      "https://www.injector.world/services/abdomen",
+      "https://www.injector.world/services/back-includes-bra-fat",
+      "https://www.injector.world/services/buttock",
+      "https://www.injector.world/florida",
+      "https://www.injector.world/florida/miami-fl",
+      "https://www.injector.world/illinois"
+    ],
+    "created_at": "2026-08-01T18:16:29+00:00"
+  },
+  {
+    "id": "desktop-20260801-181649-59",
+    "device": "desktop",
+    "url": "https://www.injector.world/news",
+    "severity": "MEDIUM",
+    "title": "23 console errors on /news listing page",
+    "actual": "23 console errors recorded during load (page still renders, but with broken images and JS errors)",
+    "expected": "no console errors on a core listing page",
+    "repro_steps": "1. Open https://www.injector.world/news with devtools console open\n2. Reload\n3. Observe 23 console errors (largest count of any crawled page; next worst is 6 on a 404 page)",
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/desktop/news/20260801-174857-viewport.png",
+    "notes": "Consistent with the broken news-image finding on the same page; errors are mostly image-optimizer/asset failures.",
+    "affected_pages": [
+      "https://www.injector.world/news"
+    ],
+    "created_at": "2026-08-01T18:16:49+00:00"
+  },
+  {
+    "id": "desktop-t6-1785611129-1",
+    "device": "desktop",
+    "url": "https://www.injector.world/guides/what-is-kybella",
+    "severity": "LOW",
+    "title": "Duplicate newsletter signup block rendered on guide/news article pages (pre-footer CTA + footer form)",
+    "actual": "Article pages (guides, news) render two identical email-newsletter signup forms ~200px apart: a dedicated pre-footer section ('Get more guides like this in your inbox.' / 'Get the latest news in your inbox.') AND a second newsletter card inside the page footer, both with the identical confirmation line 'You will receive a confirmation email. Unsubscribe anytime.' The pre-footer section is ~380px tall and sits directly above the footer's own newsletter box, so users scrolling to the bottom see the same signup twice back-to-back.",
+    "expected": "One newsletter signup per page (either in-content or in footer), not both.",
+    "repro_steps": [
+      "Open a guide article (e.g. https://www.injector.world/guides/what-is-kybella) on desktop.",
+      "Scroll to the bottom of the article.",
+      "Observe the newsletter section above the footer, then the second newsletter form inside the footer.",
+      "Note both forms show the same 'You will receive a confirmation email. Unsubscribe anytime.' caption."
+    ],
+    "screenshot_path": "evidence/desktop/guides-what-is-kybella/20260801-175536-newsletter-dup-crop.png",
+    "notes": "Verified live via DOM (2 email forms present, footer=1 pre-footer+1 in-footer) and via evidence crop. Affects all guide and news article templates.",
+    "affected_pages": [
+      "https://www.injector.world/guides/botox-vs-xeomin",
+      "https://www.injector.world/guides/how-to-get-rid-of-a-double-chin",
+      "https://www.injector.world/guides/kybella-cost",
+      "https://www.injector.world/guides/kybella-side-effects",
+      "https://www.injector.world/guides/kybella-vs-coolsculpting",
+      "https://www.injector.world/guides/neuromodulators-compared",
+      "https://www.injector.world/guides/sculptra-vs-filler",
+      "https://www.injector.world/guides/what-is-kybella",
+      "https://www.injector.world/guides/what-is-sculptra",
+      "https://www.injector.world/guides/what-is-xeomin",
+      "https://www.injector.world/news/cagrisema-diabetes-data-fda-decision-june-2026",
+      "https://www.injector.world/news/compounded-glp1-comment-deadline-june-2026",
+      "https://www.injector.world/news/how-to-vet-injector-product-2026",
+      "https://www.injector.world/news/natural-subtle-results-aesthetics-2026",
+      "https://www.injector.world/news/peptide-reclassification-pharmacist-reality-check-june-2026",
+      "https://www.injector.world/news/post-glp1-restoration-aesthetics-june-2026",
+      "https://www.injector.world/news/prejuvenation-baby-botox-preventative-2026",
+      "https://www.injector.world/news/regenerative-injectables-polynucleotides-biostimulators-june-2026",
+      "https://www.injector.world/news/unapproved-injectables-online-fda-warning-june-2026",
+      "https://www.injector.world/news/us-toxin-landscape-approved-pending-june-2026"
+    ],
+    "created_at": "2026-08-01T19:05:29+00:00"
+  },
+  {
+    "id": "desktop-t6-1785611129-2",
+    "device": "desktop",
+    "url": "https://www.injector.world/",
+    "severity": "LOW",
+    "title": "Duplicated footer disclaimer line 'Information here is editorial...' (NOT reproduced on desktop)",
+    "actual": "Homepage footer shows the disclaimer line exactly once in the rendered footer (only 1 visible occurrence). A second occurrence exists in the DOM only as an md:hidden mobile-only <p> and as the same sentence inside the article sidebar disclaimer box on guide pages (different component).",
+    "expected": "No duplicate footer disclaimer visible on desktop.",
+    "repro_steps": [
+      "Open https://www.injector.world/ on desktop.",
+      "Inspect footer text occurrences.",
+      "Count visible instances of 'Information here is editorial and not medical advice.'"
+    ],
+    "screenshot_path": "evidence/desktop/home/20260801-174712-full.png",
+    "notes": "T5 already recorded count=1; re-verified live 2026-08-02: visible desktop count=1 (2nd match is hidden mobile variant).",
+    "affected_pages": [
+      "https://www.injector.world/"
+    ],
+    "created_at": "2026-08-01T19:05:29+00:00",
+    "status": "not_reproducible"
+  },
+  {
+    "id": "desktop-t6-1785611129-3",
+    "device": "desktop",
+    "url": "https://www.injector.world/",
+    "severity": "LOW",
+    "title": "Empty Instagram/TikTok social anchors (NOT reproduced on desktop)",
+    "actual": "Both footer social links are populated: the Instagram anchor and the TikTok anchor each contain a 15x15 inline SVG icon and a proper aria-label ('Instagram' / 'TikTok'). No empty anchors found in footer or elsewhere.",
+    "expected": "Social anchors render an icon and an accessible name.",
+    "repro_steps": [
+      "Open https://www.injector.world/ on desktop.",
+      "Inspect footer social links (a[href*='instagram'], a[href*='tiktok']).",
+      "Observe each has an <svg> icon and aria-label."
+    ],
+    "screenshot_path": "evidence/desktop/home/20260801-174712-full.png",
+    "notes": "Re-verified live 2026-08-02: both anchors have inline SVG (15x15) + aria-label. T5 reached the same conclusion.",
+    "affected_pages": [
+      "https://www.injector.world/"
+    ],
+    "created_at": "2026-08-01T19:05:29+00:00",
+    "status": "not_reproducible"
+  },
+  {
+    "id": "mobile-t9-1785640579-50",
+    "device": "iphone-13, pixel-7",
+    "url": "https://www.injector.world/services/botox",
+    "severity": "HIGH",
+    "title": "Broken links on mobile (12 URLs 404)",
+    "actual": "On both iPhone 13 and Pixel 7 emulation, 12 header/footer navigation links resolve to HTTP 404 (verified live by status check: /guides/{botox,botox-cost-2026,botox-vs-filler,first-time-botox,how-to-choose-injector,is-botox-safe,masseter-botox,md-vs-np-vs-rn,red-flags} and /services/{botox,dysport,sculptra}). The mobile crawl manifest records status=404 for /services/botox on both devices.",
+    "expected": "All header/footer navigation links should resolve to HTTP 200 and render the destination page on mobile.",
+    "repro_steps": "1. Open https://www.injector.world/ in the iPhone 13 mobile viewport.\n2. Tap header/footer links to /guides/botox, /guides/botox-cost-2026, /guides/botox-vs-filler, /guides/first-time-botox, /guides/how-to-choose-injector, /guides/is-botox-safe, /guides/masseter-botox, /guides/md-vs-np-vs-rn, /guides/red-flags, /services/botox, /services/dysport, /services/sculptra.\n3. Observe each destination returns a 404 page.",
+    "screenshot_path": "evidence/iphone-13/services-botox/20260802-025417-viewport.png",
+    "notes": "Same 12 dead URLs already filed on desktop (HIGH 'Broken navigation' findings, e.g. desktop-20260801-175227-31 for /services/botox). All 12 confirmed 404 via curl status check on 2026-08-02. One consolidated finding for both mobile devices.",
+    "affected_pages": [
+      "https://www.injector.world/guides/botox",
+      "https://www.injector.world/guides/botox-cost-2026",
+      "https://www.injector.world/guides/botox-vs-filler",
+      "https://www.injector.world/guides/first-time-botox",
+      "https://www.injector.world/guides/how-to-choose-injector",
+      "https://www.injector.world/guides/is-botox-safe",
+      "https://www.injector.world/guides/masseter-botox",
+      "https://www.injector.world/guides/md-vs-np-vs-rn",
+      "https://www.injector.world/guides/red-flags",
+      "https://www.injector.world/services/botox",
+      "https://www.injector.world/services/dysport",
+      "https://www.injector.world/services/sculptra"
+    ],
+    "also_present_on": "desktop",
+    "created_at": "2026-08-02T02:00:00+00:00"
+  },
+  {
+    "id": "mobile-t9-1785640579-51",
+    "device": "iphone-13, pixel-7",
+    "url": "https://www.injector.world/",
+    "severity": "CRITICAL",
+    "title": "Mobile: homepage claims 17,020+ clinics while directory shows 'No verified clinics or injectors match.'",
+    "actual": "On mobile (iPhone 13 / Pixel 7), the homepage renders the stats band 'LIVE 17,020+' / '12,400+ VERIFIED INJECTORS' while the clinics directory below shows the empty state 'No verified clinics or injectors match.'",
+    "expected": "Production claims about verified clinics/injectors must match the data the directory actually renders on mobile.",
+    "repro_steps": "1. Open https://www.injector.world/ in a mobile viewport (iPhone 13).\n2. Read the LIVE stats band / hero claims.\n3. Scroll to the clinics directory and observe 'No verified clinics or injectors match.'",
+    "screenshot_path": "evidence/iphone-13/home/20260802-024255-viewport.png",
+    "notes": "Same misleading-claim defect already filed on desktop as CRITICAL (desktop-20260801-180803-44). Medical-directory context: a user seeing '17,020+ verified clinics' while the directory returns zero matches is materially misled.",
+    "affected_pages": [
+      "https://www.injector.world/"
+    ],
+    "also_present_on": "desktop",
+    "created_at": "2026-08-02T02:00:00+00:00"
+  },
+  {
+    "id": "mobile-t9-1785640579-52",
+    "device": "iphone-13, pixel-7",
+    "url": "https://www.injector.world/new-york",
+    "severity": "MEDIUM",
+    "title": "Broken images on mobile (news + state/city pages)",
+    "actual": "The mobile crawl detected broken <img> elements on /news, /new-york, /new-york/new-york-ny, /california, and /clinics on both iPhone 13 and Pixel 7. /news alone had 7 broken images per device; /new-york had 7 (iPhone 13) / 8 (Pixel 7); /new-york/new-york-ny 6; /california 5-6; /clinics 5. Failures route through the Next.js image optimizer (_next/image?url=...&w=3840&q=75) for missing /images/news/* assets and the media.alle.com image CDN.",
+    "expected": "News cards and state/city clinic listing images should render on mobile.",
+    "repro_steps": "1. Open https://www.injector.world/news in a mobile viewport.\n2. Scroll the news grid and observe broken image placeholders.\n3. Open /new-york, /new-york/new-york-ny, /california, /clinics and observe the same missing imagery.",
+    "screenshot_path": "evidence/iphone-13/new-york/20260802-025741-viewport.png",
+    "notes": "Mirrors the desktop broken-image findings (desktop-20260801-181612-56 news 404s via _next/image; desktop-20260801-181612-57 media.alle.com CDN). One consolidated mobile finding covering both devices.",
+    "affected_pages": [
+      "https://www.injector.world/news",
+      "https://www.injector.world/new-york",
+      "https://www.injector.world/new-york/new-york-ny",
+      "https://www.injector.world/california",
+      "https://www.injector.world/clinics"
+    ],
+    "also_present_on": "desktop",
+    "created_at": "2026-08-02T02:00:00+00:00"
+  },
+  {
+    "id": "mobile-t9-1785640579-53",
+    "device": "iphone-13, pixel-7",
+    "url": "https://www.injector.world/news",
+    "severity": "MEDIUM",
+    "title": "Console errors on /news (mobile: 9 per device, 18 across both)",
+    "actual": "The mobile crawl manifest records 9 console errors on /news for iPhone 13 and 9 for Pixel 7 (18 total across both devices) \u2014 the highest console-error count of any mobile-crawled page (next worst: 5-6 on article pages).",
+    "expected": "A core listing page should load with no console errors.",
+    "repro_steps": "1. Open https://www.injector.world/news with a mobile-emulated browser (iPhone 13) and devtools console open.\n2. Reload.\n3. Observe 9 console errors per device.",
+    "screenshot_path": "evidence/iphone-13/news/20260802-024420-viewport.png",
+    "notes": "Consistent with the broken news-image finding on the same page (image-optimizer/asset failures). Desktop /news had 23 console errors (desktop-20260801-181649-59). One consolidated mobile finding for both devices.",
+    "affected_pages": [
+      "https://www.injector.world/news"
+    ],
+    "also_present_on": "desktop",
+    "created_at": "2026-08-02T02:00:00+00:00"
+  },
+  {
+    "id": "mobile-t10-1785641370-1",
+    "device": "iphone-13, pixel-7",
+    "url": "https://www.injector.world/",
+    "severity": "MEDIUM",
+    "title": "Mobile nav menu links below recommended 44px tap-target height (18px)",
+    "actual": "On both iPhone 13 and Pixel 7, opening the hamburger menu (aria-label=\"Open menu\") expands the header nav panel; 33 of its 36 links (Botox, Dysport, Xeomin, Daxxify, Juvederm, Restylane, Sculptra, Radiesse, Kybella, Lip Filler, etc.) render as bare text at height 18px with 0px padding (text-[13px]). Toggle button itself is 44x44px and aria-expanded flips true/false correctly; panel fits within viewport (bottom=446 < innerHeight) with no horizontal or vertical overflow; closes via toggle re-click or Escape.",
+    "expected": "Interactive menu links should have a tap-target area of at least 44x44 CSS px (WCAG 2.5.8 / Apple HIG).",
+    "repro_steps": "1) Open https://www.injector.world/ in an iPhone 13 or Pixel 7 viewport. 2) Tap the hamburger button (aria-label=\"Open menu\", top-left). 3) Inspect the expanded nav links: text-only, 18px high, no padding. 4) Measure getBoundingClientRect().height of the menu anchors.",
+    "screenshot_path": "evidence/iphone-13/home/20260802-032122-hamburger-open.png",
+    "notes": "Global header nav renders identically on every page, so the small tap targets affect all pages. Evidence shots: evidence/iphone-13/home/20260802-032122-hamburger-open.png + evidence/pixel-7/home/20260802-032227-hamburger-open.png.",
+    "affected_pages": [
+      "https://www.injector.world/",
+      "https://www.injector.world/clinics",
+      "https://www.injector.world/clinics/utah/syracuse-ut/sinful-skin-injections-84075",
+      "https://www.injector.world/clinics/missouri/lees-summit-mo/summit-aesthetics-64064"
+    ],
+    "created_at": "2026-08-02T03:29:30+00:00"
+  },
+  {
+    "id": "mobile-t10-1785641370-2",
+    "device": "iphone-13, pixel-7",
+    "url": "https://www.injector.world/",
+    "severity": "LOW",
+    "title": "Homepage footer disclaimer NOT duplicated on mobile (1 visible instance)",
+    "actual": "Footer renders exactly one visible instance of 'Information here is editorial and not medical advice.' on iPhone 13 and Pixel 7 (desktop's second match is an md:hidden mobile <p> that stays hidden).",
+    "expected": "Exactly one visible disclaimer line.",
+    "repro_steps": "1) Open homepage in iPhone 13 / Pixel 7 viewport. 2) Scroll to footer. 3) Count visible 'Information here is editorial and not medical advice.' elements (visible = offsetParent !== null).",
+    "screenshot_path": "evidence/iphone-13/home/20260802-024255-viewport.png",
+    "notes": "not_reproducible: consistent with T5/T6/T7 desktop result; mobile <p> variant does not double-render.",
+    "affected_pages": [
+      "https://www.injector.world/"
+    ],
+    "status": "not_reproducible",
+    "created_at": "2026-08-02T03:29:30+00:00"
+  },
+  {
+    "id": "mobile-t10-1785641370-3",
+    "device": "iphone-13, pixel-7",
+    "url": "https://www.injector.world/",
+    "severity": "LOW",
+    "title": "Footer social anchors NOT empty on mobile (SVG icon + aria-label present)",
+    "actual": "Instagram and TikTok footer anchors each render a 15x15px inline SVG and have aria-label ('Instagram'/'TikTok') on iPhone 13 and Pixel 7; anchor box is 36x36px.",
+    "expected": "Social anchors expose an icon and an accessible label.",
+    "repro_steps": "1) Open homepage in mobile viewport. 2) Inspect footer <a> elements whose aria-label matches Instagram/TikTok. 3) Confirm svg child exists and aria-label is non-empty.",
+    "screenshot_path": "evidence/iphone-13/home/20260802-024255-viewport.png",
+    "notes": "not_reproducible: consistent with T5/T6 desktop result.",
+    "affected_pages": [
+      "https://www.injector.world/"
+    ],
+    "status": "not_reproducible",
+    "created_at": "2026-08-02T03:29:30+00:00"
+  },
+  {
+    "id": "mobile-t10-1785641370-4",
+    "device": "iphone-13, pixel-7",
+    "url": "https://www.injector.world/",
+    "severity": "LOW",
+    "title": "Homepage stats '0+' NOT reproduced on mobile (scroll-triggered count-up works)",
+    "actual": "After scrolling the stats band into view on iPhone 13 and Pixel 7, counters animate to real values: '17,020+ Clinics', '10+ Brands', '2767+ Markets'. Pre-scroll 0+ state is the intended count-up animation, not a defect.",
+    "expected": "Stats band shows the verified counts once scrolled into view.",
+    "repro_steps": "1) Open homepage in mobile viewport. 2) Scroll stats band into view. 3) Wait 2.5s and read counter values.",
+    "screenshot_path": "evidence/iphone-13/home/20260802-024255-viewport.png",
+    "notes": "not_reproducible: consistent with T7 desktop verification.",
+    "affected_pages": [
+      "https://www.injector.world/"
+    ],
+    "status": "not_reproducible",
+    "created_at": "2026-08-02T03:29:30+00:00"
+  },
+  {
+    "id": "mobile-t11-1785642385-1",
+    "device": "iphone-13, pixel-7",
+    "url": "https://www.injector.world/search?q=Botox&location=462042%2C+Bhopal%2C+MP",
+    "severity": "MEDIUM",
+    "title": "Mobile site-wide search returns 0 results for 'Botox' (same as desktop)",
+    "actual": "On both iPhone 13 and Pixel 7, searching 'Botox' via the directory search returns 0 results (empty state text present) \u2014 identical to the desktop behavior filed as a desktop HIGH (search returns 0 results for Botox). Botox results text: i13=\"0 results\", p7=\"0 results\".",
+    "expected": "A valid brand query like 'Botox' should return matching clinics/injectors given the site claims 17,020+ verified clinics.",
+    "repro_steps": "1) Open https://www.injector.world/ on an iPhone 13 or Pixel 7.\n2) Tap the directory search field, type 'Botox'.\n3) Tap Search.\n4) Observe the results page reports 0 results.",
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/iphone-13/t11-search/botox-results-20260802-034644.png",
+    "notes": "Matches desktop T7 HIGH 'Search returns 0 results for a valid brand query (Botox)'. Same defect on mobile => MEDIUM mobile finding with also_present_on desktop.  A valid-location query ('Austin') also returned 0 results on both devices, consistent with the empty clinics directory.",
+    "affected_pages": [
+      "https://www.injector.world",
+      "https://www.injector.world/search?q=Botox&location=462042%2C+Bhopal%2C+MP"
+    ],
+    "also_present_on": "desktop",
+    "created_at": "2026-08-02T03:53:32+00:00"
+  },
+  {
+    "id": "mobile-t11-1785642385-2",
+    "device": "iphone-13, pixel-7",
+    "url": "https://www.injector.world",
+    "severity": "HIGH",
+    "title": "Mobile nav menu treatment links are covered by overlapping content and do not navigate",
+    "actual": "On both iPhone 13 and Pixel 7, with the hamburger menu open, tapping the 'Botox' link in the panel (center y~222) does not navigate: elementFromPoint at the link center returns a different overlapping element (an in-panel 'SERVICES' accordion button), and the tap lands on https://www.injector.world/ (homepage). The 'Sculptra' link is likewise covered (by the 'FIND (Directory)' section header); tap also lands on the homepage. Menu stays open after the failed tap. Some panel links do navigate (e.g. the 'LATEST IN NEWS' marquee link -> /news/... and menu closes), so the defect is partial: primary treatment links in the covered band of the panel are not tappable. Reproduced in 3 independent runs (click probe, retest, final diagnostic).",
+    "expected": "Tapping a nav link from the opened hamburger menu should navigate to the target page and close the menu.",
+    "repro_steps": "1) Open homepage on mobile. 2) Tap hamburger (aria-label='Open menu'). 3) Tap a nav link. 4) Observe URL and menu state.",
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/iphone-13/t11-final/botox-tap-iPhone13.png",
+    "affected_pages": [
+      "https://www.injector.world",
+      "https://www.injector.world"
+    ],
+    "created_at": "2026-08-02T03:53:32+00:00",
+    "notes": "Re-tested after review. Coverage confirmed via document.elementFromPoint and raw mouse click landing on homepage (both devices). Cross-device evidence: evidence/pixel-7/t11-final/botox-tap-Pixel7.png. Original finding was a locator timeout (.nth(26)) without evidence; replaced with real observed behavior."
+  },
+  {
+    "id": "mobile-t11-1785642385-3",
+    "device": "iphone-13, pixel-7",
+    "url": "https://www.injector.world",
+    "severity": "MEDIUM",
+    "title": "Mobile footer link taps are intercepted by overlapping content; clinic card taps flaky on iPhone 13",
+    "actual": "Footer navigation links could not be navigated on either device (0/3 taps reached a footer target on iPhone 13 and Pixel 7): tapping them lands on the homepage or nothing, with elementFromPoint showing the link centers covered by other footer content ('LATEST IN NEWS' strip, 'Ask AI' block, 'Botox vs filler?' prompt chips) plus the fixed mobile bottom bar 'Find a verified clinic' (z-index 30) and floating 'Chat' button (z-index 60) overlapping the bottom viewport. Clinic card 'View' links mostly work (testclinic -> detail on both devices; abcd and rishavs -> detail on Pixel 7) but are flaky on iPhone 13 (abcd tap landed on homepage, rishavs tap landed on /clinics directory instead of the clinic detail).",
+    "expected": "Tapping clinic 'View details' cards and footer links should navigate to the destination page.",
+    "repro_steps": "1) Open homepage on mobile and scroll to the footer. 2) Tap a footer column link (e.g. 'Cheek Filler', 'List your practice'). 3) Observe that the tap does not navigate to the link target (lands on homepage or nothing).",
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/iphone-13/t11-touch/after-footer-tap-20260802-034920.png",
+    "affected_pages": [
+      "https://www.injector.world"
+    ],
+    "created_at": "2026-08-02T03:53:32+00:00",
+    "notes": "Downgraded from HIGH after re-test: clinic taps mostly navigate, so the defect is partial. Consistent both-device failure is footer links. See evidence/{iphone-13,pixel-7}/t11-final/footer-*.png and data/t11-retest-results.json. T16 (2026-08-02) live re-verification: footer links 'List your practice' (/list-your-practice), 'Cheek Filler' (/services/cheek-filler), 'Jawline Filler' (/services/jawline-filler) all navigated cleanly on BOTH iPhone 13 and Pixel 7 \u2014 elementFromPoint at each link center returned the anchor itself (not a covering element) and the tap reached the target URL. Footer-tap interception was NOT reproducible in T16. Marked not_reproducible.",
+    "status": "not_reproducible"
+  },
+  {
+    "id": "mobile-t12-1785644915-1",
+    "created_at": "2026-08-01T12:00:00+00:00",
+    "device": "iphone-13, pixel-7",
+    "url": "https://www.injector.world/",
+    "severity": "MEDIUM",
+    "title": "Newsletter 'First name' inputs without accessible label (4 instances across 3 pages)",
+    "actual": "4 placeholder-only <input placeholder=\"First name (optional)\"> with no label/aria-label/aria-labelledby/title: homepage x1, /clinics x1, guide (/guides/what-is-kybella) x2 (duplicate newsletter blocks). Found identically on iPhone 13 and Pixel 7.",
+    "expected": "Every input has a programmatic label (label[for], aria-label, aria-labelledby, or title).",
+    "repro_steps": [
+      "Open https://www.injector.world/ (iPhone 13 / Pixel 7)",
+      "Scroll to newsletter signup block",
+      "Inspect 'First name (optional)' input",
+      "Observe no label/aria-label association, placeholder only"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/iphone-13/t12-a11y/first-name-input-unlabeled.png",
+    "notes": "Mobile-specific consolidation; desktop a11y pass filed only the search-input findings, this newsletter control class was not previously filed. Affects home, /clinics, and guide newsletter forms.",
+    "affected_pages": [
+      "https://www.injector.world/",
+      "https://www.injector.world/clinics",
+      "https://www.injector.world/guides/what-is-kybella"
+    ]
+  },
+  {
+    "id": "mobile-t12-1785644915-2",
+    "created_at": "2026-08-01T12:00:00+00:00",
+    "device": "iphone-13, pixel-7",
+    "url": "https://www.injector.world/",
+    "severity": "LOW",
+    "status": "not_reproducible",
+    "title": "Landscape homepage responsive: no horizontal overflow, hamburger usable",
+    "actual": "scrollWidth==innerWidth (844 on iPhone 13, 915 on Pixel 7); hamburger toggles menu open (aria-expanded true, panel fits viewport height) on both devices.",
+    "expected": "Landscape viewport reflows without horizontal scroll; nav toggle remains usable.",
+    "repro_steps": [
+      "Open https://www.injector.world/ in landscape (844x390 / 915x412)",
+      "Check documentElement.scrollWidth vs innerWidth",
+      "Tap hamburger and confirm menu opens"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/iphone-13/t12-landscape/home-landscape.png",
+    "notes": "No clipping, no horizontal scroll, toggle opens menu on both devices.",
+    "affected_pages": [
+      "https://www.injector.world/"
+    ]
+  },
+  {
+    "id": "mobile-t12-1785644915-3",
+    "created_at": "2026-08-01T12:00:00+00:00",
+    "device": "iphone-13, pixel-7",
+    "url": "https://www.injector.world/clinics",
+    "severity": "LOW",
+    "status": "not_reproducible",
+    "title": "Landscape /clinics responsive: no horizontal overflow",
+    "actual": "scrollWidth==innerWidth (844 iPhone 13 / 915 Pixel 7) on /clinics landscape.",
+    "expected": "Landscape viewport reflows without horizontal scroll.",
+    "repro_steps": [
+      "Open https://www.injector.world/clinics in landscape (844x390 / 915x412)",
+      "Check documentElement.scrollWidth vs innerWidth"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/iphone-13/t12-landscape/clinics-landscape.png",
+    "notes": "No horizontal overflow on either device.",
+    "affected_pages": [
+      "https://www.injector.world/clinics"
+    ]
+  },
+  {
+    "id": "mobile-t12-1785644915-4",
+    "created_at": "2026-08-01T12:00:00+00:00",
+    "device": "iphone-13, pixel-7",
+    "url": "https://www.injector.world/",
+    "severity": "LOW",
+    "status": "not_reproducible",
+    "title": "Portrait->landscape orientation reflow: no horizontal overflow or overlap",
+    "actual": "After rotating homepage portrait->landscape: scrollWidth==innerWidth on both devices (844/844, 915/915); elementFromPoint grid sampling found no text-on-text overlap or clipped content.",
+    "expected": "Layout reflows on orientation change without horizontal scroll or overlapping elements.",
+    "repro_steps": [
+      "Load https://www.injector.world/ in portrait",
+      "Rotate to landscape",
+      "Check scrollWidth and tap key controls"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/iphone-13/t12-orientation/home-landscape-after-rotate.png",
+    "notes": "Same result on iPhone 13 and Pixel 7.",
+    "affected_pages": [
+      "https://www.injector.world/"
+    ]
+  },
+  {
+    "id": "mobile-t12-1785644915-5",
+    "created_at": "2026-08-01T12:00:00+00:00",
+    "device": "iphone-13",
+    "url": "https://www.injector.world/",
+    "severity": "LOW",
+    "status": "not_reproducible",
+    "title": "Contrast: no key text-over-image with failing contrast found",
+    "actual": "Sampled homepage and guide hero/large-text elements (computed color vs PIL-sampled background). Homepage hero is navy text (rgb(11,27,52)) on white section - no image underlay. Guide scan found no h1/h2/h3/p text centered over an <img> or background-image element.",
+    "expected": "Key text overlaying photos meets WCAG contrast; flag only clear failures.",
+    "repro_steps": [
+      "Load homepage and /guides/what-is-kybella on iPhone 13",
+      "Detect text elements over <img>/background-image",
+      "Sample rendered background pixels and compute contrast with text color"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/iphone-13/t12-contrast/home.png",
+    "notes": "No clear low-contrast text-over-photo case detected on the sampled pages.",
+    "affected_pages": [
+      "https://www.injector.world/",
+      "https://www.injector.world/guides/what-is-kybella"
+    ]
+  },
+  {
+    "id": "mobile-t12-1785644915-6",
+    "created_at": "2026-08-01T12:00:00+00:00",
+    "device": "iphone-13",
+    "url": "https://www.injector.world/",
+    "severity": "LOW",
+    "kind": "performance",
+    "title": "Mobile load time 9379 ms (throttled) - faster than desktop",
+    "actual": "loadEventEnd=9379ms (Slow 4G + 4x CPU); desktop same-page throttled baseline 31779ms (ratio 0.30).",
+    "expected": "Mobile load not slower than desktop throttled baseline; values are informational appendix data.",
+    "repro_steps": [
+      "Cold load https://www.injector.world/ on iphone-13 under Slow 4G (400kbps down / 75kbps up, 400ms latency) + 4x CPU throttle",
+      "Poll performance.timing.loadEventEnd until >0",
+      "Record loadEventEnd - navigationStart"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/iphone-13/perf/t12-home-throttled.png",
+    "notes": "mode=throttled; wall_time=9475ms; page weight 322776 bytes (36 resources, ~31473B _next/image). Mobile is NOT slower than desktop (31.8s) -> no perf defect; informational appendix entry.",
+    "affected_pages": [
+      "https://www.injector.world/"
+    ],
+    "load_time_ms": 9379
+  },
+  {
+    "id": "mobile-t12-1785644915-7",
+    "created_at": "2026-08-01T12:00:00+00:00",
+    "device": "iphone-13",
+    "url": "https://www.injector.world/clinics",
+    "severity": "LOW",
+    "kind": "performance",
+    "title": "Mobile load time 8993 ms (throttled) - faster than desktop",
+    "actual": "loadEventEnd=8993ms (Slow 4G + 4x CPU); desktop same-page throttled baseline 30161ms (ratio 0.30).",
+    "expected": "Mobile load not slower than desktop throttled baseline; values are informational appendix data.",
+    "repro_steps": [
+      "Cold load https://www.injector.world/clinics on iphone-13 under Slow 4G (400kbps down / 75kbps up, 400ms latency) + 4x CPU throttle",
+      "Poll performance.timing.loadEventEnd until >0",
+      "Record loadEventEnd - navigationStart"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/iphone-13/perf/t12-clinics-throttled.png",
+    "notes": "mode=throttled; wall_time=9240ms; page weight 320978 bytes (36 resources, ~44272B _next/image incl. alle.com CDN). Mobile NOT slower than desktop (30.2s); informational appendix entry.",
+    "affected_pages": [
+      "https://www.injector.world/clinics"
+    ],
+    "load_time_ms": 8993
+  },
+  {
+    "id": "mobile-t12-1785644915-8",
+    "created_at": "2026-08-01T12:00:00+00:00",
+    "device": "iphone-13",
+    "url": "https://www.injector.world/guides/what-is-kybella",
+    "severity": "LOW",
+    "kind": "performance",
+    "title": "Mobile load time 8293 ms (throttled) - faster than desktop",
+    "actual": "loadEventEnd=8293ms (Slow 4G + 4x CPU); desktop same-page throttled baseline 19326ms (ratio 0.43).",
+    "expected": "Mobile load not slower than desktop throttled baseline; values are informational appendix data.",
+    "repro_steps": [
+      "Cold load https://www.injector.world/guides/what-is-kybella on iphone-13 under Slow 4G (400kbps down / 75kbps up, 400ms latency) + 4x CPU throttle",
+      "Poll performance.timing.loadEventEnd until >0",
+      "Record loadEventEnd - navigationStart"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/iphone-13/perf/t12-guide-throttled.png",
+    "notes": "mode=throttled; wall_time=8541ms; page weight 293963 bytes (35 resources, ~31116B _next/image). Mobile NOT slower than desktop (19.3s); informational appendix entry.",
+    "affected_pages": [
+      "https://www.injector.world/guides/what-is-kybella"
+    ],
+    "load_time_ms": 8293
+  },
+  {
+    "id": "mobile-t12-1785644915-9",
+    "created_at": "2026-08-01T12:00:00+00:00",
+    "device": "iphone-13",
+    "url": "https://www.injector.world/clinics/texas/houston-tx/testclinic",
+    "severity": "LOW",
+    "kind": "performance",
+    "title": "Mobile clinic detail load time 8894 ms (throttled)",
+    "actual": "loadEventEnd=8894ms (Slow 4G + 4x CPU); no desktop same-page baseline for comparison.",
+    "expected": "Mobile load not slower than desktop throttled baseline; values are informational appendix data.",
+    "repro_steps": [
+      "Cold load https://www.injector.world/clinics/texas/houston-tx/testclinic on iphone-13 under Slow 4G (400kbps down / 75kbps up, 400ms latency) + 4x CPU throttle",
+      "Poll performance.timing.loadEventEnd until >0",
+      "Record loadEventEnd - navigationStart"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/iphone-13/perf/t12-clinic-detail-throttled.png",
+    "notes": "mode=throttled; wall_time=9146ms; page weight 318294 bytes (41 resources, ~31116B _next/image). Informational appendix entry.",
+    "affected_pages": [
+      "https://www.injector.world/clinics/texas/houston-tx/testclinic"
+    ],
+    "load_time_ms": 8894
+  },
+  {
+    "id": "mobile-t12-1785644915-10",
+    "created_at": "2026-08-01T12:00:00+00:00",
+    "device": "iphone-13",
+    "url": "https://www.injector.world/",
+    "severity": "LOW",
+    "kind": "performance",
+    "title": "Mobile homepage baseline 2580 ms (unthrottled)",
+    "actual": "loadEventEnd=2580ms (cold, no throttle); desktop cold baseline 7653ms.",
+    "expected": "Mobile load not slower than desktop throttled baseline; values are informational appendix data.",
+    "repro_steps": [
+      "Cold load https://www.injector.world/ on iphone-13 under Slow 4G (400kbps down / 75kbps up, 400ms latency) + 4x CPU throttle",
+      "Poll performance.timing.loadEventEnd until >0",
+      "Record loadEventEnd - navigationStart"
+    ],
+    "screenshot_path": "/home/heyatoy/Projects/testing/evidence/iphone-13/perf/t12-home-baseline.png",
+    "notes": "mode=cold no throttle; page weight 322419 bytes (38 resources). Mobile loads faster than desktop cold baseline; informational appendix entry.",
+    "affected_pages": [
+      "https://www.injector.world/"
+    ],
+    "load_time_ms": 2580
+  }
+]

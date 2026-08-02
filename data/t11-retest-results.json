@@ -1,0 +1,754 @@
+{
+  "iPhone 13": {
+    "device": "iPhone 13",
+    "slug": "iphone-13",
+    "shots": {
+      "nav-upper-band": "/home/heyatoy/Projects/testing/evidence/iphone-13/t11-retest-nav/after-upper-band-20260802-040505.png",
+      "nav-lower": "/home/heyatoy/Projects/testing/evidence/iphone-13/t11-retest-nav/after-lower-20260802-040513.png",
+      "clinic-testclinic": "/home/heyatoy/Projects/testing/evidence/iphone-13/t11-retest-touch/clinic-testclinic-20260802-040521.png",
+      "clinic-abcd": "/home/heyatoy/Projects/testing/evidence/iphone-13/t11-retest-touch/clinic-abcd-20260802-040527.png",
+      "clinic-rishavs-clinic": "/home/heyatoy/Projects/testing/evidence/iphone-13/t11-retest-touch/clinic-rishavs-clinic-20260802-040535.png",
+      "footer-List your pr": "/home/heyatoy/Projects/testing/evidence/iphone-13/t11-retest-touch/footer-List your pr-20260802-040538.png",
+      "footer-Cheek Filler": "/home/heyatoy/Projects/testing/evidence/iphone-13/t11-retest-touch/footer-Cheek Filler-20260802-040546.png",
+      "footer-Jawline Fill": "/home/heyatoy/Projects/testing/evidence/iphone-13/t11-retest-touch/footer-Jawline Fill-20260802-040553.png",
+      "back": "/home/heyatoy/Projects/testing/evidence/iphone-13/t11-retest-back/after-back-20260802-040607.png"
+    },
+    "nav_panel": {
+      "panel": {
+        "top": 75,
+        "bottom": 446
+      },
+      "links": [
+        {
+          "text": "LATEST IN NEWS A Pharmacists Realit",
+          "href": "https://www.injector.world/news/peptide-reclassification-pharmacist-reality-check-june-2026",
+          "top": 102,
+          "bottom": 160,
+          "centerY": 131
+        },
+        {
+          "text": "All news",
+          "href": "https://www.injector.world/news",
+          "top": 122,
+          "bottom": 140,
+          "centerY": 131
+        },
+        {
+          "text": "Botox",
+          "href": "https://www.injector.world/brands/botox",
+          "top": 229,
+          "bottom": 247,
+          "centerY": 238
+        },
+        {
+          "text": "Dysport",
+          "href": "https://www.injector.world/brands/dysport",
+          "top": 229,
+          "bottom": 247,
+          "centerY": 238
+        },
+        {
+          "text": "Xeomin",
+          "href": "https://www.injector.world/brands/xeomin",
+          "top": 255,
+          "bottom": 273,
+          "centerY": 264
+        },
+        {
+          "text": "Daxxify",
+          "href": "https://www.injector.world/brands/daxxify",
+          "top": 255,
+          "bottom": 273,
+          "centerY": 264
+        },
+        {
+          "text": "Juvederm",
+          "href": "https://www.injector.world/brands/juvederm",
+          "top": 281,
+          "bottom": 298,
+          "centerY": 289
+        },
+        {
+          "text": "Restylane",
+          "href": "https://www.injector.world/brands/restylane",
+          "top": 281,
+          "bottom": 298,
+          "centerY": 289
+        },
+        {
+          "text": "Sculptra",
+          "href": "https://www.injector.world/brands/sculptra",
+          "top": 306,
+          "bottom": 324,
+          "centerY": 315
+        },
+        {
+          "text": "Radiesse",
+          "href": "https://www.injector.world/brands/radiesse",
+          "top": 306,
+          "bottom": 324,
+          "centerY": 315
+        },
+        {
+          "text": "Kybella",
+          "href": "https://www.injector.world/brands/kybella",
+          "top": 332,
+          "bottom": 350,
+          "centerY": 341
+        },
+        {
+          "text": "Browse all brands",
+          "href": "https://www.injector.world/brands",
+          "top": 378,
+          "bottom": 396,
+          "centerY": 387
+        },
+        {
+          "text": "Lip Filler",
+          "href": "https://www.injector.world/services/lip-filler",
+          "top": 274,
+          "bottom": 292,
+          "centerY": 283
+        },
+        {
+          "text": "Cheek Filler",
+          "href": "https://www.injector.world/services/cheek-filler",
+          "top": 274,
+          "bottom": 292,
+          "centerY": 283
+        },
+        {
+          "text": "Jawline Filler",
+          "href": "https://www.injector.world/services/jawline-filler",
+          "top": 300,
+          "bottom": 318,
+          "centerY": 309
+        },
+        {
+          "text": "Tear Trough Filler",
+          "href": "https://www.injector.world/services/tear-trough",
+          "top": 300,
+          "bottom": 318,
+          "centerY": 309
+        },
+        {
+          "text": "Masseter Botox",
+          "href": "https://www.injector.world/services/masseter-botox",
+          "top": 326,
+          "bottom": 344,
+          "centerY": 335
+        },
+        {
+          "text": "Forehead Botox",
+          "href": "https://www.injector.world/services/forehead-botox",
+          "top": 326,
+          "bottom": 344,
+          "centerY": 335
+        },
+        {
+          "text": "Thread Lift",
+          "href": "https://www.injector.world/services/thread-lift",
+          "top": 352,
+          "bottom": 370,
+          "centerY": 361
+        },
+        {
+          "text": "Microneedling",
+          "href": "https://www.injector.world/services/microneedling",
+          "top": 352,
+          "bottom": 370,
+          "centerY": 361
+        },
+        {
+          "text": "PRP",
+          "href": "https://www.injector.world/services/prp",
+          "top": 378,
+          "bottom": 396,
+          "centerY": 387
+        },
+        {
+          "text": "Brow Lift",
+          "href": "https://www.injector.world/services/brow-lift",
+          "top": 378,
+          "bottom": 396,
+          "centerY": 387
+        },
+        {
+          "text": "Browse all services",
+          "href": "https://www.injector.world/services",
+          "top": 424,
+          "bottom": 442,
+          "centerY": 433
+        },
+        {
+          "text": "FIND (Directory)",
+          "href": "https://www.injector.world/states",
+          "top": 271,
+          "bottom": 317,
+          "centerY": 294
+        },
+        {
+          "text": "ALL CLINICS",
+          "href": "https://www.injector.world/clinics",
+          "top": 317,
+          "bottom": 362,
+          "centerY": 340
+        },
+        {
+          "text": "Botox Guide",
+          "href": "https://www.injector.world/guides/botox",
+          "top": 411,
+          "bottom": 429,
+          "centerY": 420
+        },
+        {
+          "text": "Lip Filler",
+          "href": "https://www.injector.world/guides/lip-filler",
+          "top": 411,
+          "bottom": 429,
+          "centerY": 420
+        },
+        {
+          "text": "First-time Botox",
+          "href": "https://www.injector.world/guides/first-time-botox",
+          "top": 437,
+          "bottom": 455,
+          "centerY": 446
+        },
+        {
+          "text": "What Botox Costs in 2026",
+          "href": "https://www.injector.world/guides/botox-cost-2026",
+          "top": 437,
+          "bottom": 455,
+          "centerY": 446
+        },
+        {
+          "text": "Is Botox Safe?",
+          "href": "https://www.injector.world/guides/is-botox-safe",
+          "top": 463,
+          "bottom": 480,
+          "centerY": 471
+        },
+        {
+          "text": "MD vs NP vs RN",
+          "href": "https://www.injector.world/guides/md-vs-np-vs-rn",
+          "top": 463,
+          "bottom": 480,
+          "centerY": 471
+        },
+        {
+          "text": "Masseter Botox",
+          "href": "https://www.injector.world/guides/masseter-botox",
+          "top": 488,
+          "bottom": 506,
+          "centerY": 497
+        },
+        {
+          "text": "How to Choose an Injector",
+          "href": "https://www.injector.world/guides/how-to-choose-injector",
+          "top": 488,
+          "bottom": 506,
+          "centerY": 497
+        },
+        {
+          "text": "Red Flags Before Booking",
+          "href": "https://www.injector.world/guides/red-flags",
+          "top": 514,
+          "bottom": 532,
+          "centerY": 523
+        },
+        {
+          "text": "Botox vs Filler",
+          "href": "https://www.injector.world/guides/botox-vs-filler",
+          "top": 514,
+          "bottom": 532,
+          "centerY": 523
+        },
+        {
+          "text": "Browse all guides",
+          "href": "https://www.injector.world/guides",
+          "top": 560,
+          "bottom": 578,
+          "centerY": 569
+        }
+      ]
+    },
+    "nav": [
+      {
+        "label": "upper-band",
+        "text": "LATEST IN NEWS A Pharmacists Realit",
+        "href": "https://www.injector.world/news/peptide-reclassification-pharmacist-reality-check-june-2026",
+        "centerY": 131,
+        "coveredBy": {
+          "tag": "H1",
+          "text": "Find Your Injector.",
+          "href": null,
+          "cls": "headline-display text-h1-m md:text-[5.5rem] text-i"
+        },
+        "result_url": "https://www.injector.world/news/peptide-reclassification-pharmacist-reality-check-june-2026",
+        "navigated": true,
+        "menu_closed": true
+      },
+      {
+        "label": "lower",
+        "text": "Sculptra",
+        "href": "https://www.injector.world/brands/sculptra",
+        "centerY": 315,
+        "coveredBy": {
+          "tag": "A",
+          "text": "FIND (Directory)",
+          "href": "https://www.injector.world/states",
+          "cls": "w-full flex items-center px-4 py-3.5 border-b bord"
+        },
+        "result_url": "https://www.injector.world/",
+        "navigated": false,
+        "menu_closed": false
+      }
+    ],
+    "touch": [
+      {
+        "type": "clinic",
+        "href": "https://www.injector.world/clinics/texas/houston-tx/testclinic",
+        "coveredBy": null,
+        "result_url": "https://www.injector.world/clinics/texas/houston-tx/testclinic",
+        "navigated": true
+      },
+      {
+        "type": "clinic",
+        "href": "https://www.injector.world/clinics/texas/houston-tx/abcd",
+        "coveredBy": null,
+        "result_url": "https://www.injector.world/",
+        "navigated": false
+      },
+      {
+        "type": "clinic",
+        "href": "https://www.injector.world/clinics/texas/houston-tx/rishavs-clinic",
+        "coveredBy": null,
+        "result_url": "https://www.injector.world/clinics",
+        "navigated": true
+      },
+      {
+        "type": "footer",
+        "text": "List your practice",
+        "href": "https://www.injector.world/list-your-practice",
+        "coveredBy": {
+          "tag": "DIV",
+          "text": "LATEST IN NEWS\nA Pharm",
+          "href": null,
+          "cls": "px-3 md:px-6 pt-2.5"
+        },
+        "result_url": null,
+        "navigated": false
+      },
+      {
+        "type": "footer",
+        "text": "Cheek Filler",
+        "href": "https://www.injector.world/services/cheek-filler",
+        "coveredBy": {
+          "tag": "FORM",
+          "text": "Ask AI",
+          "href": null,
+          "cls": "flex items-center gap-3 px-5 py-4 md:py-3.5"
+        },
+        "result_url": "https://www.injector.world/",
+        "navigated": false
+      },
+      {
+        "type": "footer",
+        "text": "Jawline Filler",
+        "href": "https://www.injector.world/services/jawline-filler",
+        "coveredBy": {
+          "tag": "BUTTON",
+          "text": "Botox vs filler?",
+          "href": null,
+          "cls": "px-3 py-1.5 rounded-pill border border-border bg-s"
+        },
+        "result_url": "https://www.injector.world/",
+        "navigated": false
+      }
+    ],
+    "backfwd": {
+      "detail_href": "https://www.injector.world/clinics/texas/houston-tx/testclinic",
+      "detail_url": "https://www.injector.world/clinics/texas/houston-tx/testclinic",
+      "back_url": "https://www.injector.world/",
+      "back_hero": true,
+      "back_ok": true
+    }
+  },
+  "Pixel 7": {
+    "device": "Pixel 7",
+    "slug": "pixel-7",
+    "shots": {
+      "nav-upper-band": "/home/heyatoy/Projects/testing/evidence/pixel-7/t11-retest-nav/after-upper-band-20260802-040620.png",
+      "nav-lower": "/home/heyatoy/Projects/testing/evidence/pixel-7/t11-retest-nav/after-lower-20260802-040628.png",
+      "clinic-testclinic": "/home/heyatoy/Projects/testing/evidence/pixel-7/t11-retest-touch/clinic-testclinic-20260802-040636.png",
+      "clinic-abcd": "/home/heyatoy/Projects/testing/evidence/pixel-7/t11-retest-touch/clinic-abcd-20260802-040642.png",
+      "clinic-rishavs-clinic": "/home/heyatoy/Projects/testing/evidence/pixel-7/t11-retest-touch/clinic-rishavs-clinic-20260802-040649.png",
+      "footer-List your pr": "/home/heyatoy/Projects/testing/evidence/pixel-7/t11-retest-touch/footer-List your pr-20260802-040652.png",
+      "footer-Cheek Filler": "/home/heyatoy/Projects/testing/evidence/pixel-7/t11-retest-touch/footer-Cheek Filler-20260802-040659.png",
+      "footer-Jawline Fill": "/home/heyatoy/Projects/testing/evidence/pixel-7/t11-retest-touch/footer-Jawline Fill-20260802-040707.png",
+      "back": "/home/heyatoy/Projects/testing/evidence/pixel-7/t11-retest-back/after-back-20260802-040719.png"
+    },
+    "nav_panel": {
+      "panel": {
+        "top": 75,
+        "bottom": 446
+      },
+      "links": [
+        {
+          "text": "LATEST IN NEWS A Pharmacists Realit",
+          "href": "https://www.injector.world/news/peptide-reclassification-pharmacist-reality-check-june-2026",
+          "top": 102,
+          "bottom": 160,
+          "centerY": 131
+        },
+        {
+          "text": "All news",
+          "href": "https://www.injector.world/news",
+          "top": 122,
+          "bottom": 140,
+          "centerY": 131
+        },
+        {
+          "text": "Botox",
+          "href": "https://www.injector.world/brands/botox",
+          "top": 229,
+          "bottom": 247,
+          "centerY": 238
+        },
+        {
+          "text": "Dysport",
+          "href": "https://www.injector.world/brands/dysport",
+          "top": 229,
+          "bottom": 247,
+          "centerY": 238
+        },
+        {
+          "text": "Xeomin",
+          "href": "https://www.injector.world/brands/xeomin",
+          "top": 255,
+          "bottom": 273,
+          "centerY": 264
+        },
+        {
+          "text": "Daxxify",
+          "href": "https://www.injector.world/brands/daxxify",
+          "top": 255,
+          "bottom": 273,
+          "centerY": 264
+        },
+        {
+          "text": "Juvederm",
+          "href": "https://www.injector.world/brands/juvederm",
+          "top": 281,
+          "bottom": 298,
+          "centerY": 289
+        },
+        {
+          "text": "Restylane",
+          "href": "https://www.injector.world/brands/restylane",
+          "top": 281,
+          "bottom": 298,
+          "centerY": 289
+        },
+        {
+          "text": "Sculptra",
+          "href": "https://www.injector.world/brands/sculptra",
+          "top": 306,
+          "bottom": 324,
+          "centerY": 315
+        },
+        {
+          "text": "Radiesse",
+          "href": "https://www.injector.world/brands/radiesse",
+          "top": 306,
+          "bottom": 324,
+          "centerY": 315
+        },
+        {
+          "text": "Kybella",
+          "href": "https://www.injector.world/brands/kybella",
+          "top": 332,
+          "bottom": 350,
+          "centerY": 341
+        },
+        {
+          "text": "Browse all brands",
+          "href": "https://www.injector.world/brands",
+          "top": 378,
+          "bottom": 396,
+          "centerY": 387
+        },
+        {
+          "text": "Lip Filler",
+          "href": "https://www.injector.world/services/lip-filler",
+          "top": 274,
+          "bottom": 292,
+          "centerY": 283
+        },
+        {
+          "text": "Cheek Filler",
+          "href": "https://www.injector.world/services/cheek-filler",
+          "top": 274,
+          "bottom": 292,
+          "centerY": 283
+        },
+        {
+          "text": "Jawline Filler",
+          "href": "https://www.injector.world/services/jawline-filler",
+          "top": 300,
+          "bottom": 318,
+          "centerY": 309
+        },
+        {
+          "text": "Tear Trough Filler",
+          "href": "https://www.injector.world/services/tear-trough",
+          "top": 300,
+          "bottom": 318,
+          "centerY": 309
+        },
+        {
+          "text": "Masseter Botox",
+          "href": "https://www.injector.world/services/masseter-botox",
+          "top": 326,
+          "bottom": 344,
+          "centerY": 335
+        },
+        {
+          "text": "Forehead Botox",
+          "href": "https://www.injector.world/services/forehead-botox",
+          "top": 326,
+          "bottom": 344,
+          "centerY": 335
+        },
+        {
+          "text": "Thread Lift",
+          "href": "https://www.injector.world/services/thread-lift",
+          "top": 352,
+          "bottom": 370,
+          "centerY": 361
+        },
+        {
+          "text": "Microneedling",
+          "href": "https://www.injector.world/services/microneedling",
+          "top": 352,
+          "bottom": 370,
+          "centerY": 361
+        },
+        {
+          "text": "PRP",
+          "href": "https://www.injector.world/services/prp",
+          "top": 378,
+          "bottom": 396,
+          "centerY": 387
+        },
+        {
+          "text": "Brow Lift",
+          "href": "https://www.injector.world/services/brow-lift",
+          "top": 378,
+          "bottom": 396,
+          "centerY": 387
+        },
+        {
+          "text": "Browse all services",
+          "href": "https://www.injector.world/services",
+          "top": 424,
+          "bottom": 442,
+          "centerY": 433
+        },
+        {
+          "text": "FIND (Directory)",
+          "href": "https://www.injector.world/states",
+          "top": 271,
+          "bottom": 317,
+          "centerY": 294
+        },
+        {
+          "text": "ALL CLINICS",
+          "href": "https://www.injector.world/clinics",
+          "top": 317,
+          "bottom": 362,
+          "centerY": 340
+        },
+        {
+          "text": "Botox Guide",
+          "href": "https://www.injector.world/guides/botox",
+          "top": 411,
+          "bottom": 429,
+          "centerY": 420
+        },
+        {
+          "text": "Lip Filler",
+          "href": "https://www.injector.world/guides/lip-filler",
+          "top": 411,
+          "bottom": 429,
+          "centerY": 420
+        },
+        {
+          "text": "First-time Botox",
+          "href": "https://www.injector.world/guides/first-time-botox",
+          "top": 437,
+          "bottom": 455,
+          "centerY": 446
+        },
+        {
+          "text": "What Botox Costs in 2026",
+          "href": "https://www.injector.world/guides/botox-cost-2026",
+          "top": 437,
+          "bottom": 455,
+          "centerY": 446
+        },
+        {
+          "text": "Is Botox Safe?",
+          "href": "https://www.injector.world/guides/is-botox-safe",
+          "top": 463,
+          "bottom": 480,
+          "centerY": 471
+        },
+        {
+          "text": "MD vs NP vs RN",
+          "href": "https://www.injector.world/guides/md-vs-np-vs-rn",
+          "top": 463,
+          "bottom": 480,
+          "centerY": 471
+        },
+        {
+          "text": "Masseter Botox",
+          "href": "https://www.injector.world/guides/masseter-botox",
+          "top": 488,
+          "bottom": 506,
+          "centerY": 497
+        },
+        {
+          "text": "How to Choose an Injector",
+          "href": "https://www.injector.world/guides/how-to-choose-injector",
+          "top": 488,
+          "bottom": 506,
+          "centerY": 497
+        },
+        {
+          "text": "Red Flags Before Booking",
+          "href": "https://www.injector.world/guides/red-flags",
+          "top": 514,
+          "bottom": 532,
+          "centerY": 523
+        },
+        {
+          "text": "Botox vs Filler",
+          "href": "https://www.injector.world/guides/botox-vs-filler",
+          "top": 514,
+          "bottom": 532,
+          "centerY": 523
+        },
+        {
+          "text": "Browse all guides",
+          "href": "https://www.injector.world/guides",
+          "top": 560,
+          "bottom": 578,
+          "centerY": 569
+        }
+      ]
+    },
+    "nav": [
+      {
+        "label": "upper-band",
+        "text": "LATEST IN NEWS A Pharmacists Realit",
+        "href": "https://www.injector.world/news/peptide-reclassification-pharmacist-reality-check-june-2026",
+        "centerY": 131,
+        "coveredBy": {
+          "tag": "H1",
+          "text": "Find Your Injector.",
+          "href": null,
+          "cls": "headline-display text-h1-m md:text-[5.5rem] text-i"
+        },
+        "result_url": "https://www.injector.world/news/peptide-reclassification-pharmacist-reality-check-june-2026",
+        "navigated": true,
+        "menu_closed": true
+      },
+      {
+        "label": "lower",
+        "text": "Sculptra",
+        "href": "https://www.injector.world/brands/sculptra",
+        "centerY": 315,
+        "coveredBy": {
+          "tag": "A",
+          "text": "FIND (Directory)",
+          "href": "https://www.injector.world/states",
+          "cls": "w-full flex items-center px-4 py-3.5 border-b bord"
+        },
+        "result_url": "https://www.injector.world/",
+        "navigated": false,
+        "menu_closed": false
+      }
+    ],
+    "touch": [
+      {
+        "type": "clinic",
+        "href": "https://www.injector.world/clinics/texas/houston-tx/testclinic",
+        "coveredBy": null,
+        "result_url": "https://www.injector.world/clinics/texas/houston-tx/testclinic",
+        "navigated": true
+      },
+      {
+        "type": "clinic",
+        "href": "https://www.injector.world/clinics/texas/houston-tx/abcd",
+        "coveredBy": null,
+        "result_url": "https://www.injector.world/clinics/texas/houston-tx/abcd",
+        "navigated": true
+      },
+      {
+        "type": "clinic",
+        "href": "https://www.injector.world/clinics/texas/houston-tx/rishavs-clinic",
+        "coveredBy": null,
+        "result_url": "https://www.injector.world/clinics/texas/houston-tx/rishavs-clinic",
+        "navigated": true
+      },
+      {
+        "type": "footer",
+        "text": "List your practice",
+        "href": "https://www.injector.world/list-your-practice",
+        "coveredBy": {
+          "tag": "DIV",
+          "text": "LATEST IN NEWS\nA Pharm",
+          "href": null,
+          "cls": "px-3 md:px-6 pt-2.5"
+        },
+        "result_url": null,
+        "navigated": false
+      },
+      {
+        "type": "footer",
+        "text": "Cheek Filler",
+        "href": "https://www.injector.world/services/cheek-filler",
+        "coveredBy": {
+          "tag": "FORM",
+          "text": "Ask AI",
+          "href": null,
+          "cls": "flex items-center gap-3 px-5 py-4 md:py-3.5"
+        },
+        "result_url": "https://www.injector.world/",
+        "navigated": false
+      },
+      {
+        "type": "footer",
+        "text": "Jawline Filler",
+        "href": "https://www.injector.world/services/jawline-filler",
+        "coveredBy": {
+          "tag": "BUTTON",
+          "text": "Botox vs filler?",
+          "href": null,
+          "cls": "px-3 py-1.5 rounded-pill border border-border bg-s"
+        },
+        "result_url": "https://www.injector.world/",
+        "navigated": false
+      }
+    ],
+    "backfwd": {
+      "detail_href": "https://www.injector.world/clinics/texas/houston-tx/testclinic",
+      "detail_url": "https://www.injector.world/clinics/texas/houston-tx/testclinic",
+      "back_url": "https://www.injector.world/",
+      "back_hero": true,
+      "back_ok": true
+    }
+  }
+}

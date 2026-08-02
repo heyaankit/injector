@@ -1,0 +1,721 @@
+{
+  "baseline": {
+    "url": "https://www.injector.world/",
+    "loadEventEnd": 1785644358876,
+    "weight": {
+      "total": 349624,
+      "count": 38,
+      "nextImageBytes": 31473,
+      "top": [
+        {
+          "n": "https://www.injector.world/_next/image?url=%2Ffooter-wordmark.png&w=640&q=75",
+          "s": 17054
+        },
+        {
+          "n": "https://www.injector.world/_next/image?url=%2Fwordmark.png&w=640&q=75",
+          "s": 9590
+        },
+        {
+          "n": "https://www.injector.world/_next/image?url=%2Ffooter-mark.png&w=96&q=75",
+          "s": 4472
+        },
+        {
+          "n": "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=1200&q=75",
+          "s": 357
+        }
+      ]
+    }
+  },
+  "landscape": [
+    {
+      "device": "iphone-13",
+      "page": "home",
+      "url": "https://www.injector.world/",
+      "scrollWidth": 844,
+      "innerWidth": 844,
+      "hOverflow": false,
+      "hamCount": 1,
+      "hamVisible": true,
+      "hamClickError": "Locator.get_attribute: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"button[aria-label=\\\"Open menu\\\"]\").first\n"
+    },
+    {
+      "device": "iphone-13",
+      "page": "clinics",
+      "url": "https://www.injector.world/clinics",
+      "scrollWidth": 844,
+      "innerWidth": 844,
+      "hOverflow": false,
+      "hamCount": 1,
+      "hamVisible": true,
+      "hamClickError": "Locator.get_attribute: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"button[aria-label=\\\"Open menu\\\"]\").first\n"
+    },
+    {
+      "device": "pixel-7",
+      "page": "home",
+      "url": "https://www.injector.world/",
+      "scrollWidth": 915,
+      "innerWidth": 915,
+      "hOverflow": false,
+      "hamCount": 1,
+      "hamVisible": true,
+      "hamClickError": "Locator.get_attribute: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"button[aria-label=\\\"Open menu\\\"]\").first\n"
+    },
+    {
+      "device": "pixel-7",
+      "page": "clinics",
+      "url": "https://www.injector.world/clinics",
+      "scrollWidth": 915,
+      "innerWidth": 915,
+      "hOverflow": false,
+      "hamCount": 1,
+      "hamVisible": true,
+      "hamClickError": "Locator.get_attribute: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"button[aria-label=\\\"Open menu\\\"]\").first\n"
+    }
+  ],
+  "orientation": [
+    {
+      "device": "iphone-13",
+      "url": "https://www.injector.world/",
+      "hOverflow": false,
+      "dims": {
+        "sw": 844,
+        "iw": 844,
+        "sh": 11866,
+        "ih": 390
+      },
+      "hits": [
+        {
+          "x": 84,
+          "y": 49,
+          "tag": "BUTTON",
+          "cls": "flex flex-col gap-[6px] w-11 h-11 items-",
+          "z": "auto",
+          "pos": "static",
+          "txt": ""
+        },
+        {
+          "x": 84,
+          "y": 146,
+          "tag": "H1",
+          "cls": "headline-display text-h1-m md:text-[5.5r",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Find Your Injector."
+        },
+        {
+          "x": 84,
+          "y": 244,
+          "tag": "P",
+          "cls": "headline-display text-lede-m md:text-[1.",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Every Treatment, Every Brand. "
+        },
+        {
+          "x": 84,
+          "y": 341,
+          "tag": "FORM",
+          "cls": "flex items-center gap-3 px-5 py-4 md:py-",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Ask AI"
+        },
+        {
+          "x": 253,
+          "y": 49,
+          "tag": "DIV",
+          "cls": "relative flex items-center justify-betwe",
+          "z": "auto",
+          "pos": "relative",
+          "txt": "Sign inList your practice"
+        },
+        {
+          "x": 253,
+          "y": 146,
+          "tag": "H1",
+          "cls": "headline-display text-h1-m md:text-[5.5r",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Find Your Injector."
+        },
+        {
+          "x": 253,
+          "y": 244,
+          "tag": "P",
+          "cls": "headline-display text-lede-m md:text-[1.",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Every Treatment, Every Brand. "
+        },
+        {
+          "x": 253,
+          "y": 341,
+          "tag": "FORM",
+          "cls": "flex items-center gap-3 px-5 py-4 md:py-",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Ask AI"
+        },
+        {
+          "x": 422,
+          "y": 49,
+          "tag": "IMG",
+          "cls": "h-[28px] w-auto",
+          "z": "auto",
+          "pos": "static",
+          "txt": ""
+        },
+        {
+          "x": 422,
+          "y": 146,
+          "tag": "H1",
+          "cls": "headline-display text-h1-m md:text-[5.5r",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Find Your Injector."
+        },
+        {
+          "x": 422,
+          "y": 244,
+          "tag": "P",
+          "cls": "headline-display text-lede-m md:text-[1.",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Every Treatment, Every Brand. "
+        },
+        {
+          "x": 422,
+          "y": 341,
+          "tag": "FORM",
+          "cls": "flex items-center gap-3 px-5 py-4 md:py-",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Ask AI"
+        },
+        {
+          "x": 591,
+          "y": 49,
+          "tag": "SPAN",
+          "cls": "hidden sm:inline",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Sign in"
+        },
+        {
+          "x": 591,
+          "y": 146,
+          "tag": "H1",
+          "cls": "headline-display text-h1-m md:text-[5.5r",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Find Your Injector."
+        },
+        {
+          "x": 591,
+          "y": 244,
+          "tag": "P",
+          "cls": "headline-display text-lede-m md:text-[1.",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Every Treatment, Every Brand. "
+        },
+        {
+          "x": 591,
+          "y": 341,
+          "tag": "FORM",
+          "cls": "flex items-center gap-3 px-5 py-4 md:py-",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Ask AI"
+        },
+        {
+          "x": 760,
+          "y": 49,
+          "tag": "DIV",
+          "cls": "flex items-center gap-1.5 md:gap-2",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Sign inList your practice"
+        },
+        {
+          "x": 760,
+          "y": 146,
+          "tag": "H1",
+          "cls": "headline-display text-h1-m md:text-[5.5r",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Find Your Injector."
+        },
+        {
+          "x": 760,
+          "y": 244,
+          "tag": "P",
+          "cls": "headline-display text-lede-m md:text-[1.",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Every Treatment, Every Brand. "
+        },
+        {
+          "x": 760,
+          "y": 341,
+          "tag": "BUTTON",
+          "cls": "fixed bottom-24 md:bottom-6 right-4 md:r",
+          "z": "60",
+          "pos": "fixed",
+          "txt": "Chat"
+        }
+      ]
+    },
+    {
+      "device": "pixel-7",
+      "url": "https://www.injector.world/",
+      "hOverflow": false,
+      "dims": {
+        "sw": 915,
+        "iw": 915,
+        "sh": 11920,
+        "ih": 412
+      },
+      "hits": [
+        {
+          "x": 92,
+          "y": 52,
+          "tag": "DIV",
+          "cls": "relative flex items-center justify-betwe",
+          "z": "auto",
+          "pos": "relative",
+          "txt": "Sign inList your practice"
+        },
+        {
+          "x": 92,
+          "y": 155,
+          "tag": "H1",
+          "cls": "headline-display text-h1-m md:text-[5.5r",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Find Your Injector."
+        },
+        {
+          "x": 92,
+          "y": 258,
+          "tag": "P",
+          "cls": "headline-display text-lede-m md:text-[1.",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Every Treatment, Every Brand. "
+        },
+        {
+          "x": 92,
+          "y": 361,
+          "tag": "DIV",
+          "cls": "relative max-w-canvas mx-auto",
+          "z": "auto",
+          "pos": "relative",
+          "txt": "Find Your Injector.Every Treat"
+        },
+        {
+          "x": 275,
+          "y": 52,
+          "tag": "DIV",
+          "cls": "relative flex items-center justify-betwe",
+          "z": "auto",
+          "pos": "relative",
+          "txt": "Sign inList your practice"
+        },
+        {
+          "x": 275,
+          "y": 155,
+          "tag": "H1",
+          "cls": "headline-display text-h1-m md:text-[5.5r",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Find Your Injector."
+        },
+        {
+          "x": 275,
+          "y": 258,
+          "tag": "P",
+          "cls": "headline-display text-lede-m md:text-[1.",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Every Treatment, Every Brand. "
+        },
+        {
+          "x": 275,
+          "y": 361,
+          "tag": "INPUT",
+          "cls": "flex-1 outline-none bg-transparent text-",
+          "z": "auto",
+          "pos": "static",
+          "txt": ""
+        },
+        {
+          "x": 458,
+          "y": 52,
+          "tag": "IMG",
+          "cls": "h-[28px] w-auto",
+          "z": "auto",
+          "pos": "static",
+          "txt": ""
+        },
+        {
+          "x": 458,
+          "y": 155,
+          "tag": "H1",
+          "cls": "headline-display text-h1-m md:text-[5.5r",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Find Your Injector."
+        },
+        {
+          "x": 458,
+          "y": 258,
+          "tag": "P",
+          "cls": "headline-display text-lede-m md:text-[1.",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Every Treatment, Every Brand. "
+        },
+        {
+          "x": 458,
+          "y": 361,
+          "tag": "INPUT",
+          "cls": "flex-1 outline-none bg-transparent text-",
+          "z": "auto",
+          "pos": "static",
+          "txt": ""
+        },
+        {
+          "x": 641,
+          "y": 52,
+          "tag": "SPAN",
+          "cls": "hidden sm:inline",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Sign in"
+        },
+        {
+          "x": 641,
+          "y": 155,
+          "tag": "H1",
+          "cls": "headline-display text-h1-m md:text-[5.5r",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Find Your Injector."
+        },
+        {
+          "x": 641,
+          "y": 258,
+          "tag": "P",
+          "cls": "headline-display text-lede-m md:text-[1.",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Every Treatment, Every Brand. "
+        },
+        {
+          "x": 641,
+          "y": 361,
+          "tag": "INPUT",
+          "cls": "flex-1 outline-none bg-transparent text-",
+          "z": "auto",
+          "pos": "static",
+          "txt": ""
+        },
+        {
+          "x": 824,
+          "y": 52,
+          "tag": "DIV",
+          "cls": "flex items-center gap-1.5 md:gap-2",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Sign inList your practice"
+        },
+        {
+          "x": 824,
+          "y": 155,
+          "tag": "H1",
+          "cls": "headline-display text-h1-m md:text-[5.5r",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Find Your Injector."
+        },
+        {
+          "x": 824,
+          "y": 258,
+          "tag": "P",
+          "cls": "headline-display text-lede-m md:text-[1.",
+          "z": "auto",
+          "pos": "static",
+          "txt": "Every Treatment, Every Brand. "
+        },
+        {
+          "x": 824,
+          "y": 361,
+          "tag": "path",
+          "cls": "[object SVGAnimatedString]",
+          "z": "auto",
+          "pos": "static",
+          "txt": ""
+        }
+      ]
+    }
+  ],
+  "a11y": [
+    {
+      "device": "iphone-13",
+      "page": "home",
+      "url": "https://www.injector.world/",
+      "unnamed": [
+        {
+          "tag": "INPUT",
+          "cls": "w-full rounded-sm border border-white/20 bg-white/10 px-4 py-2.5 text-",
+          "ph": "First name (optional)",
+          "text": "",
+          "x": 45,
+          "y": 15859,
+          "w": 300,
+          "h": 42
+        }
+      ]
+    },
+    {
+      "device": "iphone-13",
+      "page": "clinics",
+      "url": "https://www.injector.world/clinics",
+      "unnamed": [
+        {
+          "tag": "INPUT",
+          "cls": "w-full rounded-sm border border-white/20 bg-white/10 px-4 py-2.5 text-",
+          "ph": "First name (optional)",
+          "text": "",
+          "x": 45,
+          "y": 4588,
+          "w": 300,
+          "h": 42
+        }
+      ]
+    },
+    {
+      "device": "iphone-13",
+      "page": "guide",
+      "url": "https://www.injector.world/guides/what-is-kybella",
+      "unnamed": [
+        {
+          "tag": "INPUT",
+          "cls": "w-full rounded-sm border border-border bg-surface-canvas px-4 py-2.5 t",
+          "ph": "First name (optional)",
+          "text": "",
+          "x": 20,
+          "y": 8894,
+          "w": 350,
+          "h": 42
+        },
+        {
+          "tag": "INPUT",
+          "cls": "w-full rounded-sm border border-white/20 bg-white/10 px-4 py-2.5 text-",
+          "ph": "First name (optional)",
+          "text": "",
+          "x": 45,
+          "y": 9369,
+          "w": 300,
+          "h": 42
+        }
+      ]
+    },
+    {
+      "device": "pixel-7",
+      "page": "home",
+      "url": "https://www.injector.world/",
+      "unnamed": [
+        {
+          "tag": "INPUT",
+          "cls": "w-full rounded-sm border border-white/20 bg-white/10 px-4 py-2.5 text-",
+          "ph": "First name (optional)",
+          "text": "",
+          "x": 45,
+          "y": 15711,
+          "w": 322,
+          "h": 42
+        }
+      ]
+    },
+    {
+      "device": "pixel-7",
+      "page": "clinics",
+      "url": "https://www.injector.world/clinics",
+      "unnamed": [
+        {
+          "tag": "INPUT",
+          "cls": "w-full rounded-sm border border-white/20 bg-white/10 px-4 py-2.5 text-",
+          "ph": "First name (optional)",
+          "text": "",
+          "x": 45,
+          "y": 4588,
+          "w": 322,
+          "h": 42
+        }
+      ]
+    },
+    {
+      "device": "pixel-7",
+      "page": "guide",
+      "url": "https://www.injector.world/guides/what-is-kybella",
+      "unnamed": [
+        {
+          "tag": "INPUT",
+          "cls": "w-full rounded-sm border border-border bg-surface-canvas px-4 py-2.5 t",
+          "ph": "First name (optional)",
+          "text": "",
+          "x": 20,
+          "y": 8499,
+          "w": 372,
+          "h": 42
+        },
+        {
+          "tag": "INPUT",
+          "cls": "w-full rounded-sm border border-white/20 bg-white/10 px-4 py-2.5 text-",
+          "ph": "First name (optional)",
+          "text": "",
+          "x": 45,
+          "y": 8958,
+          "w": 322,
+          "h": 42
+        }
+      ]
+    }
+  ],
+  "contrast": [
+    {
+      "device": "iphone-13",
+      "page": "home",
+      "url": "https://www.injector.world/",
+      "cands": []
+    },
+    {
+      "device": "iphone-13",
+      "page": "guide",
+      "url": "https://www.injector.world/guides/what-is-kybella",
+      "cands": []
+    }
+  ],
+  "perf": [
+    {
+      "device": "iphone-13",
+      "page": "home",
+      "url": "https://www.injector.world/",
+      "loadEventEnd": 1785644541575,
+      "wall_ms": 19100,
+      "weight": {
+        "total": 349625,
+        "count": 36,
+        "nextImageBytes": 31473,
+        "top": [
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Ffooter-wordmark.png&w=640&q=75",
+            "s": 17054
+          },
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Fwordmark.png&w=640&q=75",
+            "s": 9590
+          },
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Ffooter-mark.png&w=96&q=75",
+            "s": 4472
+          },
+          {
+            "n": "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=1200&q=75",
+            "s": 357
+          }
+        ]
+      },
+      "desktop_load_ms": 31779,
+      "ratio": 56189450.32
+    },
+    {
+      "device": "iphone-13",
+      "page": "clinics",
+      "url": "https://www.injector.world/clinics",
+      "loadEventEnd": 1785644561268,
+      "wall_ms": 19300,
+      "weight": {
+        "total": 366943,
+        "count": 36,
+        "nextImageBytes": 44986,
+        "top": [
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Ffooter-wordmark.png&w=640&q=75",
+            "s": 17054
+          },
+          {
+            "n": "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fv1677619818%2F5974440b-e401-4",
+            "s": 12442
+          },
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Fwordmark.png&w=640&q=75",
+            "s": 9590
+          },
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Ffooter-mark.png&w=96&q=75",
+            "s": 4472
+          }
+        ]
+      },
+      "desktop_load_ms": 30161,
+      "ratio": 59203758.54
+    },
+    {
+      "device": "iphone-13",
+      "page": "guide",
+      "url": "https://www.injector.world/guides/what-is-kybella",
+      "loadEventEnd": 1785644583254,
+      "wall_ms": 22100,
+      "weight": {
+        "total": 381144,
+        "count": 35,
+        "nextImageBytes": 31116,
+        "top": [
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Ffooter-wordmark.png&w=640&q=75",
+            "s": 17054
+          },
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Fwordmark.png&w=640&q=75",
+            "s": 9590
+          },
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Ffooter-mark.png&w=96&q=75",
+            "s": 4472
+          }
+        ]
+      },
+      "desktop_load_ms": 19326,
+      "ratio": 92395973.47
+    },
+    {
+      "device": "iphone-13",
+      "page": "clinic-detail",
+      "url": "https://www.injector.world/clinics/texas/houston-tx/testclinic",
+      "loadEventEnd": 1785644605414,
+      "wall_ms": 21900,
+      "weight": {
+        "total": 431845,
+        "count": 41,
+        "nextImageBytes": 31116,
+        "top": [
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Ffooter-wordmark.png&w=640&q=75",
+            "s": 17054
+          },
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Fwordmark.png&w=640&q=75",
+            "s": 9590
+          },
+          {
+            "n": "https://www.injector.world/_next/image?url=%2Ffooter-mark.png&w=96&q=75",
+            "s": 4472
+          }
+        ]
+      }
+    }
+  ]
+}

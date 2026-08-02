@@ -1,0 +1,254 @@
+{
+  "iPhone 13": {
+    "device": "iPhone 13",
+    "panel": {
+      "scrollY": 0,
+      "chain": [
+        {
+          "tag": "DIV",
+          "cls": "px-2.5 pb-2.5 overflow-y-auto overscroll-cont",
+          "pos": "static",
+          "z": "auto",
+          "blur": "none"
+        },
+        {
+          "tag": "NAV",
+          "cls": "max-w-[1280px] mx-auto rounded-2xl bg-white/7",
+          "pos": "static",
+          "z": "auto",
+          "blur": "blur(24px)"
+        },
+        {
+          "tag": "DIV",
+          "cls": "px-3 md:px-6 pt-2.5",
+          "pos": "static",
+          "z": "auto",
+          "blur": "none"
+        },
+        {
+          "tag": "HEADER",
+          "cls": "sticky top-0 z-40",
+          "pos": "sticky",
+          "z": "40",
+          "blur": "none"
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "pos": "static",
+          "z": "auto",
+          "blur": "none"
+        },
+        {
+          "tag": "HTML",
+          "cls": "__variable_8b3a0b __variable_fdb222 light",
+          "pos": "static",
+          "z": "auto",
+          "blur": "none"
+        }
+      ],
+      "botoxRect": {
+        "top": 213,
+        "bottom": 231
+      },
+      "botoxCovered": {
+        "x": 112,
+        "y": 222,
+        "by": {
+          "tag": "BUTTON",
+          "text": "SERVICES",
+          "cls": "w-full flex items-center justify-between px-4 py-3"
+        }
+      }
+    },
+    "botox_tap_result": "https://www.injector.world/",
+    "footer": {
+      "fixedElements": [
+        {
+          "tag": "DIV",
+          "cls": "fixed top-0 left-0 right-0 z-[200] h-[2px] pointer-events-no",
+          "text": "",
+          "rect": {
+            "top": 0,
+            "bottom": 2,
+            "h": 2
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "md:hidden fixed bottom-3 left-3 right-3 z-30 transition-all ",
+          "text": "Find a verified clinic",
+          "rect": {
+            "top": 670,
+            "bottom": 732,
+            "h": 62
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "fixed bottom-24 md:bottom-6 right-4 md:right-6 z-[60] inline",
+          "text": "Chat",
+          "rect": {
+            "top": 524,
+            "bottom": 568,
+            "h": 44
+          }
+        }
+      ],
+      "footerFiller": [
+        {
+          "text": "Cheek Filler",
+          "rect": {
+            "top": -254,
+            "bottom": -237
+          },
+          "coveredBy": null
+        },
+        {
+          "text": "Jawline Filler",
+          "rect": {
+            "top": -194,
+            "bottom": -177
+          },
+          "coveredBy": null
+        },
+        {
+          "text": "Lip Filler",
+          "rect": {
+            "top": -164,
+            "bottom": -147
+          },
+          "coveredBy": null
+        }
+      ]
+    }
+  },
+  "Pixel 7": {
+    "device": "Pixel 7",
+    "panel": {
+      "scrollY": 0,
+      "chain": [
+        {
+          "tag": "DIV",
+          "cls": "px-2.5 pb-2.5 overflow-y-auto overscroll-cont",
+          "pos": "static",
+          "z": "auto",
+          "blur": "none"
+        },
+        {
+          "tag": "NAV",
+          "cls": "max-w-[1280px] mx-auto rounded-2xl bg-white/7",
+          "pos": "static",
+          "z": "auto",
+          "blur": "blur(24px)"
+        },
+        {
+          "tag": "DIV",
+          "cls": "px-3 md:px-6 pt-2.5",
+          "pos": "static",
+          "z": "auto",
+          "blur": "none"
+        },
+        {
+          "tag": "HEADER",
+          "cls": "sticky top-0 z-40",
+          "pos": "sticky",
+          "z": "40",
+          "blur": "none"
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "pos": "static",
+          "z": "auto",
+          "blur": "none"
+        },
+        {
+          "tag": "HTML",
+          "cls": "__variable_8b3a0b __variable_fdb222 light",
+          "pos": "static",
+          "z": "auto",
+          "blur": "none"
+        }
+      ],
+      "botoxRect": {
+        "top": 213,
+        "bottom": 231
+      },
+      "botoxCovered": {
+        "x": 117,
+        "y": 222,
+        "by": {
+          "tag": "BUTTON",
+          "text": "SERVICES",
+          "cls": "w-full flex items-center justify-between px-4 py-3"
+        }
+      }
+    },
+    "botox_tap_result": "https://www.injector.world/",
+    "footer": {
+      "fixedElements": [
+        {
+          "tag": "DIV",
+          "cls": "fixed top-0 left-0 right-0 z-[200] h-[2px] pointer-events-no",
+          "text": "",
+          "rect": {
+            "top": 0,
+            "bottom": 2,
+            "h": 2
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "md:hidden fixed bottom-3 left-3 right-3 z-30 transition-all ",
+          "text": "Find a verified clinic",
+          "rect": {
+            "top": 845,
+            "bottom": 907,
+            "h": 62
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "fixed bottom-24 md:bottom-6 right-4 md:right-6 z-[60] inline",
+          "text": "Chat",
+          "rect": {
+            "top": 699,
+            "bottom": 743,
+            "h": 44
+          }
+        }
+      ],
+      "footerFiller": [
+        {
+          "text": "Cheek Filler",
+          "rect": {
+            "top": -79,
+            "bottom": -62
+          },
+          "coveredBy": null
+        },
+        {
+          "text": "Jawline Filler",
+          "rect": {
+            "top": -19,
+            "bottom": -2
+          },
+          "coveredBy": null
+        },
+        {
+          "text": "Lip Filler",
+          "rect": {
+            "top": 11,
+            "bottom": 28
+          },
+          "coveredBy": {
+            "tag": "DIV",
+            "text": "",
+            "cls": "relative flex items-center justify-between h-[64px"
+          }
+        }
+      ]
+    }
+  }
+}

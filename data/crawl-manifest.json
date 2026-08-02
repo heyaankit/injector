@@ -1,0 +1,3466 @@
+[
+  {
+    "url": "https://www.injector.world/",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 2951,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)",
+      "3 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T17:47:12+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/clinics",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 347,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "4 console error(s)",
+      "2 failed request(s)",
+      "4 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T17:47:27+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/states",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 283,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:47:41+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 248,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:47:54+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 245,
+    "console_errors": 3,
+    "broken_images": [],
+    "issues": [
+      "3 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:48:07+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 283,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:48:20+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 329,
+    "console_errors": 23,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpeptide-reclassification-pharmacist-reality-check-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcagrisema-diabetes-data-fda-decision-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcompounded-glp1-comment-deadline-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fhow-to-vet-injector-product-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Funapproved-injectables-online-fda-warning-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fus-toxin-landscape-approved-pending-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fnatural-subtle-results-aesthetics-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fregenerative-injectables-polynucleotides-biostimulators-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fprejuvenation-baby-botox-preventative-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpost-glp1-restoration-aesthetics-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fretatrutide-triumph-data-may-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Ftelehealth-non-fda-claims-scrutiny-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fglobal-vs-us-toxin-approval-verification-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fdysport-vs-botox-head-to-head-may-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcorabotase-phase-2-lantic-data-may-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Ftirzepatide-vs-semaglutide-realworld-may-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpatient-reported-wellbeing-aesthetics-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fready-to-use-liquid-toxins-relfydess-may-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fwegovy-72mg-high-dose-fda-review-may-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpeptides-regulatory-gray-zone-may-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fmicro-botulinum-toxin-skin-quality-may-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "23 console error(s)",
+      "3 failed request(s)",
+      "21 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T17:48:33+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/how-we-verify",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 404,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:48:46+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/editorial-standards",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 521,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:48:59+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/medical-advisory",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 612,
+    "console_errors": 3,
+    "broken_images": [],
+    "issues": [
+      "3 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:49:12+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/about",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 165,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:49:25+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/list-your-practice",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 968,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:49:38+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/contact",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 474,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "4 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:49:51+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/privacy",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1587,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:50:04+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/terms",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 279,
+    "console_errors": 3,
+    "broken_images": [],
+    "issues": [
+      "3 console error(s)",
+      "4 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:50:17+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/hipaa",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1484,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:50:30+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/login",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 951,
+    "console_errors": 6,
+    "broken_images": [],
+    "issues": [
+      "6 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:50:44+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/search",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1040,
+    "console_errors": 3,
+    "broken_images": [],
+    "issues": [
+      "3 console error(s)",
+      "4 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:50:57+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/sculptra-vs-filler",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 882,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:51:11+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/what-is-sculptra",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 863,
+    "console_errors": 5,
+    "broken_images": [],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:51:24+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/kybella-side-effects",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 554,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:51:38+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/kybella-cost",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1567,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:51:52+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/kybella-vs-coolsculpting",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1218,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:52:06+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/how-to-get-rid-of-a-double-chin",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 422,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:52:19+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/what-is-kybella",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 358,
+    "console_errors": 5,
+    "broken_images": [],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:52:32+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/neuromodulators-compared",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 634,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:52:46+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/botox-vs-xeomin",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 586,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "4 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:52:59+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/what-is-xeomin",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 3073,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "4 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:53:12+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/unapproved-injectables-online-fda-warning-june-2026",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1197,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Funapproved-injectables-online-fda-warning-june-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T17:53:26+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/peptide-reclassification-pharmacist-reality-check-june-2026",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 857,
+    "console_errors": 6,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpeptide-reclassification-pharmacist-reality-check-june-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "6 console error(s)",
+      "3 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T17:53:39+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/compounded-glp1-comment-deadline-june-2026",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1128,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcompounded-glp1-comment-deadline-june-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T17:53:53+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/cagrisema-diabetes-data-fda-decision-june-2026",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 2086,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcagrisema-diabetes-data-fda-decision-june-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T17:54:06+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/post-glp1-restoration-aesthetics-june-2026",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1326,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpost-glp1-restoration-aesthetics-june-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "4 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T17:54:19+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/how-to-vet-injector-product-2026",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1321,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fhow-to-vet-injector-product-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "4 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T17:54:33+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/natural-subtle-results-aesthetics-2026",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 2157,
+    "console_errors": 6,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fnatural-subtle-results-aesthetics-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "6 console error(s)",
+      "4 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T17:54:47+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/prejuvenation-baby-botox-preventative-2026",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 3623,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fprejuvenation-baby-botox-preventative-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T17:55:02+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/us-toxin-landscape-approved-pending-june-2026",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1405,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fus-toxin-landscape-approved-pending-june-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T17:55:17+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/regenerative-injectables-polynucleotides-biostimulators-june-2026",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1153,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fregenerative-injectables-polynucleotides-biostimulators-june-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "4 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T17:55:30+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/botox",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 426,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "2 failed request(s)",
+      "12 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T17:55:44+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/daxxify",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 2537,
+    "console_errors": 3,
+    "broken_images": [],
+    "issues": [
+      "3 console error(s)",
+      "4 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:55:57+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/dysport",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 656,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "4 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:56:12+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/juvederm",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1197,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "2 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:56:25+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/kybella",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 914,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "2 failed request(s)",
+      "16 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T17:56:38+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/radiesse",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 313,
+    "console_errors": 3,
+    "broken_images": [],
+    "issues": [
+      "3 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:56:51+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/restylane",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 269,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:57:05+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/sculptra",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 371,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:57:17+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/xeomin",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 933,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:57:31+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/abdomen",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 814,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFmJzyu7_5iJ_TX2Ezf9DobSE7oQk6K1eGETvHQSR6JVMEQneGwMCxdkQGqKYQF4knAcGrn5iWQLfuCzDFaQA9R77bKmF16gxFtQJk8qCw791y3NfQ76O_OpO6F_lLtOg0NOkfqfg%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)",
+      "18 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T17:57:44+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/back-includes-bra-fat",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 835,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFmJzyu7_5iJ_TX2Ezf9DobSE7oQk6K1eGETvHQSR6JVMEQneGwMCxdkQGqKYQF4knAcGrn5iWQLfuCzDFaQA9R77bKmF16gxFtQJk8qCw791y3NfQ76O_OpO6F_lLtOg0NOkfqfg%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "2 failed request(s)",
+      "20 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T17:57:57+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/body",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1284,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:58:12+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/botox",
+    "device": "desktop",
+    "status": 404,
+    "load_time_ms": 290,
+    "console_errors": 10,
+    "broken_images": [],
+    "issues": [
+      "10 console error(s)",
+      "4 failed request(s)",
+      "bot protection suspected"
+    ],
+    "tested_at": "2026-08-01T17:58:26+00:00",
+    "bot_blocked": true
+  },
+  {
+    "url": "https://www.injector.world/services/breast",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 732,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "2 failed request(s)",
+      "13 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T17:58:39+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/brow-lift",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1601,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "4 failed request(s)"
+    ],
+    "tested_at": "2026-08-01T17:58:53+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/buttock",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 696,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAGIlkljWsQUze-vR55e1EJ9sWGa8oTT0kECXjO__PFhcfIMLtru3CLoMlLdGfatKffHtpMlNn2Qj2x5Mb9AQYEAELUp-Wa6RNuUMztu7sbjUZumMjEd6nWbVZ7xWQr7DcWPdAmb%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)",
+      "16 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T17:59:08+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/calves",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 3046,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "2 failed request(s)",
+      "10 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T17:59:21+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/cheek-filler",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 8252,
+    "console_errors": 1,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "1 console error(s)",
+      "3 failed request(s)",
+      "16 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T17:59:36+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/chin-filler",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 4337,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "2 failed request(s)",
+      "17 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T17:59:57+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/california",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1630,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)",
+      "9 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T18:00:13+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/california/los-angeles-ca",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1528,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "3 failed request(s)",
+      "2 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T18:00:27+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/colorado",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 6945,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "3 failed request(s)",
+      "9 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T18:00:42+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/florida",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 9425,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAHthiKJRiMlhqr4TEH_1MEs1qohgq4eJ7FjapEY7Ebf4KoqNUXm0CBdOiKutyUr_2d_nSwVk7IGtMTpsnH8OmqZDLlog0tJhKJMo_jYZvB9g2YZy9f9ut12v2sziLmzkeQXtwag%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAEV5K7oseyhYxRwaw2Unsd737VPY7VkuX_TWelHBRmkUuN2UYhx2SAM3UOmzGvRYyYWGFuMaaDFnPzVliVYg5sDqGKMWPUV13k-vHm0MODaahjasKY_LpTXnyVdkKq3KqMAHC61mxx1_-po%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)",
+      "13 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T18:00:57+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/florida/miami-fl",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1325,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAEV5K7oseyhYxRwaw2Unsd737VPY7VkuX_TWelHBRmkUuN2UYhx2SAM3UOmzGvRYyYWGFuMaaDFnPzVliVYg5sDqGKMWPUV13k-vHm0MODaahjasKY_LpTXnyVdkKq3KqMAHC61mxx1_-po%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "4 failed request(s)",
+      "4 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T18:01:14+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/illinois",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 5878,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAGxx9Qk4YWRpqM3ILk36Sf1RyezEAJn6tuZ_QiP45wZE2L4uNx7l2Xre20vW5pt1K4vzrxXgM6XLrMkuVjSJmkOhc0BSO8XlV3gwyRzJ6iyyD8oh75xsfligOYiI54Ecccgyb63%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "4 console error(s)",
+      "4 failed request(s)",
+      "9 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T18:01:29+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/illinois/chicago-il",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 3560,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "3 failed request(s)",
+      "2 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T18:01:44+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/new-york",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 2570,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "3 failed request(s)",
+      "14 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T18:02:00+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/new-york/new-york-ny",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 343,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "2 failed request(s)",
+      "6 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T18:02:14+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/texas",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1098,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "4 console error(s)",
+      "5 failed request(s)",
+      "10 broken image(s)"
+    ],
+    "tested_at": "2026-08-01T18:02:29+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 7469,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "4 console error(s)",
+      "4 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:42:55+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/clinics",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 122,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFPYkYVlpi0iZPXi1qsKjd8k4etghzrvq2sjZnB6TdBLe84b7-BuUi62_GMTDhIx3KKY7TfZjJZ-_8kvk1lGIZJeoeQC_pXZSwDpz2UgUio5K5FdPdj1tkySH29EfW9cRcR6o0I2jBlTOCF%3Dw1600-h1200-k-no&w=3840&q=75"
+    ],
+    "issues": [
+      "4 console error(s)",
+      "2 failed request(s)",
+      "5 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:43:14+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/states",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 161,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "2 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:43:28+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 130,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:43:41+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 115,
+    "console_errors": 3,
+    "broken_images": [],
+    "issues": [
+      "3 console error(s)",
+      "2 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:43:54+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 351,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "2 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:44:07+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 165,
+    "console_errors": 9,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpeptide-reclassification-pharmacist-reality-check-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcagrisema-diabetes-data-fda-decision-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcompounded-glp1-comment-deadline-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fhow-to-vet-injector-product-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Funapproved-injectables-online-fda-warning-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fus-toxin-landscape-approved-pending-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fnatural-subtle-results-aesthetics-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "9 console error(s)",
+      "2 failed request(s)",
+      "7 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:44:20+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/how-we-verify",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 170,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "2 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:44:34+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/editorial-standards",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 153,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:44:47+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/medical-advisory",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 159,
+    "console_errors": 3,
+    "broken_images": [],
+    "issues": [
+      "3 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:45:01+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/about",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 417,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "2 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:45:14+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/list-your-practice",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 164,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "2 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:45:27+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/contact",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 234,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:45:39+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/privacy",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 149,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:45:52+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/terms",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 151,
+    "console_errors": 3,
+    "broken_images": [],
+    "issues": [
+      "3 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:46:05+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/hipaa",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 413,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "2 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:46:18+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/login",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 513,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:46:31+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/search",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 965,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "2 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:46:44+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/sculptra-vs-filler",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 121,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:46:58+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/what-is-sculptra",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 150,
+    "console_errors": 5,
+    "broken_images": [],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:47:11+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/kybella-side-effects",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 349,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:47:25+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/kybella-cost",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 146,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:47:37+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/kybella-vs-coolsculpting",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 101,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:47:51+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/how-to-get-rid-of-a-double-chin",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 119,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:48:04+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/what-is-kybella",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 133,
+    "console_errors": 5,
+    "broken_images": [],
+    "issues": [
+      "5 console error(s)",
+      "4 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:48:17+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/neuromodulators-compared",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 407,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:48:30+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/botox-vs-xeomin",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 115,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "4 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:48:44+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/what-is-xeomin",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 119,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:48:57+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/unapproved-injectables-online-fda-warning-june-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 603,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Funapproved-injectables-online-fda-warning-june-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:49:11+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/peptide-reclassification-pharmacist-reality-check-june-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1128,
+    "console_errors": 6,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpeptide-reclassification-pharmacist-reality-check-june-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "6 console error(s)",
+      "3 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:49:24+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/compounded-glp1-comment-deadline-june-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1203,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcompounded-glp1-comment-deadline-june-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "4 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:49:37+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/cagrisema-diabetes-data-fda-decision-june-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1402,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcagrisema-diabetes-data-fda-decision-june-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:49:50+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/post-glp1-restoration-aesthetics-june-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 852,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpost-glp1-restoration-aesthetics-june-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "4 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:50:03+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/how-to-vet-injector-product-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 465,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fhow-to-vet-injector-product-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:50:16+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/natural-subtle-results-aesthetics-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 2438,
+    "console_errors": 6,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fnatural-subtle-results-aesthetics-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "6 console error(s)",
+      "5 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:50:38+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/prejuvenation-baby-botox-preventative-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1103,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fprejuvenation-baby-botox-preventative-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:50:52+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/us-toxin-landscape-approved-pending-june-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 876,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fus-toxin-landscape-approved-pending-june-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:51:06+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/regenerative-injectables-polynucleotides-biostimulators-june-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1678,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fregenerative-injectables-polynucleotides-biostimulators-june-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:51:19+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/botox",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 229,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "4 console error(s)",
+      "2 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:51:33+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/daxxify",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 980,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:51:47+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/dysport",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 757,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:52:01+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/juvederm",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1172,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "2 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:52:14+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/kybella",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 391,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "3 failed request(s)",
+      "4 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:52:29+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/radiesse",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 778,
+    "console_errors": 3,
+    "broken_images": [],
+    "issues": [
+      "3 console error(s)",
+      "2 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:52:43+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/restylane",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1943,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:52:57+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/sculptra",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 813,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "2 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:53:10+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/xeomin",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 357,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "2 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:53:24+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/abdomen",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 135,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFmJzyu7_5iJ_TX2Ezf9DobSE7oQk6K1eGETvHQSR6JVMEQneGwMCxdkQGqKYQF4knAcGrn5iWQLfuCzDFaQA9R77bKmF16gxFtQJk8qCw791y3NfQ76O_OpO6F_lLtOg0NOkfqfg%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)",
+      "4 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:53:37+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/back-includes-bra-fat",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 562,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFmJzyu7_5iJ_TX2Ezf9DobSE7oQk6K1eGETvHQSR6JVMEQneGwMCxdkQGqKYQF4knAcGrn5iWQLfuCzDFaQA9R77bKmF16gxFtQJk8qCw791y3NfQ76O_OpO6F_lLtOg0NOkfqfg%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "2 failed request(s)",
+      "4 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:53:50+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/body",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 3537,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "2 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:54:04+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/botox",
+    "device": "iPhone 13",
+    "status": 404,
+    "load_time_ms": 2714,
+    "console_errors": 3,
+    "broken_images": [],
+    "issues": [
+      "3 console error(s)",
+      "3 failed request(s)",
+      "bot protection suspected"
+    ],
+    "tested_at": "2026-08-02T02:54:17+00:00",
+    "bot_blocked": true
+  },
+  {
+    "url": "https://www.injector.world/services/breast",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 656,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "2 failed request(s)",
+      "3 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:54:33+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/brow-lift",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 2137,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:54:47+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/buttock",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 939,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAGIlkljWsQUze-vR55e1EJ9sWGa8oTT0kECXjO__PFhcfIMLtru3CLoMlLdGfatKffHtpMlNn2Qj2x5Mb9AQYEAELUp-Wa6RNuUMztu7sbjUZumMjEd6nWbVZ7xWQr7DcWPdAmb%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)",
+      "3 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:55:01+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/calves",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1650,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "3 failed request(s)",
+      "3 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:55:16+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/cheek-filler",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1060,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFPYkYVlpi0iZPXi1qsKjd8k4etghzrvq2sjZnB6TdBLe84b7-BuUi62_GMTDhIx3KKY7TfZjJZ-_8kvk1lGIZJeoeQC_pXZSwDpz2UgUio5K5FdPdj1tkySH29EfW9cRcR6o0I2jBlTOCF%3Dw1600-h1200-k-no&w=3840&q=75"
+    ],
+    "issues": [
+      "4 console error(s)",
+      "2 failed request(s)",
+      "4 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:55:31+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/chin-filler",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1011,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "3 failed request(s)",
+      "4 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:55:45+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/california",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 735,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "4 console error(s)",
+      "2 failed request(s)",
+      "5 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:56:00+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/california/los-angeles-ca",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 131,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "2 failed request(s)",
+      "2 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:56:14+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/colorado",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 822,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "2 failed request(s)",
+      "4 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:56:27+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/florida",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1023,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAHthiKJRiMlhqr4TEH_1MEs1qohgq4eJ7FjapEY7Ebf4KoqNUXm0CBdOiKutyUr_2d_nSwVk7IGtMTpsnH8OmqZDLlog0tJhKJMo_jYZvB9g2YZy9f9ut12v2sziLmzkeQXtwag%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAEV5K7oseyhYxRwaw2Unsd737VPY7VkuX_TWelHBRmkUuN2UYhx2SAM3UOmzGvRYyYWGFuMaaDFnPzVliVYg5sDqGKMWPUV13k-vHm0MODaahjasKY_LpTXnyVdkKq3KqMAHC61mxx1_-po%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)",
+      "5 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:56:42+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/florida/miami-fl",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1187,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAEV5K7oseyhYxRwaw2Unsd737VPY7VkuX_TWelHBRmkUuN2UYhx2SAM3UOmzGvRYyYWGFuMaaDFnPzVliVYg5sDqGKMWPUV13k-vHm0MODaahjasKY_LpTXnyVdkKq3KqMAHC61mxx1_-po%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)",
+      "4 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:56:57+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/illinois",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 737,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAGxx9Qk4YWRpqM3ILk36Sf1RyezEAJn6tuZ_QiP45wZE2L4uNx7l2Xre20vW5pt1K4vzrxXgM6XLrMkuVjSJmkOhc0BSO8XlV3gwyRzJ6iyyD8oh75xsfligOYiI54Ecccgyb63%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "4 failed request(s)",
+      "4 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:57:12+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/illinois/chicago-il",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 883,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "3 failed request(s)",
+      "2 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:57:26+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/new-york",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 682,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "2 failed request(s)",
+      "7 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:57:41+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/new-york/new-york-ny",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 115,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "2 failed request(s)",
+      "6 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:57:55+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/texas",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 409,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)",
+      "3 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:58:09+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1256,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:58:31+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/clinics",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 218,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFPYkYVlpi0iZPXi1qsKjd8k4etghzrvq2sjZnB6TdBLe84b7-BuUi62_GMTDhIx3KKY7TfZjJZ-_8kvk1lGIZJeoeQC_pXZSwDpz2UgUio5K5FdPdj1tkySH29EfW9cRcR6o0I2jBlTOCF%3Dw1600-h1200-k-no&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "2 failed request(s)",
+      "5 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:58:46+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/states",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 100,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:59:00+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1144,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "2 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:59:12+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1022,
+    "console_errors": 3,
+    "broken_images": [],
+    "issues": [
+      "3 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:59:26+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 434,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T02:59:40+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 450,
+    "console_errors": 9,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpeptide-reclassification-pharmacist-reality-check-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcagrisema-diabetes-data-fda-decision-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcompounded-glp1-comment-deadline-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fhow-to-vet-injector-product-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Funapproved-injectables-online-fda-warning-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fus-toxin-landscape-approved-pending-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fnatural-subtle-results-aesthetics-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "9 console error(s)",
+      "3 failed request(s)",
+      "7 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T02:59:53+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/how-we-verify",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 177,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "2 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:00:07+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/editorial-standards",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 170,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "2 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:00:20+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/medical-advisory",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 607,
+    "console_errors": 3,
+    "broken_images": [],
+    "issues": [
+      "3 console error(s)",
+      "2 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:00:32+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/about",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 482,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "2 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:00:46+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/list-your-practice",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 174,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "2 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:00:59+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/contact",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 374,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:01:12+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/privacy",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 273,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "2 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:01:24+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/terms",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 297,
+    "console_errors": 3,
+    "broken_images": [],
+    "issues": [
+      "3 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:01:37+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/hipaa",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 392,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:01:51+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/login",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 517,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:02:04+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/search",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1137,
+    "console_errors": 3,
+    "broken_images": [],
+    "issues": [
+      "3 console error(s)",
+      "4 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:02:17+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/sculptra-vs-filler",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 774,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "4 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:02:31+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/what-is-sculptra",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1034,
+    "console_errors": 5,
+    "broken_images": [],
+    "issues": [
+      "5 console error(s)",
+      "4 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:02:45+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/kybella-side-effects",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1185,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "4 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:02:59+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/kybella-cost",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 944,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "4 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:03:13+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/kybella-vs-coolsculpting",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 238,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "4 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:03:27+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/how-to-get-rid-of-a-double-chin",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 941,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "4 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:03:40+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/what-is-kybella",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 155,
+    "console_errors": 5,
+    "broken_images": [],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:03:53+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/neuromodulators-compared",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 967,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:04:07+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/botox-vs-xeomin",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 952,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:04:21+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/guides/what-is-xeomin",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 492,
+    "console_errors": 4,
+    "broken_images": [],
+    "issues": [
+      "4 console error(s)",
+      "4 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:04:35+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/unapproved-injectables-online-fda-warning-june-2026",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 724,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Funapproved-injectables-online-fda-warning-june-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "4 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:04:49+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/peptide-reclassification-pharmacist-reality-check-june-2026",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1774,
+    "console_errors": 6,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpeptide-reclassification-pharmacist-reality-check-june-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "6 console error(s)",
+      "3 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:05:02+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/compounded-glp1-comment-deadline-june-2026",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1404,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcompounded-glp1-comment-deadline-june-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:05:17+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/cagrisema-diabetes-data-fda-decision-june-2026",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1161,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcagrisema-diabetes-data-fda-decision-june-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "4 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:05:30+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/post-glp1-restoration-aesthetics-june-2026",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1153,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpost-glp1-restoration-aesthetics-june-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:05:43+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/how-to-vet-injector-product-2026",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1263,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fhow-to-vet-injector-product-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:05:57+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/natural-subtle-results-aesthetics-2026",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 3144,
+    "console_errors": 6,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fnatural-subtle-results-aesthetics-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "6 console error(s)",
+      "4 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:06:27+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/prejuvenation-baby-botox-preventative-2026",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1394,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fprejuvenation-baby-botox-preventative-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "4 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:06:41+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/us-toxin-landscape-approved-pending-june-2026",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1175,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fus-toxin-landscape-approved-pending-june-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "3 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:06:55+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/news/regenerative-injectables-polynucleotides-biostimulators-june-2026",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1625,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fregenerative-injectables-polynucleotides-biostimulators-june-2026.jpg&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "4 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:07:09+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/botox",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 282,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)",
+      "1 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:07:23+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/daxxify",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1174,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:07:36+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/dysport",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 114,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:07:50+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/juvederm",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 598,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "2 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:08:03+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/kybella",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 633,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "2 failed request(s)",
+      "5 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:08:18+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/radiesse",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1040,
+    "console_errors": 3,
+    "broken_images": [],
+    "issues": [
+      "3 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:08:32+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/restylane",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1085,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:08:45+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/sculptra",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 716,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "4 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:08:59+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/brands/xeomin",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 626,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "4 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:09:12+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/abdomen",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1014,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFmJzyu7_5iJ_TX2Ezf9DobSE7oQk6K1eGETvHQSR6JVMEQneGwMCxdkQGqKYQF4knAcGrn5iWQLfuCzDFaQA9R77bKmF16gxFtQJk8qCw791y3NfQ76O_OpO6F_lLtOg0NOkfqfg%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)",
+      "5 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:09:26+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/back-includes-bra-fat",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 501,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFmJzyu7_5iJ_TX2Ezf9DobSE7oQk6K1eGETvHQSR6JVMEQneGwMCxdkQGqKYQF4knAcGrn5iWQLfuCzDFaQA9R77bKmF16gxFtQJk8qCw791y3NfQ76O_OpO6F_lLtOg0NOkfqfg%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "2 failed request(s)",
+      "5 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:09:40+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/body",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1877,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:09:54+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/botox",
+    "device": "Pixel 7",
+    "status": 404,
+    "load_time_ms": 1526,
+    "console_errors": 3,
+    "broken_images": [],
+    "issues": [
+      "3 console error(s)",
+      "4 failed request(s)",
+      "bot protection suspected"
+    ],
+    "tested_at": "2026-08-02T03:10:07+00:00",
+    "bot_blocked": true
+  },
+  {
+    "url": "https://www.injector.world/services/breast",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 520,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "2 failed request(s)",
+      "4 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:10:20+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/brow-lift",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 411,
+    "console_errors": 2,
+    "broken_images": [],
+    "issues": [
+      "2 console error(s)",
+      "3 failed request(s)"
+    ],
+    "tested_at": "2026-08-02T03:10:34+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/buttock",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 2236,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAGIlkljWsQUze-vR55e1EJ9sWGa8oTT0kECXjO__PFhcfIMLtru3CLoMlLdGfatKffHtpMlNn2Qj2x5Mb9AQYEAELUp-Wa6RNuUMztu7sbjUZumMjEd6nWbVZ7xWQr7DcWPdAmb%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "2 failed request(s)",
+      "4 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:10:47+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/calves",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 2344,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "3 failed request(s)",
+      "4 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:11:01+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/cheek-filler",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1146,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFPYkYVlpi0iZPXi1qsKjd8k4etghzrvq2sjZnB6TdBLe84b7-BuUi62_GMTDhIx3KKY7TfZjJZ-_8kvk1lGIZJeoeQC_pXZSwDpz2UgUio5K5FdPdj1tkySH29EfW9cRcR6o0I2jBlTOCF%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "4 console error(s)",
+      "2 failed request(s)",
+      "5 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:11:16+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/services/chin-filler",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 157,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "2 failed request(s)",
+      "4 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:11:30+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/california",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 2975,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "2 failed request(s)",
+      "6 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:11:43+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/california/los-angeles-ca",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 907,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "4 console error(s)",
+      "2 failed request(s)",
+      "2 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:11:58+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/colorado",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 3969,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "3 failed request(s)",
+      "4 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:12:13+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/florida",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1934,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAHthiKJRiMlhqr4TEH_1MEs1qohgq4eJ7FjapEY7Ebf4KoqNUXm0CBdOiKutyUr_2d_nSwVk7IGtMTpsnH8OmqZDLlog0tJhKJMo_jYZvB9g2YZy9f9ut12v2sziLmzkeQXtwag%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAEV5K7oseyhYxRwaw2Unsd737VPY7VkuX_TWelHBRmkUuN2UYhx2SAM3UOmzGvRYyYWGFuMaaDFnPzVliVYg5sDqGKMWPUV13k-vHm0MODaahjasKY_LpTXnyVdkKq3KqMAHC61mxx1_-po%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "5 console error(s)",
+      "2 failed request(s)",
+      "5 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:12:28+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/florida/miami-fl",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 213,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAEV5K7oseyhYxRwaw2Unsd737VPY7VkuX_TWelHBRmkUuN2UYhx2SAM3UOmzGvRYyYWGFuMaaDFnPzVliVYg5sDqGKMWPUV13k-vHm0MODaahjasKY_LpTXnyVdkKq3KqMAHC61mxx1_-po%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "4 console error(s)",
+      "3 failed request(s)",
+      "4 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:12:42+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/illinois",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 260,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAGxx9Qk4YWRpqM3ILk36Sf1RyezEAJn6tuZ_QiP45wZE2L4uNx7l2Xre20vW5pt1K4vzrxXgM6XLrMkuVjSJmkOhc0BSO8XlV3gwyRzJ6iyyD8oh75xsfligOYiI54Ecccgyb63%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "4 console error(s)",
+      "2 failed request(s)",
+      "5 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:12:56+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/illinois/chicago-il",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 205,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "4 console error(s)",
+      "2 failed request(s)",
+      "2 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:13:09+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/new-york",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1284,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "3 failed request(s)",
+      "8 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:13:23+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/new-york/new-york-ny",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1057,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "2 failed request(s)",
+      "6 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:13:36+00:00",
+    "bot_blocked": false
+  },
+  {
+    "url": "https://www.injector.world/texas",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 599,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "issues": [
+      "3 console error(s)",
+      "3 failed request(s)",
+      "4 broken image(s)"
+    ],
+    "tested_at": "2026-08-02T03:13:51+00:00",
+    "bot_blocked": false
+  }
+]
