@@ -1,0 +1,193 @@
+{
+  "generated_at": "2026-08-03T13:30:00+00:00",
+  "methodology": "Cross-device dedup map for the proposal priority list. Same root cause on desktop and mobile becomes ONE priority entry with devices Both and tier = worst tier among the device findings. A root cause that only affects one device keeps that device coverage. Every finding in the two stores maps to exactly one entry.",
+  "entries": [
+    {
+      "root_cause": "header and footer navigation links return HTTP 404",
+      "title": "Header and footer navigation links return HTTP 404",
+      "finding_ids": [
+        "UX-D-001",
+        "UX-M-008"
+      ],
+      "devices": "Both",
+      "tier": "Most Important"
+    },
+    {
+      "root_cause": "site-wide search returns 0 results for a normal brand query",
+      "title": "Site-wide search returns 0 results for a normal brand query",
+      "finding_ids": [
+        "UX-D-002",
+        "UX-M-007"
+      ],
+      "devices": "Both",
+      "tier": "Critical"
+    },
+    {
+      "root_cause": "homepage clinic claims contradict empty clinics directory",
+      "title": "Homepage clinic claims contradict empty clinics directory",
+      "finding_ids": [
+        "UX-D-003"
+      ],
+      "devices": "Desktop",
+      "tier": "Critical"
+    },
+    {
+      "root_cause": "news listing logs 23 console errors on load",
+      "title": "News listing logs 23 console errors on load",
+      "finding_ids": [
+        "UX-D-004"
+      ],
+      "devices": "Desktop",
+      "tier": "Important"
+    },
+    {
+      "root_cause": "console errors logged on every crawled page",
+      "title": "Console errors logged on every crawled page",
+      "finding_ids": [
+        "UX-D-005",
+        "UX-M-002"
+      ],
+      "devices": "Both",
+      "tier": "Important"
+    },
+    {
+      "root_cause": "news listing renders broken article thumbnails",
+      "title": "News listing renders 21 broken article thumbnails",
+      "finding_ids": [
+        "UX-D-006"
+      ],
+      "devices": "Desktop",
+      "tier": "Important"
+    },
+    {
+      "root_cause": "broken media CDN images on category pages",
+      "title": "Broken CDN images on state, city, brand and service pages",
+      "finding_ids": [
+        "UX-D-007",
+        "UX-M-003"
+      ],
+      "devices": "Both",
+      "tier": "Important"
+    },
+    {
+      "root_cause": "state, city and guide pages load in 5 to 23 seconds",
+      "title": "State, city and guide pages load in 5 to 23 seconds",
+      "finding_ids": [
+        "UX-D-008",
+        "UX-M-001"
+      ],
+      "devices": "Both",
+      "tier": "Most Important"
+    },
+    {
+      "root_cause": "form inputs lack accessible labels or aria-labels",
+      "title": "Form inputs lack accessible labels or aria-labels",
+      "finding_ids": [
+        "UX-D-009",
+        "UX-M-006"
+      ],
+      "devices": "Both",
+      "tier": "Important"
+    },
+    {
+      "root_cause": "brands accordion pre-expanded on page load",
+      "title": "BRANDS accordion pre-expanded on page load across the site",
+      "finding_ids": [
+        "UX-D-010"
+      ],
+      "devices": "Desktop",
+      "tier": "Most Important"
+    },
+    {
+      "root_cause": "escape key does not close open header accordion panels",
+      "title": "Escape key does not close open header accordion panels",
+      "finding_ids": [
+        "UX-D-011"
+      ],
+      "devices": "Desktop",
+      "tier": "Important"
+    },
+    {
+      "root_cause": "contact and list your practice pages provide no contact form",
+      "title": "Contact and List Your Practice pages provide no contact form",
+      "finding_ids": [
+        "UX-D-012"
+      ],
+      "devices": "Desktop",
+      "tier": "Most Important"
+    },
+    {
+      "root_cause": "12px slate-400 text fails WCAG AA contrast",
+      "title": "12px slate-400 text fails WCAG AA contrast on state and brand pages",
+      "finding_ids": [
+        "UX-D-013"
+      ],
+      "devices": "Desktop",
+      "tier": "Important"
+    },
+    {
+      "root_cause": "homepage featured clinics section renders placeholder test clinics",
+      "title": "Homepage Featured Clinics section renders placeholder test clinics",
+      "finding_ids": [
+        "UX-D-014"
+      ],
+      "devices": "Desktop",
+      "tier": "Important"
+    },
+    {
+      "root_cause": "footer renders 41 links with no heading structure",
+      "title": "Footer renders 41 links with no heading structure",
+      "finding_ids": [
+        "UX-D-015",
+        "UX-M-012"
+      ],
+      "devices": "Both",
+      "tier": "Normal"
+    },
+    {
+      "root_cause": "mobile hamburger menu treatment links covered by overlapping content",
+      "title": "Mobile hamburger menu treatment links are covered by overlapping content",
+      "finding_ids": [
+        "UX-M-004"
+      ],
+      "devices": "Mobile",
+      "tier": "Most Important"
+    },
+    {
+      "root_cause": "mobile menu links have 18px tap targets below the 44px minimum",
+      "title": "Mobile menu links have 18px tap targets below the 44px minimum",
+      "finding_ids": [
+        "UX-M-005"
+      ],
+      "devices": "Mobile",
+      "tier": "Most Important"
+    },
+    {
+      "root_cause": "mobile menu guide links truncate long titles at 143px",
+      "title": "Mobile menu guide links truncate long titles at 143px",
+      "finding_ids": [
+        "UX-M-009"
+      ],
+      "devices": "Mobile",
+      "tier": "Important"
+    },
+    {
+      "root_cause": "mobile CTA buttons render below the 44px touch target size",
+      "title": "Mobile CTA buttons render below the 44px touch target size",
+      "finding_ids": [
+        "UX-M-010"
+      ],
+      "devices": "Mobile",
+      "tier": "Important"
+    },
+    {
+      "root_cause": "featured clinics heading renders larger than sibling sections on mobile",
+      "title": "Featured Clinics heading renders larger than sibling sections on mobile",
+      "finding_ids": [
+        "UX-M-011"
+      ],
+      "devices": "Mobile",
+      "tier": "Normal"
+    }
+  ]
+}

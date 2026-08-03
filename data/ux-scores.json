@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-08-03T13:30:00+00:00",
+  "formula": "max(1.0, highest_present_ceiling - 0.2*(n_crit-1) - 0.1*n_mi - 0.05*n_imp - 0.02*n_norm), clamped to [1.0, 10.0], rounded to 1 decimal; ceilings {Critical: 5.0, Most Important: 7.0, Important: 8.5, Normal: 9.5}; overall = round((desktop + mobile) / 2, 1)",
+  "desktop": {
+    "score": 4.0,
+    "tier_counts": {
+      "Critical": 2,
+      "Most Important": 4,
+      "Important": 8,
+      "Normal": 1
+    },
+    "n_findings": 15
+  },
+  "mobile": {
+    "score": 4.3,
+    "tier_counts": {
+      "Critical": 1,
+      "Most Important": 4,
+      "Important": 5,
+      "Normal": 2
+    },
+    "n_findings": 12
+  },
+  "overall": {
+    "score": 4.2,
+    "computed_from": {
+      "desktop": 4.0,
+      "mobile": 4.3
+    }
+  }
+}
