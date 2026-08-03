@@ -1,0 +1,378 @@
+{
+  "methodology": "all pages reachable via sitemap index + primary/secondary navigation; dynamic auto-sitemap listings (12,939 URLs) are representatively sampled, not exhaustively crawled.",
+  "pages": [
+    {
+      "url": "https://www.injector.world/",
+      "group": "static",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/clinics",
+      "group": "static",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/states",
+      "group": "static",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/services",
+      "group": "static",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/brands",
+      "group": "static",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/guides",
+      "group": "static",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/news",
+      "group": "static",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/how-we-verify",
+      "group": "static",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/editorial-standards",
+      "group": "static",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/medical-advisory",
+      "group": "static",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/about",
+      "group": "static",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/list-your-practice",
+      "group": "static",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/contact",
+      "group": "static",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/privacy",
+      "group": "static",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/terms",
+      "group": "static",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/hipaa",
+      "group": "static",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/login",
+      "group": "nav_footer",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/search",
+      "group": "nav_footer",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/guides/sculptra-vs-filler",
+      "group": "guides",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/guides/what-is-sculptra",
+      "group": "guides",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/guides/kybella-side-effects",
+      "group": "guides",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/guides/kybella-cost",
+      "group": "guides",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/guides/kybella-vs-coolsculpting",
+      "group": "guides",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/guides/how-to-get-rid-of-a-double-chin",
+      "group": "guides",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/guides/what-is-kybella",
+      "group": "guides",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/guides/neuromodulators-compared",
+      "group": "guides",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/guides/botox-vs-xeomin",
+      "group": "guides",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/guides/what-is-xeomin",
+      "group": "guides",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/news/unapproved-injectables-online-fda-warning-june-2026",
+      "group": "news",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/news/peptide-reclassification-pharmacist-reality-check-june-2026",
+      "group": "news",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/news/compounded-glp1-comment-deadline-june-2026",
+      "group": "news",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/news/cagrisema-diabetes-data-fda-decision-june-2026",
+      "group": "news",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/news/post-glp1-restoration-aesthetics-june-2026",
+      "group": "news",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/news/how-to-vet-injector-product-2026",
+      "group": "news",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/news/natural-subtle-results-aesthetics-2026",
+      "group": "news",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/news/prejuvenation-baby-botox-preventative-2026",
+      "group": "news",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/news/us-toxin-landscape-approved-pending-june-2026",
+      "group": "news",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/news/regenerative-injectables-polynucleotides-biostimulators-june-2026",
+      "group": "news",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/brands/botox",
+      "group": "brands",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/brands/daxxify",
+      "group": "brands",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/brands/dysport",
+      "group": "brands",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/brands/juvederm",
+      "group": "brands",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/brands/kybella",
+      "group": "brands",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/brands/radiesse",
+      "group": "brands",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/brands/restylane",
+      "group": "brands",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/brands/sculptra",
+      "group": "brands",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/brands/xeomin",
+      "group": "brands",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/services/abdomen",
+      "group": "services",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/services/back-includes-bra-fat",
+      "group": "services",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/services/body",
+      "group": "services",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/services/botox",
+      "group": "services",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/services/breast",
+      "group": "services",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/services/brow-lift",
+      "group": "services",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/services/buttock",
+      "group": "services",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/services/calves",
+      "group": "services",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/services/cheek-filler",
+      "group": "services",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/services/chin-filler",
+      "group": "services",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/california",
+      "group": "state_city",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/california/los-angeles-ca",
+      "group": "state_city",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/colorado",
+      "group": "state_city",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/florida",
+      "group": "state_city",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/florida/miami-fl",
+      "group": "state_city",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/illinois",
+      "group": "state_city",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/illinois/chicago-il",
+      "group": "state_city",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/new-york",
+      "group": "state_city",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/new-york/new-york-ny",
+      "group": "state_city",
+      "tested": true
+    },
+    {
+      "url": "https://www.injector.world/texas",
+      "group": "state_city",
+      "tested": true
+    }
+  ],
+  "discovery": {
+    "found_urls": [
+      "https://www.injector.world",
+      "https://www.injector.world/alabama",
+      "https://www.injector.world/alaska",
+      "https://www.injector.world/arizona",
+      "https://www.injector.world/arkansas",
+      "https://www.injector.world/brands/jeuveau",
+      "https://www.injector.world/careers",
+      "https://www.injector.world/clinics/missouri/lees-summit-mo/summit-aesthetics-64064",
+      "https://www.injector.world/clinics/texas/houston-tx/abcd",
+      "https://www.injector.world/clinics/texas/houston-tx/rishavs-clinic",
+      "https://www.injector.world/clinics/texas/houston-tx/testclinic",
+      "https://www.injector.world/clinics/utah/syracuse-ut/sinful-skin-injections-84075",
+      "https://www.injector.world/clinics/west-virginia/charleston-wv/no-filter-aesthetics-25304",
+      "https://www.injector.world/clinics/west-virginia/charleston-wv/sageview-medical-25320",
+      "https://www.injector.world/clinics/west-virginia/wheeling-wv/thrive-wheeling-26003",
+      "https://www.injector.world/clinics/wyoming/cheyenne-wy/ageless-medical-aesthetics-82009",
+      "https://www.injector.world/connecticut",
+      "https://www.injector.world/delaware",
+      "https://www.injector.world/district-of-columbia",
+      "https://www.injector.world/georgia"
+    ],
+    "untested_reachable": 20,
+    "sampled": [
+      "https://www.injector.world",
+      "https://www.injector.world/alabama",
+      "https://www.injector.world/alaska",
+      "https://www.injector.world/arizona",
+      "https://www.injector.world/arkansas",
+      "https://www.injector.world/brands/jeuveau",
+      "https://www.injector.world/careers",
+      "https://www.injector.world/clinics/missouri/lees-summit-mo/summit-aesthetics-64064",
+      "https://www.injector.world/clinics/texas/houston-tx/abcd",
+      "https://www.injector.world/clinics/texas/houston-tx/rishavs-clinic"
+    ],
+    "last_run": "2026-08-02T13:16:52+00:00"
+  }
+}
