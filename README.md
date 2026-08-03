@@ -41,6 +41,9 @@ scripts/
   validate_reports.py 6-check validation gate for both reports
   build_seed.py       Generates the 67-URL seed list
   smoke_test.py       Environment smoke test
+  ux_rubric.py        Single source of truth for the 17 UX areas, 4 severity tiers, and /10 score
+  ux_harness.py       Interaction-capable UX crawl harness: probes + discovery pass
+  validate_ux_reports.py  6-check validation gate for the UX audit artifacts
   requirements.txt    Pinned dependencies (playwright 1.62.0, python-docx 1.2.0)
 data/
   findings.json       All 70 findings, severity-ranked
@@ -65,6 +68,30 @@ The audit is reproducible:
    Runs six checks against both reports and exits 0 with "ALL CHECKS PASSED".
 
 The crawl is conservative by design: pages load to `domcontentloaded` plus a capped `networkidle`, with a settle delay before measurement. Bot protection is detected and recorded, never bypassed.
+
+## UI/UX audit
+
+On top of the QA bug campaign, a dedicated UI/UX audit was completed against the same live site. It evaluates the experience across **17 UX areas** (navigation, forms, buttons, scrolling, hover states, and more) and classifies each finding into one of **4 severity tiers**: Critical, Most Important, Important, and Normal. The audit produces a **/10 UX quality score** per device and overall.
+
+Coverage mirrors the QA campaign: desktop (Chromium at 1920x1080, plus responsive widths 1366, 1024, and 768) and two mobile profiles (iPhone 13 and Pixel 7 emulation). Unlike a passive crawl, the UX harness runs **interaction probes** against menus, forms, buttons, scrolling, and hover states, and includes a **discovery pass** that samples internal links to surface reachable pages not yet in the coverage list.
+
+The UX audit is fully reproducible with the scripts below.
+
+## How to run the UX audit
+
+The UX audit is reproducible end-to-end:
+
+1. Install dependencies: `pip install -r scripts/requirements.txt`
+2. Run the desktop crawl: `python3 scripts/ux_harness.py desktop`
+   Crawls the desktop profile with base crawl plus interaction probes, writing to `evidence/ux/` and `data/ux-manifest.json`.
+3. Run the mobile crawls: `python3 scripts/ux_harness.py iphone-13` and `python3 scripts/ux_harness.py pixel-7`
+   Same crawl and probes under each mobile emulation profile.
+4. Run the discovery pass: `python3 scripts/ux_harness.py desktop --discover`
+   Collects internal links across crawled pages, diffs them against `data/ux-coverage.json`, and records the bounded delta.
+5. Validate the audit artifacts: `python3 scripts/validate_ux_reports.py`
+   Runs six checks (schema, format, coverage, dedup, score, render) and exits 0 with "ALL CHECKS PASSED".
+
+The harness is non-destructive by design: forms receive invalid or empty data only, bot protection is detected and recorded but never bypassed, and a single failed page never aborts the run.
 
 ## Quality gates passed
 
