@@ -1,0 +1,350 @@
+{
+  "generated_at": "2026-08-03T12:30:00+00:00",
+  "device": "desktop",
+  "methodology": "Desktop full audit (technical UX areas) from fresh crawl in data/ux-manifest.json (67 URLs), programmatic playwright checks, and evidence under evidence/ux/desktop/. Calibration-first against scripts/ux_rubric.py tier anchors.",
+  "calibration": [
+    {
+      "issue": "12 broken nav links",
+      "area": "navigation",
+      "tier": "Most Important",
+      "rationale": "Major friction on content access; workaround = browse /guides index. QA rated HIGH."
+    },
+    {
+      "issue": "search 0 results",
+      "area": "journey_friction",
+      "tier": "Critical",
+      "rationale": "Rubric calibration verbatim: 'search returning 0 results for normal queries'."
+    },
+    {
+      "issue": "count-up animation",
+      "area": null,
+      "tier": null,
+      "rationale": "NOT a bug - scroll-triggered count-up verified working; not filed (QA desktop-20260801-181039-55)."
+    },
+    {
+      "issue": "stats-vs-clinics mismatch",
+      "area": "journey_friction",
+      "tier": "Critical",
+      "rationale": "Rubric calibration verbatim: '\"0 verified clinics\" vs \"17,020+\" claim'."
+    }
+  ],
+  "findings": [
+    {
+      "id": "UX-D-001",
+      "device": "desktop",
+      "url": "https://www.injector.world/",
+      "primary_area": "navigation",
+      "tier": "Most Important",
+      "title": "Header and footer navigation links return HTTP 404",
+      "description": "Nine /guides/ and three /services/ links in the header and footer resolve to HTTP 404.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/desktop/services-botox/20260803-041009-full.png",
+      "qa_ref": [
+        "desktop-20260801-175039-14",
+        "desktop-20260801-175051-15",
+        "desktop-20260801-175103-17",
+        "desktop-20260801-175115-19",
+        "desktop-20260801-175126-21",
+        "desktop-20260801-175139-23",
+        "desktop-20260801-175152-25",
+        "desktop-20260801-175204-27",
+        "desktop-20260801-175216-29",
+        "desktop-20260801-175227-31",
+        "desktop-20260801-175239-33",
+        "desktop-20260801-175251-34"
+      ],
+      "notes": "Calibration: 12 broken nav links -> navigation area, tier Most Important (major friction, workaround = browse /guides index). Consolidated from 12 QA 404s; affected_pages below.",
+      "affected_pages": [
+        "https://www.injector.world/guides/botox",
+        "https://www.injector.world/guides/botox-cost-2026",
+        "https://www.injector.world/guides/botox-vs-filler",
+        "https://www.injector.world/guides/first-time-botox",
+        "https://www.injector.world/guides/how-to-choose-injector",
+        "https://www.injector.world/guides/is-botox-safe",
+        "https://www.injector.world/guides/masseter-botox",
+        "https://www.injector.world/guides/md-vs-np-vs-rn",
+        "https://www.injector.world/guides/red-flags",
+        "https://www.injector.world/services/botox",
+        "https://www.injector.world/services/dysport",
+        "https://www.injector.world/services/sculptra"
+      ]
+    },
+    {
+      "id": "UX-D-002",
+      "device": "desktop",
+      "url": "https://www.injector.world/search",
+      "primary_area": "journey_friction",
+      "tier": "Critical",
+      "title": "Site-wide search returns 0 results for a normal brand query",
+      "description": "Searching 'Botox' on the directory search returns 0 results across providers and clinics.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/desktop/search/20260803-030013-full.png",
+      "qa_ref": "desktop-20260801-180018-41",
+      "notes": "Calibration: search 0 results -> journey_friction, tier Critical (rubric calibration example verbatim). Core 'find an injector' journey blocked."
+    },
+    {
+      "id": "UX-D-003",
+      "device": "desktop",
+      "url": "https://www.injector.world/",
+      "primary_area": "journey_friction",
+      "tier": "Critical",
+      "title": "Homepage clinic claims contradict empty clinics directory",
+      "description": "Homepage advertises 17,020+ clinics and 12,400+ injectors while the clinics directory renders 'No verified clinics or injectors match.'",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/desktop/clinics/20260803-023549-full.png",
+      "qa_ref": "desktop-20260801-180803-44",
+      "notes": "Calibration: stats-vs-clinics mismatch -> Critical tier (rubric calibration example verbatim). Misleading claim with potential real-world harm; no solutions in description.",
+      "affected_pages": [
+        "https://www.injector.world/",
+        "https://www.injector.world/clinics",
+        "https://www.injector.world/search",
+        "https://www.injector.world/states"
+      ]
+    },
+    {
+      "id": "UX-D-004",
+      "device": "desktop",
+      "url": "https://www.injector.world/news",
+      "primary_area": "console_errors",
+      "tier": "Important",
+      "title": "News listing logs 23 console errors on load",
+      "description": "The /news listing logs 23 console errors on load, the most of any page.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/desktop/news/20260803-024454-full.png",
+      "qa_ref": "desktop-20260801-181649-59",
+      "notes": "UX manifest desktop: /news console_errors=23 (highest). QA finding desktop-20260801-181649-59 covers the same defect."
+    },
+    {
+      "id": "UX-D-005",
+      "device": "desktop",
+      "url": "https://www.injector.world/",
+      "primary_area": "console_errors",
+      "tier": "Important",
+      "title": "Console errors logged on every crawled page",
+      "description": "All 67 desktop pages log console errors including WOFF2 font parsing and WebGL warnings.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/desktop/home/20260803-023411-viewport.png",
+      "qa_independent": true,
+      "notes": "UX manifest desktop: every one of 67 pages has console_errors >= 4. Live sample errors: 'OTS parsing error: Size of decompressed WOFF 2.0 is less than compressed size', 'WebGL: INVALID_ENUM', 'No available adapters.', 404 resource loads."
+    },
+    {
+      "id": "UX-D-006",
+      "device": "desktop",
+      "url": "https://www.injector.world/news",
+      "primary_area": "images_icons",
+      "tier": "Important",
+      "title": "News listing renders 21 broken article thumbnails",
+      "description": "The /news listing shows 21 broken article images via the Next.js image optimizer.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/desktop/news/20260803-024454-full.png",
+      "qa_ref": "desktop-20260801-181612-56",
+      "notes": "UX manifest desktop: /news broken_images=21; 10 article pages each 1 broken image. QA finding covers listing + articles.",
+      "affected_pages": [
+        "https://www.injector.world/news",
+        "https://www.injector.world/news/unapproved-injectables-online-fda-warning-june-2026",
+        "https://www.injector.world/news/peptide-reclassification-pharmacist-reality-check-june-2026",
+        "https://www.injector.world/news/compounded-glp1-comment-deadline-june-2026",
+        "https://www.injector.world/news/cagrisema-diabetes-data-fda-decision-june-2026",
+        "https://www.injector.world/news/post-glp1-restoration-aesthetics-june-2026",
+        "https://www.injector.world/news/how-to-vet-injector-product-2026",
+        "https://www.injector.world/news/natural-subtle-results-aesthetics-2026",
+        "https://www.injector.world/news/prejuvenation-baby-botox-preventative-2026",
+        "https://www.injector.world/news/us-toxin-landscape-approved-pending-june-2026",
+        "https://www.injector.world/news/regenerative-injectables-polynucleotides-biostimulators-june-2026"
+      ]
+    },
+    {
+      "id": "UX-D-007",
+      "device": "desktop",
+      "url": "https://www.injector.world/brands/kybella",
+      "primary_area": "images_icons",
+      "tier": "Important",
+      "title": "Broken CDN images across brand, service and state pages",
+      "description": "Brand, service and state pages render broken media.alle.com CDN images, up to 20 per page.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/desktop/brands-kybella/20260803-034253-full.png",
+      "qa_ref": "desktop-20260801-181612-57",
+      "notes": "UX manifest desktop: broken CDN images on 32 pages. Worst: services/back-includes-bra-fat 20, services/abdomen 18, brands/kybella 16, services/cheek-filler 16, services/chin-filler 17, services/buttock 15, new-york 14, florida 13.",
+      "affected_pages": [
+        "https://www.injector.world/brands/botox",
+        "https://www.injector.world/brands/kybella",
+        "https://www.injector.world/services/abdomen",
+        "https://www.injector.world/services/back-includes-bra-fat",
+        "https://www.injector.world/services/breast",
+        "https://www.injector.world/services/buttock",
+        "https://www.injector.world/services/calves",
+        "https://www.injector.world/services/cheek-filler",
+        "https://www.injector.world/services/chin-filler",
+        "https://www.injector.world/california",
+        "https://www.injector.world/colorado",
+        "https://www.injector.world/florida",
+        "https://www.injector.world/illinois",
+        "https://www.injector.world/new-york",
+        "https://www.injector.world/texas"
+      ]
+    },
+    {
+      "id": "UX-D-008",
+      "device": "desktop",
+      "url": "https://www.injector.world/california",
+      "primary_area": "performance_ux",
+      "tier": "Most Important",
+      "title": "State and city pages load in 5 to 15 seconds",
+      "description": "State and city pages take 5.1 to 14.8 seconds to load, /california the slowest.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/desktop/california/20260803-043208-full.png",
+      "qa_independent": true,
+      "notes": "UX manifest desktop load_time_ms: /california 14769, /new-york/new-york-ny 9259, /illinois/chicago-il 7775, /florida 6791, /services/buttock 5113. Avg across 67 pages 1815ms; these 5 exceed 5s. No QA ref (QA load findings used different crawl timing).",
+      "affected_pages": [
+        "https://www.injector.world/california",
+        "https://www.injector.world/new-york/new-york-ny",
+        "https://www.injector.world/illinois/chicago-il",
+        "https://www.injector.world/florida",
+        "https://www.injector.world/services/buttock"
+      ]
+    },
+    {
+      "id": "UX-D-009",
+      "device": "desktop",
+      "url": "https://www.injector.world/",
+      "primary_area": "accessibility_basics",
+      "tier": "Important",
+      "title": "Form inputs lack accessible labels or aria-labels",
+      "description": "Newsletter 'First name', footer 'website' and directory search inputs have no accessible label or aria-label.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/desktop/home/20260803-023411-full.png",
+      "qa_ref": "mobile-t12-1785644915-1",
+      "notes": "Programmatic check (playwright) on desktop: placeholder-only inputs with no label/aria on homepage, /clinics, /search, guides, /contact, /login, /california. Same defect as QA mobile-t12-1785644915-1 (4 instances, 3 pages) confirmed on desktop too. html[lang]=en and single h1 verified correct.",
+      "affected_pages": [
+        "https://www.injector.world/",
+        "https://www.injector.world/clinics",
+        "https://www.injector.world/search",
+        "https://www.injector.world/guides/what-is-kybella",
+        "https://www.injector.world/contact",
+        "https://www.injector.world/login",
+        "https://www.injector.world/california"
+      ]
+    },
+    {
+      "id": "UX-D-010",
+      "device": "desktop",
+      "url": "https://www.injector.world/",
+      "primary_area": "menus_dropdowns",
+      "tier": "Most Important",
+      "title": "BRANDS accordion pre-expanded on page load across the site",
+      "description": "The BRANDS accordion button in the header menu loads with aria-expanded=true on every page while the SERVICES and LEARN accordions load collapsed.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/desktop/home/menu-open-all-news-20260803-023437.png",
+      "qa_independent": true,
+      "notes": "Programmatic check (playwright, 1920x1080) across /, /news, /guides, /california, /brands/botox: #nav-brands-btn aria-expanded=true on initial load (panel height 137px) while #nav-services-btn and #nav-learn-btn are false. The header accordion card is opacity-0 until the burger menu opens, so BRANDS content is pre-expanded but invisible; when the drawer opens, BRANDS is already open while its siblings are closed. Distinct from mobile menu tap-target defect (mobile report)."
+    },
+    {
+      "id": "UX-D-011",
+      "device": "desktop",
+      "url": "https://www.injector.world/",
+      "primary_area": "menus_dropdowns",
+      "tier": "Important",
+      "title": "Escape key does not close open header accordion panels",
+      "description": "Pressing Escape while a header accordion panel is open leaves the panel expanded with aria-expanded=true unchanged.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/desktop/home/menu-open-list-your-practice-20260803-023437.png",
+      "qa_independent": true,
+      "notes": "Programmatic check (playwright): click #nav-services-btn (aria-expanded true), send Escape, re-read -> aria-expanded still true and panel remains visible at same height. Keyboard users cannot dismiss an open dropdown with Escape."
+    },
+    {
+      "id": "UX-D-012",
+      "device": "desktop",
+      "url": "https://www.injector.world/contact",
+      "primary_area": "forms_validation",
+      "tier": "Most Important",
+      "title": "Contact and List Your Practice pages provide no contact form",
+      "description": "The /contact and /list-your-practice pages contain no contact or submission form, only a newsletter signup form with website, first name and email fields.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/desktop/contact/20260803-025316-full.png",
+      "qa_independent": true,
+      "notes": "Programmatic check (playwright): /contact h1='Contact' but the only form is the newsletter form (inputs: website, First name optional, you@email.com, submit 'Subscribe'); 5 mailto links present, no textarea or message form. /list-your-practice h1='List your practice on injector.world' but the only form is the same newsletter form (plus hidden cf-turnstile-response); 1 mailto link. Primary user goal of each page (contact / submit practice) has no form."
+    },
+    {
+      "id": "UX-D-013",
+      "device": "desktop",
+      "url": "https://www.injector.world/california",
+      "primary_area": "typography_readability",
+      "tier": "Important",
+      "title": "12px slate-400 text fails WCAG AA contrast on state and brand pages",
+      "description": "State and brand pages render 12px rgb(148,163,184) text such as 'Showing 24 of 2,510 results' at a 2.56:1 contrast ratio against white.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/desktop/california/20260803-043208-full.png",
+      "qa_independent": true,
+      "notes": "Programmatic check (playwright) with computed contrast: rgb(148,163,184) on white = 2.56:1, on warm bg = 2.40:1; WCAG AA normal text requires 4.5:1. Occurrences: /california and /new-york 'Showing 24 of X results', /brands/botox 'AVG. COST', 'per session', 'STEP 1: PICK A STATE', 'POPULAR:'. QA mobile-t12-1785644915-5 confirmed no key text-over-image contrast issue, but this is a separate body-text contrast defect."
+    },
+    {
+      "id": "UX-D-014",
+      "device": "desktop",
+      "url": "https://www.injector.world/",
+      "primary_area": "visual_consistency",
+      "tier": "Important",
+      "title": "Homepage Featured Clinics section renders placeholder test clinics",
+        "description": "The homepage Featured Clinics section displays cards named 'Test Clinic', 'ABCD Clinic' and 'Rishav's Clinic' with prices and links.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/desktop/home/20260803-023411-full.png",
+      "qa_independent": true,
+      "notes": "Programmatic check (playwright): Featured Clinics section on / shows test/placeholder clinic cards ('Test Clinic', 'ABCD Clinic', 'Rishav's Clinic', all Houston, TX, 'from $15'/'from $25') with working links to /clinics/texas/houston-tx/testclinic etc. (all return 200, h1='Test Clinic'), mixed with real clinics (Sinful Skin Injections, SUMMIT AESTHETICS, AgeLess Medical Aesthetics) that have no price line. Visible on the homepage to all visitors."
+    },
+    {
+      "id": "UX-D-015",
+      "device": "desktop",
+      "url": "https://www.injector.world/",
+      "primary_area": "header_footer",
+      "tier": "Normal",
+      "title": "Footer renders 41 links with no heading structure",
+      "description": "The site-wide footer contains 41 links and 2 buttons with no heading elements to group or label the navigation sections.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/desktop/home/20260803-023411-full.png",
+      "qa_independent": true,
+      "notes": "Programmatic check (playwright): footer on / contains 41 links and 2 buttons but zero h1-h6 headings, so screen-reader users get an unlabeled flat list of links. Minor structural accessibility defect, distinct from the 12 broken footer links already filed as UX-D-001."
+    }
+  ],
+  "checked_no_issues": {
+    "layout_responsive": true,
+    "scrolling_behavior": true,
+    "mobile_responsiveness": true,
+    "broken_links": true,
+    "buttons_ctas": true,
+    "spacing_alignment": true
+  },
+  "observations": [
+    {
+      "area": "layout_responsive",
+      "note": "No horizontal overflow at 1366/1024/768 on 6 sampled static pages (playwright check scrollWidth==clientWidth). Responsive screenshots captured for all 67 pages in evidence/ux/desktop/."
+    },
+    {
+      "area": "scrolling_behavior",
+      "note": "Sticky header verified (position sticky, top 0, stays at top after scroll on /, /clinics, /guides). 'Back to top' button present and scrolls to top on click."
+    },
+    {
+      "area": "accessibility_basics",
+      "note": "html[lang]=en present and exactly one h1 per page across 10 sampled pages. Footer brand mark image (footer-mark.png) has empty alt - single minor instance, below finding threshold."
+    },
+    {
+      "area": "broken_links",
+      "note": "All 12 broken links found on desktop are the header/footer navigation 404s filed under navigation (UX-D-001) per calibration. No other broken internal or external links observed in the crawl."
+    },
+    {
+      "area": "mobile_responsiveness",
+      "note": "Desktop device; mobile responsiveness is evaluated in the mobile report (T5/T7). Recorded as checked for desktop coverage completeness."
+    },
+    {
+      "area": "buttons_ctas",
+      "note": "Checked: hover states verified on homepage (Find Your Injector hero CTA bg rgba(0,0,0,0)->rgba(0,0,0,0.03) on hover; cursor pointer on all visible buttons; Ask AI button correctly disabled when input empty). No defect found on desktop."
+    },
+    {
+      "area": "spacing_alignment",
+      "note": "Checked: Featured Clinics card grid on / aligned to 3 even columns (lefts 681/1087/1494, rows 3140/3433, card width uniform); 'View' link styling consistent across cards. No misalignment found."
+    },
+    {
+      "area": "menus_dropdowns",
+      "note": "In addition to UX-D-010/011: SERVICES and LEARN accordions correctly collapsed on load; burger menu opens the header drawer (opacity-0 card becomes opacity-1); nav links inside accordions navigate correctly."
+    },
+    {
+      "area": "typography_readability",
+      "note": "Body text contrast verified: slate-600 #475569 on white = 7.58:1 PASS, white on navy = 17.2:1 PASS, 70% white on dark navy = 9.27:1 PASS. Heading hierarchy present (h1 unique per page, Fraunces display / Inter body). Only the 12px slate-400 text filed as UX-D-013."
+    },
+    {
+      "area": "header_footer",
+      "note": "Header on desktop 1920px shows logo, hamburger ('Open menu'), search, sign in, list your practice, dark-mode toggle; no inline nav links visible at 1920px width - all BRANDS/SERVICES/LEARN links are behind the hamburger drawer. Footer 41 links, 2 buttons, no headings (UX-D-015)."
+    },
+    {
+      "area": "forms_validation",
+      "note": "Newsletter form on /, /contact, /list-your-practice: invalid email correctly blocked by HTML5 validation (checkValidity false, validationMessage present, focus stays). Search form on /search works. /contact and /list-your-practice lack a contact form (UX-D-012)."
+    },
+    {
+      "area": "visual_consistency",
+      "note": "Heading sizes consistent across page types (56px page h1; 52px section h2; 24px card h2; 16px card h3). Homepage Featured Clinics placeholder data filed as UX-D-014."
+    }
+  ]
+}

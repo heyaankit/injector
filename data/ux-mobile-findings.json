@@ -1,0 +1,293 @@
+{
+  "generated_at": "2026-08-03T13:00:00+00:00",
+  "device": "iphone-13, pixel-7",
+  "methodology": "Mobile full audit (technical UX areas) from completed crawl in data/ux-manifest.json (iPhone 13: 67 unique URLs, Pixel 7: 67 URLs), programmatic playwright checks at mobile viewports, and evidence under evidence/ux/iphone-13/ and evidence/ux/pixel-7/. Calibration-first against scripts/ux_rubric.py tier anchors. Cross-device issues reference the desktop store (UX-D-###) instead of duplicating.",
+  "calibration": [
+    {
+      "issue": "mobile menu links 18px tap targets",
+      "area": "accessibility_basics",
+      "tier": "Most Important",
+      "rationale": "Rubric calibration verbatim: '18px tap targets'."
+    },
+    {
+      "issue": "mobile menu treatment links covered by overlapping content",
+      "area": "menus_dropdowns",
+      "tier": "Most Important",
+      "rationale": "Rubric calibration verbatim: 'dropdown opens but mis-hits'."
+    },
+    {
+      "issue": "mobile search 0 results",
+      "area": "journey_friction",
+      "tier": "Critical",
+      "rationale": "Rubric calibration verbatim: 'search returning 0 results for normal queries'."
+    },
+    {
+      "issue": "mobile load times 5-23s",
+      "area": "performance_ux",
+      "tier": "Most Important",
+      "rationale": "Mirrors desktop UX-D-008 (state/city pages 5-15s) but worse on mobile; QA mobile-t12-1785644915-6/7/8/9 measured 8-9s throttled."
+    }
+  ],
+  "findings": [
+    {
+      "id": "UX-M-001",
+      "device": "both",
+      "url": "https://www.injector.world/clinics",
+      "primary_area": "performance_ux",
+      "tier": "Most Important",
+      "title": "Mobile pages load in 5 to 23 seconds on both devices",
+      "description": "State, city and guide pages take 5 to 23 seconds to load on iPhone 13 and Pixel 7, /clinics the slowest at 20 seconds.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/iphone-13/clinics/20260803-050907-full.png",
+      "qa_ref": [
+        "mobile-t12-1785644915-6",
+        "mobile-t12-1785644915-7",
+        "mobile-t12-1785644915-8",
+        "mobile-t12-1785644915-9"
+      ],
+      "notes": "UX manifest mobile load_time_ms: iPhone 13 /clinics 20235, /guides/sculptra-vs-filler 16926, /guides/kybella-side-effects 12646, /terms 10980; Pixel 7 /guides/kybella-vs-coolsculpting 22616, /services/chin-filler 13411, /guides/how-to-get-rid-of-a-double-chin 12569, /new-york/new-york-ny 11175. Avg 2487ms (iPhone) / 3048ms (Pixel). Same defect class as desktop UX-D-008 but worse on mobile.",
+      "affected_pages": [
+        "https://www.injector.world/clinics",
+        "https://www.injector.world/guides/sculptra-vs-filler",
+        "https://www.injector.world/guides/kybella-side-effects",
+        "https://www.injector.world/guides/kybella-vs-coolsculpting",
+        "https://www.injector.world/services/chin-filler",
+        "https://www.injector.world/guides/how-to-get-rid-of-a-double-chin",
+        "https://www.injector.world/new-york/new-york-ny"
+      ]
+    },
+    {
+      "id": "UX-M-002",
+      "device": "both",
+      "url": "https://www.injector.world/news",
+      "primary_area": "console_errors",
+      "tier": "Important",
+      "title": "Console errors logged on every mobile page, /news worst at 9",
+      "description": "All mobile pages log console errors on load, /news the worst at 9 per device.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/iphone-13/news/20260803-052434-full.png",
+      "qa_ref": "mobile-t9-1785640579-53",
+      "notes": "UX manifest mobile: avg console_errors 3.31 (iPhone 13) / 3.04 (Pixel 7); /news 9 on both. Same defect class as desktop UX-D-005 (all 67 desktop pages) and UX-D-004 (/news 23 desktop).",
+      "affected_pages": [
+        "https://www.injector.world/news",
+        "https://www.injector.world/news/post-glp1-restoration-aesthetics-june-2026",
+        "https://www.injector.world/news/regenerative-injectables-polynucleotides-biostimulators-june-2026",
+        "https://www.injector.world/guides/kybella-vs-coolsculpting"
+      ]
+    },
+    {
+      "id": "UX-M-003",
+      "device": "both",
+      "url": "https://www.injector.world/new-york",
+      "primary_area": "images_icons",
+      "tier": "Important",
+      "title": "Broken CDN images on mobile state, city and news pages",
+      "description": "State, city and news pages render broken media.alle.com CDN images on mobile, up to 8 per page.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/iphone-13/new-york/20260803-090509-full.png",
+      "qa_ref": "mobile-t9-1785640579-52",
+      "notes": "UX manifest mobile broken_images: /new-york 7-8, /news 7, /california 6, /florida 6, /new-york/new-york-ny 6, /clinics 5, /brands/kybella 5. Same defect as desktop UX-D-006 (/news 21) and UX-D-007 (CDN images on 32 pages).",
+      "affected_pages": [
+        "https://www.injector.world/new-york",
+        "https://www.injector.world/news",
+        "https://www.injector.world/california",
+        "https://www.injector.world/florida",
+        "https://www.injector.world/new-york/new-york-ny",
+        "https://www.injector.world/clinics",
+        "https://www.injector.world/brands/kybella"
+      ]
+    },
+    {
+      "id": "UX-M-004",
+      "device": "both",
+      "url": "https://www.injector.world/",
+      "primary_area": "menus_dropdowns",
+      "tier": "Most Important",
+      "title": "Mobile hamburger menu treatment links are covered by overlapping content",
+      "description": "Tapping a treatment link in the mobile hamburger menu hits overlapping panel content and the menu stays open.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/iphone-13/home/menu-hamburger-open-20260803-050720.png",
+      "qa_ref": "mobile-t11-1785642385-2",
+      "notes": "Programmatic check (playwright, iPhone 13 + Pixel 7): after opening the hamburger menu, tapping a[href='/guides/botox'] times out because the element at the tap point is the accordion panel button, not the link; the menu does not navigate. Rubric calibration 'dropdown opens but mis-hits' -> Most Important.",
+      "affected_pages": [
+        "https://www.injector.world/",
+        "https://www.injector.world/clinics",
+        "https://www.injector.world/contact"
+      ]
+    },
+    {
+      "id": "UX-M-005",
+      "device": "both",
+      "url": "https://www.injector.world/",
+      "primary_area": "accessibility_basics",
+      "tier": "Most Important",
+      "title": "Mobile menu links have 18px tap targets below the 44px minimum",
+      "description": "Mobile hamburger menu links present 18px tap targets, below the 44px WCAG 2.5.8 minimum.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/iphone-13/home/menu-hamburger-open-20260803-050720.png",
+      "qa_ref": "mobile-t10-1785641370-1",
+      "notes": "Rubric calibration verbatim '18px tap targets' -> Most Important. QA mobile-t10-1785641370-1 measured 18px menu link tap targets on both devices.",
+      "affected_pages": [
+        "https://www.injector.world/",
+        "https://www.injector.world/clinics",
+        "https://www.injector.world/contact"
+      ]
+    },
+    {
+      "id": "UX-M-006",
+      "device": "both",
+      "url": "https://www.injector.world/",
+      "primary_area": "forms_validation",
+      "tier": "Important",
+      "title": "Newsletter form inputs lack accessible labels on mobile",
+      "description": "Newsletter 'First name' and footer 'website' inputs have no accessible label or aria-label on mobile.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/iphone-13/home/20260803-050638-full.png",
+      "qa_ref": "mobile-t12-1785644915-1",
+      "notes": "Same defect as desktop UX-D-009 (placeholder-only inputs with no label/aria on homepage, /clinics, /search, /contact, /login). QA mobile-t20260612-1785644915-1 confirmed 4 instances across 3 pages on mobile.",
+      "affected_pages": [
+        "https://www.injector.world/",
+        "https://www.injector.world/clinics",
+        "https://www.injector.world/search",
+        "https://www.injector.world/contact"
+      ]
+    },
+    {
+      "id": "UX-M-007",
+      "device": "both",
+      "url": "https://www.injector.world/search",
+      "primary_area": "journey_friction",
+      "tier": "Critical",
+      "title": "Mobile site-wide search returns 0 results for a normal brand query",
+      "description": "Searching 'Botox' on the directory search returns 0 results across providers and clinics on mobile.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/iphone-13/search/20260803-064352-full.png",
+      "qa_ref": "mobile-t11-1785642385-1",
+      "notes": "Same defect as desktop UX-D-002 (search 0 results, Critical). Rubric calibration 'search returning 0 results for normal queries' -> Critical. Core 'find an injector' journey blocked on mobile.",
+      "affected_pages": [
+        "https://www.injector.world/search",
+        "https://www.injector.world/"
+      ]
+    },
+    {
+      "id": "UX-M-008",
+      "device": "both",
+      "url": "https://www.injector.world/",
+      "primary_area": "navigation",
+      "tier": "Most Important",
+      "title": "Header and footer navigation links return HTTP 404 on mobile",
+      "description": "Nine /guides/ and three /services/ links in the header and footer resolve to HTTP 404 on mobile.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/iphone-13/home/20260803-050638-full.png",
+      "qa_ref": "mobile-t9-1785640579-50",
+      "notes": "Same 12 broken nav links as desktop UX-D-001 (consolidated). QA mobile-t20260609-1785640579-50 confirmed 12 URLs 404 on both mobile devices. Referenced here rather than re-filed.",
+      "affected_pages": [
+        "https://www.injector.world/guides/botox",
+        "https://www.injector.world/guides/botox-cost-2026",
+        "https://www.injector.world/guides/botox-vs-filler",
+        "https://www.injector.world/guides/first-time-botox",
+        "https://www.injector.world/guides/how-to-choose-injector",
+        "https://www.injector.world/guides/is-botox-safe",
+        "https://www.injector.world/guides/masseter-botox",
+        "https://www.injector.world/guides/md-vs-np-vs-rn",
+        "https://www.injector.world/guides/red-flags",
+        "https://www.injector.world/services/botox",
+        "https://www.injector.world/services/dysport",
+        "https://www.injector.world/services/sculptra"
+      ]
+    },
+    {
+      "id": "UX-M-009",
+      "device": "both",
+      "url": "https://www.injector.world/",
+      "primary_area": "typography_readability",
+      "tier": "Important",
+      "title": "Mobile menu guide links truncate long titles at 143px",
+      "description": "Mobile menu guide links truncate their titles, clipping 'What Botox Costs in 2026', 'How to Choose an Injector' and 'Red Flags Before Booking' at 143px.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/iphone-13/home/menu-hamburger-open-20260803-050720.png",
+      "qa_independent": true,
+      "notes": "Programmatic check (playwright, iPhone 13 + Pixel 7): in the LEARN accordion, a[href='/guides/botox-cost-2026'] (scrollWidth 163 > clientWidth 143 on iPhone), a[href='/guides/how-to-choose-injector'] (168 > 143), a[href='/guides/red-flags'] (161 > 143). Pixel 7 clientWidth 154 (same 3 links truncated). 13px text-ink-secondary links clip the tail of each title with no ellipsis/truncation affordance. Distinct from desktop UX-D-013 (contrast) - this is a mobile-menu layout clipping issue."
+    },
+    {
+      "id": "UX-M-010",
+      "device": "both",
+      "url": "https://www.injector.world/",
+      "primary_area": "buttons_ctas",
+      "tier": "Important",
+      "title": "Mobile CTA buttons render below the 44px touch target size",
+      "description": "Mobile CTA buttons such as Ask AI, Subscribe, List and Map render 20 to 42px tall, below the 44px target size.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/iphone-13/home/20260803-050638-full.png",
+      "qa_independent": true,
+      "notes": "Programmatic check (playwright, iPhone 13 home): 27 buttons/CTAs, 20 under 44px height. Measured heights: 'Back to top' 20px, 'Ask AI' 28px, suggestion chips ('Botox vs filler?', 'Which filler is right?') 34px, dark-mode toggle 36px, 'Subscribe' 42px, 'List'/'Map' 32px. Distinct from UX-M-005 (accessibility_basics, menu links at 18px) - this finding covers page CTA buttons under buttons_ctas. Same defect class as desktop (UX-D-015 tier discipline) but mobile-specific tap targets."
+    },
+    {
+      "id": "UX-M-011",
+      "device": "both",
+      "url": "https://www.injector.world/",
+      "primary_area": "visual_consistency",
+      "tier": "Normal",
+      "title": "Featured Clinics heading renders larger than sibling sections on mobile",
+      "description": "The Featured Clinics heading renders at 52px while every other homepage section heading renders at 38px on mobile.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/iphone-13/home/20260803-050638-full.png",
+      "qa_independent": true,
+      "notes": "Programmatic check (playwright, iPhone 13 + Pixel 7 home): h2 'Featured Clinics' computed font-size 52px; all other homepage h2s ('Find by state.', 'The numbers.', 'Browse by service', 'Guides', 'Latest News', 'How we verify.', 'Find a verified injector ') 38px. Heading scale inconsistency on the same template."
+    },
+    {
+      "id": "UX-M-012",
+      "device": "both",
+      "url": "https://www.injector.world/",
+      "primary_area": "header_footer",
+      "tier": "Normal",
+      "title": "Mobile footer renders 41 links with no heading structure",
+      "description": "The site-wide mobile footer renders 41 links and 2 buttons with no heading structure, same as desktop.",
+      "screenshot_path": "/home/heyatoy/Projects/testing/evidence/ux/iphone-13/home/20260803-050638-full.png",
+      "qa_independent": true,
+      "notes": "Programmatic check (playwright, iPhone 13 + Pixel 7): footer contains 41 links and 2 buttons, 0 heading elements (h1-h6). Same defect as desktop UX-D-015; referenced here for mobile coverage rather than re-filed."
+    }
+  ],
+  "checked_no_issues": {
+    "layout_responsive": true,
+    "scrolling_behavior": true,
+    "mobile_responsiveness": true,
+    "broken_links": true,
+    "spacing_alignment": true
+  },
+  "observations": [
+    {
+      "area": "layout_responsive",
+      "note": "No horizontal overflow at iPhone 13 (390px) and Pixel 7 (412px) viewports on / and /contact (playwright scrollWidth==clientWidth). Responsive screenshots captured for all 67 pages per device."
+    },
+    {
+      "area": "scrolling_behavior",
+      "note": "Sticky header verified (position sticky, top 0) on mobile / and /clinics. 'Back to top' button present and scrolls to top on click."
+    },
+    {
+      "area": "mobile_responsiveness",
+      "note": "Landscape and portrait->landscape orientation reflow verified with no horizontal overflow or overlap by QA mobile-t20260612-1785644915-2/3/4. Recorded as checked for coverage completeness."
+    },
+    {
+      "area": "broken_links",
+      "note": "All 12 broken links found on mobile are the header/footer navigation 404s filed under navigation (UX-M-008) per calibration, mirroring desktop UX-D-001. No other broken internal or external links observed in the crawl."
+    },
+    {
+      "area": "menus_dropdowns",
+      "note": "In addition to UX-M-004: the hamburger menu opens correctly and the BRANDS/SERVICES/LEARN accordions are present; the defect is specifically that treatment links inside the open menu are covered by overlapping panel content so a tap does not navigate."
+    },
+    {
+      "area": "accessibility_basics",
+      "note": "html[lang]=en present and exactly one h1 per page across sampled mobile pages. Footer brand mark image has empty alt (single minor instance, below finding threshold)."
+    },
+    {
+      "area": "typography_readability",
+      "note": "In addition to UX-M-009: body text scales responsively (18px at 390px viewport), no other truncation or illegible font-size found on / and /contact. UX-M-009 is the only mobile typography defect."
+    },
+    {
+      "area": "buttons_ctas",
+      "note": "In addition to UX-M-010: primary CTA 'Find a verified injector' hero button is present and above 44px; 20 of 27 homepage CTAs fall below 44px (UX-M-010). Distinct from menu-link tap targets in UX-M-005."
+    },
+    {
+      "area": "spacing_alignment",
+      "note": "Featured Clinics cards render in a single evenly-spaced column (289px gaps, aligned left edge) on both devices; no overlapping sibling elements detected on home (playwright geometry check)."
+    },
+    {
+      "area": "visual_consistency",
+      "note": "In addition to UX-M-011: Featured Clinics placeholder clinics (Test Clinic, ABCD Clinic, Rishav's Clinic, Houston TX) render on mobile home, mirroring desktop UX-D-014; the heading-scale inconsistency is the mobile-specific new finding."
+    },
+    {
+      "area": "header_footer",
+      "note": "Sticky header verified (position sticky, 74px) on mobile; footer mirrors desktop UX-D-015 (41 links, no headings) captured as UX-M-012."
+    }
+  ]
+}

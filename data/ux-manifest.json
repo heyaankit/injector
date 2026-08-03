@@ -1,0 +1,3420 @@
+[
+  {
+    "url": "https://www.injector.world/",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 4346,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T02:34:11+00:00"
+  },
+  {
+    "url": "https://www.injector.world/clinics",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1523,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T02:35:49+00:00"
+  },
+  {
+    "url": "https://www.injector.world/states",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 484,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T02:39:18+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 418,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T02:40:43+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 426,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T02:42:05+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 673,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T02:43:30+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 681,
+    "console_errors": 23,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpeptide-reclassification-pharmacist-reality-check-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcagrisema-diabetes-data-fda-decision-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcompounded-glp1-comment-deadline-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fhow-to-vet-injector-product-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Funapproved-injectables-online-fda-warning-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fus-toxin-landscape-approved-pending-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fnatural-subtle-results-aesthetics-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fregenerative-injectables-polynucleotides-biostimulators-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fprejuvenation-baby-botox-preventative-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpost-glp1-restoration-aesthetics-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fretatrutide-triumph-data-may-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Ftelehealth-non-fda-claims-scrutiny-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fglobal-vs-us-toxin-approval-verification-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fdysport-vs-botox-head-to-head-may-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcorabotase-phase-2-lantic-data-may-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Ftirzepatide-vs-semaglutide-realworld-may-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpatient-reported-wellbeing-aesthetics-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fready-to-use-liquid-toxins-relfydess-may-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fwegovy-72mg-high-dose-fda-review-may-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpeptides-regulatory-gray-zone-may-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fmicro-botulinum-toxin-skin-quality-may-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T02:44:54+00:00"
+  },
+  {
+    "url": "https://www.injector.world/how-we-verify",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 484,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T02:46:18+00:00"
+  },
+  {
+    "url": "https://www.injector.world/editorial-standards",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 405,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T02:47:42+00:00"
+  },
+  {
+    "url": "https://www.injector.world/medical-advisory",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 417,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T02:49:06+00:00"
+  },
+  {
+    "url": "https://www.injector.world/about",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 449,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T02:50:30+00:00"
+  },
+  {
+    "url": "https://www.injector.world/list-your-practice",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 558,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T02:51:54+00:00"
+  },
+  {
+    "url": "https://www.injector.world/contact",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 719,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T02:53:16+00:00"
+  },
+  {
+    "url": "https://www.injector.world/privacy",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 362,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T02:54:39+00:00"
+  },
+  {
+    "url": "https://www.injector.world/terms",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 812,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T02:56:03+00:00"
+  },
+  {
+    "url": "https://www.injector.world/hipaa",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 374,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T02:57:28+00:00"
+  },
+  {
+    "url": "https://www.injector.world/login",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 793,
+    "console_errors": 10,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T02:58:51+00:00"
+  },
+  {
+    "url": "https://www.injector.world/search",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1268,
+    "console_errors": 3,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:00:13+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/sculptra-vs-filler",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1193,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:01:40+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/what-is-sculptra",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 391,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:03:04+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/kybella-side-effects",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1625,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:04:27+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/kybella-cost",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 403,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:05:51+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/kybella-vs-coolsculpting",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 588,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:07:14+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/how-to-get-rid-of-a-double-chin",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 699,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:08:38+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/what-is-kybella",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 493,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:10:02+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/neuromodulators-compared",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 869,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:11:25+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/botox-vs-xeomin",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 755,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:12:49+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/what-is-xeomin",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 840,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:14:12+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/unapproved-injectables-online-fda-warning-june-2026",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1806,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Funapproved-injectables-online-fda-warning-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:15:36+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/peptide-reclassification-pharmacist-reality-check-june-2026",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1807,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpeptide-reclassification-pharmacist-reality-check-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:16:58+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/compounded-glp1-comment-deadline-june-2026",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 689,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcompounded-glp1-comment-deadline-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:18:20+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/cagrisema-diabetes-data-fda-decision-june-2026",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1438,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcagrisema-diabetes-data-fda-decision-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:19:42+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/post-glp1-restoration-aesthetics-june-2026",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1257,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpost-glp1-restoration-aesthetics-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:21:04+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/how-to-vet-injector-product-2026",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 944,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fhow-to-vet-injector-product-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:22:26+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/natural-subtle-results-aesthetics-2026",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1632,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fnatural-subtle-results-aesthetics-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:23:47+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/prejuvenation-baby-botox-preventative-2026",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1324,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fprejuvenation-baby-botox-preventative-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:25:09+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/us-toxin-landscape-approved-pending-june-2026",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1489,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fus-toxin-landscape-approved-pending-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:26:31+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/regenerative-injectables-polynucleotides-biostimulators-june-2026",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1271,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fregenerative-injectables-polynucleotides-biostimulators-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:27:53+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/botox",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 871,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:29:15+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/daxxify",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 994,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:32:41+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/dysport",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1319,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:36:06+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/juvederm",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 440,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:39:29+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/kybella",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1098,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:42:53+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/radiesse",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 2887,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:46:16+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/restylane",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 336,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:49:40+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/sculptra",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 983,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:53:03+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/xeomin",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1028,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:56:27+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/abdomen",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1765,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFmJzyu7_5iJ_TX2Ezf9DobSE7oQk6K1eGETvHQSR6JVMEQneGwMCxdkQGqKYQF4knAcGrn5iWQLfuCzDFaQA9R77bKmF16gxFtQJk8qCw791y3NfQ76O_OpO6F_lLtOg0NOkfqfg%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T03:59:52+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/back-includes-bra-fat",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 2046,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFmJzyu7_5iJ_TX2Ezf9DobSE7oQk6K1eGETvHQSR6JVMEQneGwMCxdkQGqKYQF4knAcGrn5iWQLfuCzDFaQA9R77bKmF16gxFtQJk8qCw791y3NfQ76O_OpO6F_lLtOg0NOkfqfg%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T04:03:19+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/body",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1066,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T04:06:45+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/botox",
+    "device": "desktop",
+    "status": 404,
+    "load_time_ms": 1273,
+    "console_errors": 10,
+    "broken_images": [],
+    "bot_blocked": true,
+    "tested_at": "2026-08-03T04:10:09+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/breast",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1453,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T04:11:32+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/brow-lift",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 2127,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T04:14:57+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/buttock",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 5113,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T04:18:22+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/calves",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 3200,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T04:21:48+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/cheek-filler",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 2832,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T04:25:15+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/chin-filler",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 2805,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T04:28:41+00:00"
+  },
+  {
+    "url": "https://www.injector.world/california",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 14769,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T04:32:08+00:00"
+  },
+  {
+    "url": "https://www.injector.world/california/los-angeles-ca",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 1019,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T04:35:35+00:00"
+  },
+  {
+    "url": "https://www.injector.world/colorado",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 904,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T04:38:59+00:00"
+  },
+  {
+    "url": "https://www.injector.world/florida",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 6791,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAHthiKJRiMlhqr4TEH_1MEs1qohgq4eJ7FjapEY7Ebf4KoqNUXm0CBdOiKutyUr_2d_nSwVk7IGtMTpsnH8OmqZDLlog0tJhKJMo_jYZvB9g2YZy9f9ut12v2sziLmzkeQXtwag%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAEV5K7oseyhYxRwaw2Unsd737VPY7VkuX_TWelHBRmkUuN2UYhx2SAM3UOmzGvRYyYWGFuMaaDFnPzVliVYg5sDqGKMWPUV13k-vHm0MODaahjasKY_LpTXnyVdkKq3KqMAHC61mxx1_-po%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T04:42:22+00:00"
+  },
+  {
+    "url": "https://www.injector.world/florida/miami-fl",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 2367,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAEV5K7oseyhYxRwaw2Unsd737VPY7VkuX_TWelHBRmkUuN2UYhx2SAM3UOmzGvRYyYWGFuMaaDFnPzVliVYg5sDqGKMWPUV13k-vHm0MODaahjasKY_LpTXnyVdkKq3KqMAHC61mxx1_-po%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T04:45:50+00:00"
+  },
+  {
+    "url": "https://www.injector.world/illinois",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 2973,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAGxx9Qk4YWRpqM3ILk36Sf1RyezEAJn6tuZ_QiP45wZE2L4uNx7l2Xre20vW5pt1K4vzrxXgM6XLrMkuVjSJmkOhc0BSO8XlV3gwyRzJ6iyyD8oh75xsfligOYiI54Ecccgyb63%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T04:49:13+00:00"
+  },
+  {
+    "url": "https://www.injector.world/illinois/chicago-il",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 7775,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T04:52:37+00:00"
+  },
+  {
+    "url": "https://www.injector.world/new-york",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 3606,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T04:56:02+00:00"
+  },
+  {
+    "url": "https://www.injector.world/new-york/new-york-ny",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 9259,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T04:59:22+00:00"
+  },
+  {
+    "url": "https://www.injector.world/texas",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T05:02:48+00:00"
+  },
+  {
+    "url": "https://www.injector.world/",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 4763,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T05:30:52+00:00"
+  },
+  {
+    "url": "https://www.injector.world/clinics",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 6105,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFPYkYVlpi0iZPXi1qsKjd8k4etghzrvq2sjZnB6TdBLe84b7-BuUi62_GMTDhIx3KKY7TfZjJZ-_8kvk1lGIZJeoeQC_pXZSwDpz2UgUio5K5FdPdj1tkySH29EfW9cRcR6o0I2jBlTOCF%3Dw1600-h1200-k-no&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T05:33:05+00:00"
+  },
+  {
+    "url": "https://www.injector.world/states",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T05:36:11+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 4357,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T05:39:17+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T05:42:23+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1586,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T05:45:27+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 2561,
+    "console_errors": 9,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpeptide-reclassification-pharmacist-reality-check-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcagrisema-diabetes-data-fda-decision-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcompounded-glp1-comment-deadline-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fhow-to-vet-injector-product-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Funapproved-injectables-online-fda-warning-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fus-toxin-landscape-approved-pending-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fnatural-subtle-results-aesthetics-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T05:48:32+00:00"
+  },
+  {
+    "url": "https://www.injector.world/how-we-verify",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T05:51:36+00:00"
+  },
+  {
+    "url": "https://www.injector.world/editorial-standards",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 6482,
+    "console_errors": 0,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T05:54:40+00:00"
+  },
+  {
+    "url": "https://www.injector.world/medical-advisory",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 7477,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T05:57:43+00:00"
+  },
+  {
+    "url": "https://www.injector.world/about",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 2399,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:00:47+00:00"
+  },
+  {
+    "url": "https://www.injector.world/list-your-practice",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 9458,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:03:50+00:00"
+  },
+  {
+    "url": "https://www.injector.world/contact",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 2508,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:06:54+00:00"
+  },
+  {
+    "url": "https://www.injector.world/privacy",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 0,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:09:58+00:00"
+  },
+  {
+    "url": "https://www.injector.world/terms",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 10980,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:13:04+00:00"
+  },
+  {
+    "url": "https://www.injector.world/hipaa",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 7039,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:16:08+00:00"
+  },
+  {
+    "url": "https://www.injector.world/login",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:19:11+00:00"
+  },
+  {
+    "url": "https://www.injector.world/",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 7960,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:20:31+00:00"
+  },
+  {
+    "url": "https://www.injector.world/clinics",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 2212,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFPYkYVlpi0iZPXi1qsKjd8k4etghzrvq2sjZnB6TdBLe84b7-BuUi62_GMTDhIx3KKY7TfZjJZ-_8kvk1lGIZJeoeQC_pXZSwDpz2UgUio5K5FdPdj1tkySH29EfW9cRcR6o0I2jBlTOCF%3Dw1600-h1200-k-no&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:23:47+00:00"
+  },
+  {
+    "url": "https://www.injector.world/states",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 5635,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:26:53+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 7693,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:30:00+00:00"
+  },
+  {
+    "url": "https://www.injector.world/",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1527,
+    "console_errors": 1,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:30:22+00:00"
+  },
+  {
+    "url": "https://www.injector.world/",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:32:37+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 590,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:33:04+00:00"
+  },
+  {
+    "url": "https://www.injector.world/clinics",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 20235,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFPYkYVlpi0iZPXi1qsKjd8k4etghzrvq2sjZnB6TdBLe84b7-BuUi62_GMTDhIx3KKY7TfZjJZ-_8kvk1lGIZJeoeQC_pXZSwDpz2UgUio5K5FdPdj1tkySH29EfW9cRcR6o0I2jBlTOCF%3Dw1600-h1200-k-no&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:35:51+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 3862,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:36:08+00:00"
+  },
+  {
+    "url": "https://www.injector.world/states",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:39:12+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 8,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcagrisema-diabetes-data-fda-decision-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcompounded-glp1-comment-deadline-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fhow-to-vet-injector-product-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Funapproved-injectables-online-fda-warning-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fus-toxin-landscape-approved-pending-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fnatural-subtle-results-aesthetics-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:39:12+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 7225,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:42:17+00:00"
+  },
+  {
+    "url": "https://www.injector.world/how-we-verify",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 6823,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:42:18+00:00"
+  },
+  {
+    "url": "https://www.injector.world/search",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 3,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:43:52+00:00"
+  },
+  {
+    "url": "https://www.injector.world/editorial-standards",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 6584,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:45:21+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/sculptra-vs-filler",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 16926,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:47:03+00:00"
+  },
+  {
+    "url": "https://www.injector.world/medical-advisory",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 3506,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:48:25+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/what-is-sculptra",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1885,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:50:19+00:00"
+  },
+  {
+    "url": "https://www.injector.world/about",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 5623,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:51:28+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/kybella-side-effects",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 12646,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:53:25+00:00"
+  },
+  {
+    "url": "https://www.injector.world/list-your-practice",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 5129,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:54:32+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/kybella-cost",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:56:36+00:00"
+  },
+  {
+    "url": "https://www.injector.world/contact",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 299,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:57:35+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/kybella-vs-coolsculpting",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 5,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T06:59:00+00:00"
+  },
+  {
+    "url": "https://www.injector.world/privacy",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 454,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:00:39+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/how-to-get-rid-of-a-double-chin",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 6613,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:02:13+00:00"
+  },
+  {
+    "url": "https://www.injector.world/terms",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 3589,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:03:42+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/what-is-kybella",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:05:19+00:00"
+  },
+  {
+    "url": "https://www.injector.world/hipaa",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 3486,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:06:46+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/neuromodulators-compared",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:08:29+00:00"
+  },
+  {
+    "url": "https://www.injector.world/login",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 5966,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:09:49+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/botox-vs-xeomin",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:11:35+00:00"
+  },
+  {
+    "url": "https://www.injector.world/search",
+    "device": "iPhone 13",
+    "status": null,
+    "load_time_ms": 0,
+    "console_errors": 0,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:12:59+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/what-is-xeomin",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 2373,
+    "console_errors": 5,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:14:08+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/sculptra-vs-filler",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 9584,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:16:44+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/unapproved-injectables-online-fda-warning-june-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 923,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Funapproved-injectables-online-fda-warning-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:17:33+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/what-is-sculptra",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1234,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:19:51+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/peptide-reclassification-pharmacist-reality-check-june-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 921,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpeptide-reclassification-pharmacist-reality-check-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:20:36+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/kybella-side-effects",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 957,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:22:58+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/compounded-glp1-comment-deadline-june-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1141,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcompounded-glp1-comment-deadline-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:23:40+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/kybella-cost",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1304,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:26:05+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/cagrisema-diabetes-data-fda-decision-june-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1329,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcagrisema-diabetes-data-fda-decision-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:26:44+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/kybella-vs-coolsculpting",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 674,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:29:12+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/post-glp1-restoration-aesthetics-june-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 3267,
+    "console_errors": 6,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpost-glp1-restoration-aesthetics-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:29:16+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/how-to-get-rid-of-a-double-chin",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1465,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:32:18+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/how-to-vet-injector-product-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1365,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fhow-to-vet-injector-product-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:32:21+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/what-is-kybella",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 430,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:35:25+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/natural-subtle-results-aesthetics-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1137,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fnatural-subtle-results-aesthetics-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:35:25+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/prejuvenation-baby-botox-preventative-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 2125,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fprejuvenation-baby-botox-preventative-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:38:29+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/neuromodulators-compared",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1052,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:38:31+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/us-toxin-landscape-approved-pending-june-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 2081,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fus-toxin-landscape-approved-pending-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:41:33+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/botox-vs-xeomin",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 414,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:41:37+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/regenerative-injectables-polynucleotides-biostimulators-june-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1744,
+    "console_errors": 6,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fregenerative-injectables-polynucleotides-biostimulators-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:44:24+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/what-is-xeomin",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 327,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:44:43+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/botox",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 461,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:47:28+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/unapproved-injectables-online-fda-warning-june-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 2358,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Funapproved-injectables-online-fda-warning-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:47:49+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/daxxify",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 3935,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:50:32+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/peptide-reclassification-pharmacist-reality-check-june-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:50:52+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/dysport",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1064,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:53:36+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/compounded-glp1-comment-deadline-june-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1217,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcompounded-glp1-comment-deadline-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:53:55+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/juvederm",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1046,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:56:39+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/cagrisema-diabetes-data-fda-decision-june-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1725,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcagrisema-diabetes-data-fda-decision-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:56:58+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/kybella",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 2355,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T07:59:32+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/post-glp1-restoration-aesthetics-june-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 850,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpost-glp1-restoration-aesthetics-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:00:03+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/radiesse",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 449,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:02:37+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/how-to-vet-injector-product-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1546,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fhow-to-vet-injector-product-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:03:06+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/restylane",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 365,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:05:40+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/natural-subtle-results-aesthetics-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 825,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fnatural-subtle-results-aesthetics-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:06:09+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/sculptra",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1034,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:08:43+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/prejuvenation-baby-botox-preventative-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1026,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fprejuvenation-baby-botox-preventative-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:09:13+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/xeomin",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 2546,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:11:47+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/us-toxin-landscape-approved-pending-june-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 804,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fus-toxin-landscape-approved-pending-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:12:17+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/abdomen",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 897,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFmJzyu7_5iJ_TX2Ezf9DobSE7oQk6K1eGETvHQSR6JVMEQneGwMCxdkQGqKYQF4knAcGrn5iWQLfuCzDFaQA9R77bKmF16gxFtQJk8qCw791y3NfQ76O_OpO6F_lLtOg0NOkfqfg%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:14:40+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/regenerative-injectables-polynucleotides-biostimulators-june-2026",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 823,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fregenerative-injectables-polynucleotides-biostimulators-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:15:21+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/back-includes-bra-fat",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1376,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFmJzyu7_5iJ_TX2Ezf9DobSE7oQk6K1eGETvHQSR6JVMEQneGwMCxdkQGqKYQF4knAcGrn5iWQLfuCzDFaQA9R77bKmF16gxFtQJk8qCw791y3NfQ76O_OpO6F_lLtOg0NOkfqfg%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:17:44+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/botox",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 222,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:18:24+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/body",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 375,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:20:48+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/daxxify",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1039,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:21:29+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/botox",
+    "device": "iPhone 13",
+    "status": 404,
+    "load_time_ms": 486,
+    "console_errors": 3,
+    "broken_images": [],
+    "bot_blocked": true,
+    "tested_at": "2026-08-03T08:23:52+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/dysport",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 810,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:24:32+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/breast",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 443,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:25:01+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/juvederm",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 2183,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:27:36+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/brow-lift",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 3379,
+    "console_errors": 3,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:28:13+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/kybella",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 460,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:30:41+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/buttock",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 952,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAGIlkljWsQUze-vR55e1EJ9sWGa8oTT0kECXjO__PFhcfIMLtru3CLoMlLdGfatKffHtpMlNn2Qj2x5Mb9AQYEAELUp-Wa6RNuUMztu7sbjUZumMjEd6nWbVZ7xWQr7DcWPdAmb%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:31:17+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/radiesse",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 620,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:33:45+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/calves",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 460,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:34:22+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/restylane",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1222,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:36:48+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/cheek-filler",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 174,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFPYkYVlpi0iZPXi1qsKjd8k4etghzrvq2sjZnB6TdBLe84b7-BuUi62_GMTDhIx3KKY7TfZjJZ-_8kvk1lGIZJeoeQC_pXZSwDpz2UgUio5K5FdPdj1tkySH29EfW9cRcR6o0I2jBlTOCF%3Dw1600-h1200-k-no&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:37:27+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/sculptra",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1650,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:39:52+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/chin-filler",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1100,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:40:31+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/xeomin",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 2469,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:42:56+00:00"
+  },
+  {
+    "url": "https://www.injector.world/california",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 3941,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:43:21+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/abdomen",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 491,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFmJzyu7_5iJ_TX2Ezf9DobSE7oQk6K1eGETvHQSR6JVMEQneGwMCxdkQGqKYQF4knAcGrn5iWQLfuCzDFaQA9R77bKmF16gxFtQJk8qCw791y3NfQ76O_OpO6F_lLtOg0NOkfqfg%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:45:59+00:00"
+  },
+  {
+    "url": "https://www.injector.world/california/los-angeles-ca",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 871,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:46:56+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/back-includes-bra-fat",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 2163,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFmJzyu7_5iJ_TX2Ezf9DobSE7oQk6K1eGETvHQSR6JVMEQneGwMCxdkQGqKYQF4knAcGrn5iWQLfuCzDFaQA9R77bKmF16gxFtQJk8qCw791y3NfQ76O_OpO6F_lLtOg0NOkfqfg%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:49:04+00:00"
+  },
+  {
+    "url": "https://www.injector.world/colorado",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1661,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:50:01+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/body",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1667,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:52:09+00:00"
+  },
+  {
+    "url": "https://www.injector.world/florida",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1574,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAHthiKJRiMlhqr4TEH_1MEs1qohgq4eJ7FjapEY7Ebf4KoqNUXm0CBdOiKutyUr_2d_nSwVk7IGtMTpsnH8OmqZDLlog0tJhKJMo_jYZvB9g2YZy9f9ut12v2sziLmzkeQXtwag%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAEV5K7oseyhYxRwaw2Unsd737VPY7VkuX_TWelHBRmkUuN2UYhx2SAM3UOmzGvRYyYWGFuMaaDFnPzVliVYg5sDqGKMWPUV13k-vHm0MODaahjasKY_LpTXnyVdkKq3KqMAHC61mxx1_-po%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:53:36+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/botox",
+    "device": "iPhone 13",
+    "status": 404,
+    "load_time_ms": 6137,
+    "console_errors": 3,
+    "broken_images": [],
+    "bot_blocked": true,
+    "tested_at": "2026-08-03T08:55:13+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/breast",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 636,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:56:22+00:00"
+  },
+  {
+    "url": "https://www.injector.world/florida/miami-fl",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 997,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAEV5K7oseyhYxRwaw2Unsd737VPY7VkuX_TWelHBRmkUuN2UYhx2SAM3UOmzGvRYyYWGFuMaaDFnPzVliVYg5sDqGKMWPUV13k-vHm0MODaahjasKY_LpTXnyVdkKq3KqMAHC61mxx1_-po%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:57:11+00:00"
+  },
+  {
+    "url": "https://www.injector.world/illinois",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 3342,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAGxx9Qk4YWRpqM3ILk36Sf1RyezEAJn6tuZ_QiP45wZE2L4uNx7l2Xre20vW5pt1K4vzrxXgM6XLrMkuVjSJmkOhc0BSO8XlV3gwyRzJ6iyyD8oh75xsfligOYiI54Ecccgyb63%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:58:29+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/brow-lift",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 898,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T08:59:26+00:00"
+  },
+  {
+    "url": "https://www.injector.world/illinois/chicago-il",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 586,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:02:04+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/buttock",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 198,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAGIlkljWsQUze-vR55e1EJ9sWGa8oTT0kECXjO__PFhcfIMLtru3CLoMlLdGfatKffHtpMlNn2Qj2x5Mb9AQYEAELUp-Wa6RNuUMztu7sbjUZumMjEd6nWbVZ7xWQr7DcWPdAmb%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:02:30+00:00"
+  },
+  {
+    "url": "https://www.injector.world/new-york",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1202,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:05:09+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/calves",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 991,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:05:34+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/cheek-filler",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 3208,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFPYkYVlpi0iZPXi1qsKjd8k4etghzrvq2sjZnB6TdBLe84b7-BuUi62_GMTDhIx3KKY7TfZjJZ-_8kvk1lGIZJeoeQC_pXZSwDpz2UgUio5K5FdPdj1tkySH29EfW9cRcR6o0I2jBlTOCF%3Dw1600-h1200-k-no&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:08:39+00:00"
+  },
+  {
+    "url": "https://www.injector.world/new-york/new-york-ny",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 2747,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:08:43+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/chin-filler",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 6049,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:11:44+00:00"
+  },
+  {
+    "url": "https://www.injector.world/texas",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1459,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:11:49+00:00"
+  },
+  {
+    "url": "https://www.injector.world/california",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 979,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:14:50+00:00"
+  },
+  {
+    "url": "https://www.injector.world/",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 4185,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:16:23+00:00"
+  },
+  {
+    "url": "https://www.injector.world/california/los-angeles-ca",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 6056,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:18:24+00:00"
+  },
+  {
+    "url": "https://www.injector.world/clinics",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 740,
+    "console_errors": 6,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFPYkYVlpi0iZPXi1qsKjd8k4etghzrvq2sjZnB6TdBLe84b7-BuUi62_GMTDhIx3KKY7TfZjJZ-_8kvk1lGIZJeoeQC_pXZSwDpz2UgUio5K5FdPdj1tkySH29EfW9cRcR6o0I2jBlTOCF%3Dw1600-h1200-k-no&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:18:36+00:00"
+  },
+  {
+    "url": "https://www.injector.world/colorado",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1378,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:21:29+00:00"
+  },
+  {
+    "url": "https://www.injector.world/states",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 768,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:21:42+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 2771,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:24:48+00:00"
+  },
+  {
+    "url": "https://www.injector.world/florida",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 5620,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAHthiKJRiMlhqr4TEH_1MEs1qohgq4eJ7FjapEY7Ebf4KoqNUXm0CBdOiKutyUr_2d_nSwVk7IGtMTpsnH8OmqZDLlog0tJhKJMo_jYZvB9g2YZy9f9ut12v2sziLmzkeQXtwag%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAEV5K7oseyhYxRwaw2Unsd737VPY7VkuX_TWelHBRmkUuN2UYhx2SAM3UOmzGvRYyYWGFuMaaDFnPzVliVYg5sDqGKMWPUV13k-vHm0MODaahjasKY_LpTXnyVdkKq3KqMAHC61mxx1_-po%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:25:03+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 6202,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:27:54+00:00"
+  },
+  {
+    "url": "https://www.injector.world/florida/miami-fl",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 2540,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAEV5K7oseyhYxRwaw2Unsd737VPY7VkuX_TWelHBRmkUuN2UYhx2SAM3UOmzGvRYyYWGFuMaaDFnPzVliVYg5sDqGKMWPUV13k-vHm0MODaahjasKY_LpTXnyVdkKq3KqMAHC61mxx1_-po%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:28:39+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 3563,
+    "console_errors": 3,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:31:07+00:00"
+  },
+  {
+    "url": "https://www.injector.world/illinois",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1002,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAGxx9Qk4YWRpqM3ILk36Sf1RyezEAJn6tuZ_QiP45wZE2L4uNx7l2Xre20vW5pt1K4vzrxXgM6XLrMkuVjSJmkOhc0BSO8XlV3gwyRzJ6iyyD8oh75xsfligOYiI54Ecccgyb63%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:31:44+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 853,
+    "console_errors": 9,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpeptide-reclassification-pharmacist-reality-check-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcagrisema-diabetes-data-fda-decision-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcompounded-glp1-comment-deadline-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fhow-to-vet-injector-product-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Funapproved-injectables-online-fda-warning-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fus-toxin-landscape-approved-pending-june-2026.jpg&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fnatural-subtle-results-aesthetics-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:34:12+00:00"
+  },
+  {
+    "url": "https://www.injector.world/illinois/chicago-il",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1298,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:35:19+00:00"
+  },
+  {
+    "url": "https://www.injector.world/how-we-verify",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 515,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:37:16+00:00"
+  },
+  {
+    "url": "https://www.injector.world/new-york",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 969,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:38:24+00:00"
+  },
+  {
+    "url": "https://www.injector.world/editorial-standards",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 783,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:40:20+00:00"
+  },
+  {
+    "url": "https://www.injector.world/new-york/new-york-ny",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 606,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:41:57+00:00"
+  },
+  {
+    "url": "https://www.injector.world/medical-advisory",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 782,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:43:24+00:00"
+  },
+  {
+    "url": "https://www.injector.world/texas",
+    "device": "iPhone 13",
+    "status": 200,
+    "load_time_ms": 1635,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:45:02+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/botox",
+    "device": "Pixel 7",
+    "status": 404,
+    "load_time_ms": 3218,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": true,
+    "tested_at": "2026-08-03T09:46:15+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/breast",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 577,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:47:25+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/brow-lift",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1075,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:50:30+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/buttock",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 992,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAGIlkljWsQUze-vR55e1EJ9sWGa8oTT0kECXjO__PFhcfIMLtru3CLoMlLdGfatKffHtpMlNn2Qj2x5Mb9AQYEAELUp-Wa6RNuUMztu7sbjUZumMjEd6nWbVZ7xWQr7DcWPdAmb%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:53:34+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/calves",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 2594,
+    "console_errors": 1,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:56:38+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/cheek-filler",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 0,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T09:59:53+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/chin-filler",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 13411,
+    "console_errors": 1,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T10:03:23+00:00"
+  },
+  {
+    "url": "https://www.injector.world/california",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1495,
+    "console_errors": 1,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T10:06:35+00:00"
+  },
+  {
+    "url": "https://www.injector.world/california/los-angeles-ca",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 1,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T10:10:15+00:00"
+  },
+  {
+    "url": "https://www.injector.world/colorado",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 1,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T10:13:24+00:00"
+  },
+  {
+    "url": "https://www.injector.world/florida",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAHthiKJRiMlhqr4TEH_1MEs1qohgq4eJ7FjapEY7Ebf4KoqNUXm0CBdOiKutyUr_2d_nSwVk7IGtMTpsnH8OmqZDLlog0tJhKJMo_jYZvB9g2YZy9f9ut12v2sziLmzkeQXtwag%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAEV5K7oseyhYxRwaw2Unsd737VPY7VkuX_TWelHBRmkUuN2UYhx2SAM3UOmzGvRYyYWGFuMaaDFnPzVliVYg5sDqGKMWPUV13k-vHm0MODaahjasKY_LpTXnyVdkKq3KqMAHC61mxx1_-po%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T10:15:01+00:00"
+  },
+  {
+    "url": "https://www.injector.world/florida/miami-fl",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 7291,
+    "console_errors": 2,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAEV5K7oseyhYxRwaw2Unsd737VPY7VkuX_TWelHBRmkUuN2UYhx2SAM3UOmzGvRYyYWGFuMaaDFnPzVliVYg5sDqGKMWPUV13k-vHm0MODaahjasKY_LpTXnyVdkKq3KqMAHC61mxx1_-po%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T10:18:40+00:00"
+  },
+  {
+    "url": "https://www.injector.world/illinois",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 2,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAGxx9Qk4YWRpqM3ILk36Sf1RyezEAJn6tuZ_QiP45wZE2L4uNx7l2Xre20vW5pt1K4vzrxXgM6XLrMkuVjSJmkOhc0BSO8XlV3gwyRzJ6iyyD8oh75xsfligOYiI54Ecccgyb63%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T10:21:48+00:00"
+  },
+  {
+    "url": "https://www.injector.world/illinois/chicago-il",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 751,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T10:25:23+00:00"
+  },
+  {
+    "url": "https://www.injector.world/new-york",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 796,
+    "console_errors": 1,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T10:28:28+00:00"
+  },
+  {
+    "url": "https://www.injector.world/new-york/new-york-ny",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 11175,
+    "console_errors": 1,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T10:30:09+00:00"
+  },
+  {
+    "url": "https://www.injector.world/texas",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 1,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T10:33:20+00:00"
+  },
+  {
+    "url": "https://www.injector.world/about",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 0,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T10:37:20+00:00"
+  },
+  {
+    "url": "https://www.injector.world/list-your-practice",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 0,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T10:38:36+00:00"
+  },
+  {
+    "url": "https://www.injector.world/contact",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T10:41:53+00:00"
+  },
+  {
+    "url": "https://www.injector.world/privacy",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 2015,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T10:44:57+00:00"
+  },
+  {
+    "url": "https://www.injector.world/terms",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 5994,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T10:48:00+00:00"
+  },
+  {
+    "url": "https://www.injector.world/hipaa",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 3,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T10:51:11+00:00"
+  },
+  {
+    "url": "https://www.injector.world/login",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 4967,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T10:54:16+00:00"
+  },
+  {
+    "url": "https://www.injector.world/search",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 3,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T10:55:33+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/sculptra-vs-filler",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 2032,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T10:58:43+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/what-is-sculptra",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 3929,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T11:01:49+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/kybella-side-effects",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 5182,
+    "console_errors": 5,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T11:05:03+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/kybella-cost",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 10455,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T11:08:10+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/kybella-vs-coolsculpting",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 22616,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T11:11:18+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/how-to-get-rid-of-a-double-chin",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 12569,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T11:14:41+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/what-is-kybella",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T11:17:56+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/neuromodulators-compared",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 9697,
+    "console_errors": 5,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T11:20:11+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/botox-vs-xeomin",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 5324,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T11:23:22+00:00"
+  },
+  {
+    "url": "https://www.injector.world/guides/what-is-xeomin",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 8517,
+    "console_errors": 4,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T11:26:28+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/unapproved-injectables-online-fda-warning-june-2026",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 4439,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Funapproved-injectables-online-fda-warning-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T11:29:33+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/peptide-reclassification-pharmacist-reality-check-june-2026",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 4121,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpeptide-reclassification-pharmacist-reality-check-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T11:32:37+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/compounded-glp1-comment-deadline-june-2026",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 5,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T11:35:19+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/cagrisema-diabetes-data-fda-decision-june-2026",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 3197,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fcagrisema-diabetes-data-fda-decision-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T11:38:32+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/post-glp1-restoration-aesthetics-june-2026",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1118,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fpost-glp1-restoration-aesthetics-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T11:41:36+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/how-to-vet-injector-product-2026",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 865,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fhow-to-vet-injector-product-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T11:44:40+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/natural-subtle-results-aesthetics-2026",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1202,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fnatural-subtle-results-aesthetics-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T11:47:43+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/prejuvenation-baby-botox-preventative-2026",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 0,
+    "console_errors": 6,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fprejuvenation-baby-botox-preventative-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T11:50:27+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/us-toxin-landscape-approved-pending-june-2026",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 914,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fus-toxin-landscape-approved-pending-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T11:53:30+00:00"
+  },
+  {
+    "url": "https://www.injector.world/news/regenerative-injectables-polynucleotides-biostimulators-june-2026",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 862,
+    "console_errors": 5,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Finjector.world%2Fimages%2Fnews%2Fregenerative-injectables-polynucleotides-biostimulators-june-2026.jpg&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T11:56:34+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/botox",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 428,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T11:59:37+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/daxxify",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 441,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T12:02:41+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/dysport",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 9331,
+    "console_errors": 3,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T12:05:35+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/juvederm",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1046,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T12:08:39+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/kybella",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1535,
+    "console_errors": 3,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T12:11:44+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/radiesse",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 2848,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T12:14:49+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/restylane",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 2216,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T12:17:53+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/sculptra",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 2964,
+    "console_errors": 3,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T12:20:43+00:00"
+  },
+  {
+    "url": "https://www.injector.world/brands/xeomin",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1738,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T12:23:48+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/abdomen",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 1959,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFmJzyu7_5iJ_TX2Ezf9DobSE7oQk6K1eGETvHQSR6JVMEQneGwMCxdkQGqKYQF4knAcGrn5iWQLfuCzDFaQA9R77bKmF16gxFtQJk8qCw791y3NfQ76O_OpO6F_lLtOg0NOkfqfg%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T12:26:52+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/back-includes-bra-fat",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 2219,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAFmJzyu7_5iJ_TX2Ezf9DobSE7oQk6K1eGETvHQSR6JVMEQneGwMCxdkQGqKYQF4knAcGrn5iWQLfuCzDFaQA9R77bKmF16gxFtQJk8qCw791y3NfQ76O_OpO6F_lLtOg0NOkfqfg%3Dw1600-h1200-k-no&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T12:29:58+00:00"
+  },
+  {
+    "url": "https://www.injector.world/services/body",
+    "device": "Pixel 7",
+    "status": 200,
+    "load_time_ms": 2918,
+    "console_errors": 2,
+    "broken_images": [],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T12:33:02+00:00"
+  },
+  {
+    "url": "https://www.injector.world",
+    "device": "desktop",
+    "status": 200,
+    "load_time_ms": 4571,
+    "console_errors": 4,
+    "broken_images": [
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75",
+      "https://www.injector.world/_next/image?url=https%3A%2F%2Fmedia.alle.com%2Fimage%2Fupload%2Fc_crop&w=3840&q=75"
+    ],
+    "bot_blocked": false,
+    "tested_at": "2026-08-03T13:41:21+00:00"
+  }
+]
