@@ -1,0 +1,36 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends libreoffice-writer
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Environment smoke test
+        run: python scripts/smoke_test.py
+
+      - name: Validate QA reports
+        run: python scripts/validate_reports.py
+
+      - name: Validate UX reports
+        run: python scripts/validate_ux_reports.py
