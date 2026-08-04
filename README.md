@@ -171,7 +171,7 @@ Each finding in the UX stores must satisfy the validator's schema check:
 1. Install dependencies: `pip install -r requirements.txt`. For the test suite, also `pip install pytest`, or install the dev extras with `pip install -e ".[dev]"` (the `pyproject.toml` declares `dev = ["pytest"]`).
 2. Run the tests: `python3 -m pytest tests/ -q`.
 3. Run both gates before pushing. `python3 scripts/validate_reports.py` and `python3 scripts/validate_ux_reports.py` must each exit 0 with "ALL CHECKS PASSED".
-4. CI (`.github/workflows/ci.yml`) runs the smoke test and both validators on every push/PR to `main`. It installs the Playwright browser (`sudo "$(which python)" -m playwright install --with-deps chromium`) and LibreOffice for the render check.
+4. CI (`.github/workflows/ci.yml`) runs the smoke test and both validators on every push/PR to `main`. It installs the Playwright browser (`python -m playwright install chromium` as the runner user, then `sudo "$(which python)" -m playwright install-deps chromium` for system dependencies) and LibreOffice for the render check.
 5. Follow the style config: `ruff` with line length 100, `.editorconfig` (4-space Python), and the `ruff` + `pytest` settings in `pyproject.toml`.
 
 ## How it was tested
