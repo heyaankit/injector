@@ -5,6 +5,7 @@ This is the deep-dive companion to the "For developers" section of `README.md`. 
 ## Table of Contents
 
 - [Environment setup](#environment-setup)
+- [Output locations](#output-locations)
 - [The scripts](#the-scripts)
   - [QA pipeline](#qa-pipeline)
   - [UX pipeline](#ux-pipeline)
@@ -68,6 +69,21 @@ python3 -m pytest tests/ -q
 
 This runs 12 tests. See [Testing and CI](#testing-and-ci).
 
+## Output locations
+
+Where each tool writes its generated files, at a glance:
+
+| Path | What it holds | Committed | Write mode |
+|---|---|---|---|
+| `data/` | Findings, manifests, coverage, seed list | Yes (source of truth) | Append-only during crawls |
+| `reports/*.docx` | Bug reports, UX reports, proposal | Yes (deliverables) | Overwritten per build |
+| `evidence/` | QA crawl screenshots (628 MB) | No (gitignored) | Overwritten per run |
+| `evidence/ux/` | UX probe screenshots | No (gitignored) | Overwritten per run |
+| `data/ux-manifest.json` | UX crawl manifest | Yes | Append-only |
+| `data/crawl-manifest.json` | QA crawl manifest | Yes | Append-only |
+
+`data/` is the source of truth; reports are throwaway renderings you can rebuild from `data/` with the builders. `evidence/` is gitignored and regenerable by re-running the harness.
+
 ## The scripts
 
 There are ten modules in `scripts/`. Two of them, `rubric.py` and `ux_rubric.py`, are libraries with no CLI. The other eight have a real command line. All exit codes and flags below were confirmed from `--help`.
@@ -84,6 +100,10 @@ python scripts/smoke_test.py
 
 Loads `https://www.injector.world/` (override with `--url`), asserts the page title is non-empty and the body contains "Find Your Injector", then writes `evidence/smoke-test.png`. Screenshot path must end in `.png` (`--screenshot`). Exit codes: 0 all assertions passed, 1 page failed to load or assertions failed, 2 usage error. Navigation is the standard pattern used everywhere in this repo: `goto` with `domcontentloaded`, a capped `networkidle` (10 s), then a 1.5 s settle.
 
+**What to expect:** prints `url : https://www.injector.world/`, `title : '...' -> title is non-empty: PASS`, `body contains : body contains 'Find Your Injector': PASS`, `body sample : '...'`, `screenshot : evidence/smoke-test.png (N bytes)`, then `SMOKE PASS` (exit 0). Takes ~15-30 s total (domcontentloaded + capped networkidle 10 s + 1.5 s settle). On failure it prints `SMOKE FAIL` to stderr and exits 1.
+
+**Writes to:** `evidence/smoke-test.png` (gitignored, overwritten each run).
+
 #### `scripts/harness.py`
 
 QA crawl harness. Crawls a device profile against the seed list, records findings and a crawl manifest, and captures screenshots.
@@ -97,6 +117,8 @@ python scripts/harness.py desktop URL [URL...] # explicit URL list
 
 Positional `device` is one of `desktop`, `iphone-13`, `pixel-7`. Optional positional `urls` override the seed list. Flags: `--headed` (visible browser window), `--slowmo MS` (pause between actions), `--max-urls N` (crawl at most N URLs, 0 = unlimited). Reads `data/seed-urls.json` when present. Writes append-only to `data/findings.json` and `data/crawl-manifest.json`, and screenshots to `evidence/`. Per page it records load timing (Navigation Timing API), broken images, console errors, bot-protection signals (record-only, never bypassed), and dismisses the consent banner. Load is `domcontentloaded` + 10 s-capped `networkidle` + 1.5 s settle. Viewport: desktop 1920x1080; `iphone-13` and `pixel-7` use Playwright device presets.
 
+**What to expect:** prints a header line `device : desktop (1920x1080)` (or `device : iPhone 13 (iPhone 13) viewport=390x664`), `urls : 67 -> https://www.injector.world/`, then per URL `[i/67] <url>` followed by `status: 200  load: 1234ms  console_errors: 0  failed_reqs: 0  broken_images: 0  bot_blocked: False`, and finally `crawl complete: N ok, M failed (device=desktop)`. Runtime scales with URL count, a few seconds per page plus a 0.5-1.5 s polite delay between pages; a full 67-URL crawl takes around 10-15 minutes. Exit code is 0 unless every URL failed. Re-runs APPEND to `data/findings.json` and `data/crawl-manifest.json`, so duplicates accumulate; the validators dedupe.
+
 #### `scripts/report_builder.py`
 
 QA DOCX bug report builder.
@@ -107,6 +129,10 @@ python scripts/report_builder.py --device desktop --out reports/injector-world-d
 ```
 
 Reads `data/findings.json` (device-filtered by `--device mobile|desktop`) plus `data/crawl-manifest.json`. Emits the bug report: cover and executive summary, severity summary table, issues ordered CRITICAL to HIGH to MEDIUM to LOW, a "Verified: Not Reproducible" section, a coverage section, and a performance appendix. `--as-of` takes an ISO timestamp (default today). The builder fails loudly with a `ValueError` on findings that are missing required fields; it never writes placeholders.
+
+**What to expect:** no per-issue chatter; on success it prints `WROTE reports/injector-world-mobile-bug-report.docx` plus `platform`, `issues`, and `summary` (severity counts) lines. Runtime is a couple of seconds.
+
+**Writes to:** the `--out` path (default under `reports/`), overwritten each run.
 
 #### `scripts/rubric.py`
 
@@ -127,6 +153,8 @@ python3 scripts/ux_harness.py desktop --headed --slowmo 250 --max-urls 5
 ```
 
 Flags: `--urls FILE` (JSON list or coverage object), `--discover` (run the discovery pass after the crawl), `--validate` (probe-crawl the homepage only), `--headed`, `--slowmo MS`, `--max-urls N`. Writes ONLY to `evidence/ux/` and `data/ux-manifest.json`; it never touches the QA `evidence/` tree. `--validate` is a quick probe of the homepage that produces at least one screenshot. `--discover` samples internal links (capped at 10 by `DISCOVERY_SAMPLE_CAP`), diffs them against `data/ux-coverage.json`, and records the bounded delta in its `discovery` section. Probes are non-destructive: newsletter forms receive invalid or empty data only, never a real submission.
+
+**What to expect:** prints `device : desktop (desktop)` (or `device : iphone-13 (iphone-13)`), `urls : N`, then `[i/N] <url>` lines each followed by `status: ...  load: ...ms  console_errors: ...  broken_images: ...  bot_blocked: ...`, and a closing `crawl complete: N ok, M failed (device=...)`. In `--validate` mode it prints `[validate] desktop -> https://www.injector.world/` and `validate probes: N screenshots`. In `--discover` mode it prints `[discover] crawling N sample URLs for internal links` and `discovery: found_urls=... untested_reachable=... sampled=...`. `--headed --slowmo 250 --max-urls 5` opens a visible browser that moves slowly. Runtime: `--validate` finishes in under a minute; a full crawl with probes is slow (>15 min for 67 URLs), which is why discovery uses a bounded sample. Never run `iphone-13` and `pixel-7` concurrently (TargetClosedError).
 
 #### `scripts/ux_rubric.py`
 
@@ -169,6 +197,10 @@ python3 scripts/ux_report_builder.py --proposal --out reports/injector-world-ux-
 
 Each command accepts an optional `--as-of <ISO>` date (default today). Device mode reads the matching findings store plus `data/ux-coverage.json`; proposal mode reads both findings stores, `data/ux-scores.json`, and `data/ux-priority-dedup.json`. Output is compact and Word-copyable: it uses only standard Word styles (Title, Heading 1/2/3, Normal, Table Grid). Screenshots live in the `evidence/ux/` library and are listed in the Evidence Index appendix rather than embedded in the DOCX.
 
+**What to expect:** prints `WROTE reports/injector-world-ux-desktop-report.docx` (device mode also prints `platform` and `findings` count lines; proposal mode prints just `WROTE`). Runtime is a couple of seconds. Proposal mode reads `data/ux-scores.json` and `data/ux-priority-dedup.json` and fails loudly if either is missing.
+
+**Writes to:** the `--out` path (default under `reports/`), overwritten each run.
+
 #### `scripts/validate_ux_reports.py`
 
 UX validation gate. Exit code 0 with a final line "ALL CHECKS PASSED".
@@ -182,6 +214,8 @@ python3 scripts/validate_ux_reports.py --findings /tmp/opencode/ux-fixture-bad.j
 
 Six checks: Schema (see the [schema table](#ux-findings-json-schema)), Format (no solution tokens in descriptions), Coverage (all 67 pages tested per device and all 17 areas covered), Dedup (no duplicate title/URL pairs), Score (`--score` recomputes desktop/mobile/overall and compares to the proposal's embedded numbers), Render (DOCX reopens, soffice converts to a non-empty PDF, zero placeholders). `--expect-fail` inverts the exit code so you can test the gate's negative path. Checks whose artifacts do not exist yet are skipped with a note, so the gate runs incrementally during an audit.
 
+**What to expect:** prints a header `==== injector.world UX Validation Gate (T3) ====`, one `[PASS]`, `[FAIL]`, or `[SKIP]` line per check, then `ALL CHECKS PASSED` (exit 0) or `VALIDATION FAILED - see FAIL lines above` (exit 1). The render check invokes soffice, so it needs LibreOffice installed. `--expect-fail` flips the exit code (exit 0 when validation fails, exit 1 when it unexpectedly passes). Runtime: a few seconds, plus one soffice conversion per report.
+
 ### Shared and tooling scripts
 
 #### `scripts/build_seed.py`
@@ -194,6 +228,10 @@ python scripts/build_seed.py
 
 Writes `data/seed-urls.json` (67 URLs, a plain list of strings). `--output` overrides the destination (default `data/seed-urls.json`). Sources, in order: every static sitemap page from `/sitemaps/pages` (16 URLs), the nav/footer whitelist (`/login`, `/list-your-practice`, `/search`, `/states`), the first 10 guides from `/sitemaps/guides`, the first 10 news items from `/sitemaps/news`, and brand pages from the homepage nav (capped). Only the Python stdlib is used (urllib + xml.etree), so it runs anywhere.
 
+**What to expect:** fetches the live sitemap index and sub-sitemaps from the site (needs network), printing `Fetching sitemap index...`, each sub-sitemap with its URL count, homepage link counts, then a `=== SEED SUMMARY ===` block with per-category counts and cap checks, ending with `wrote: data/seed-urls.json`. Runtime ~10-30 s depending on network. Exit 0 on success, 1 if the seed count falls outside 60-100 or a category exceeds its cap.
+
+**Writes to:** `data/seed-urls.json` (67 URLs, overwritten each run).
+
 #### `scripts/validate_reports.py`
 
 QA validation gate. Exit code 0 with a final line "ALL CHECKS PASSED".
@@ -204,6 +242,8 @@ python3 scripts/validate_reports.py --desktop PATH --mobile PATH
 ```
 
 Six checks: Reopen (python-docx parses the file, at least 30 paragraphs, at least 1 table), Render (soffice headless converts to a non-empty PDF), Images (number of `word/media/` parts is at least the issue count), Placeholders (zero TBD / `[insert` / TODO / lorem), Dedup (no two issues share the same title and URL), Coverage (every issue URL is present in `data/crawl-manifest.json` for the report's device, and the static seed pages are present). Flags: `--mobile`, `--desktop`, `--findings`, `--manifest`, `--seed`.
+
+**What to expect:** prints a header `==== injector.world DOCX Validation Gate (T15) ====`, then per report one `[PASS]` or `[FAIL]` line for each of the six checks, followed by `ALL CHECKS PASSED` (exit 0) or `VALIDATION FAILED - see FAIL lines above` (exit 1). The render check invokes soffice, so it needs LibreOffice installed. Runtime: a few seconds, plus one soffice conversion per report.
 
 ## Data flow pipeline
 
