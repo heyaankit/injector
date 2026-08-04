@@ -43,6 +43,8 @@ Each DOCX report contains an executive summary, a severity summary table, issues
 ## Repo layout
 
 ```
+requirements.txt     Pinned runtime dependencies (playwright 1.62.0, python-docx 1.2.0)
+pyproject.toml       Project metadata, dependencies, and tool config (ruff, pytest)
 scripts/
   harness.py          Playwright crawl harness: screenshots, load timing, findings + manifest recording
   report_builder.py   DOCX bug report generator (python-docx)
@@ -54,7 +56,12 @@ scripts/
   ux_harness.py       Interaction-capable UX crawl harness: probes + discovery pass
   ux_report_builder.py DOCX UX report + proposal generator (python-docx)
   validate_ux_reports.py  6-check validation gate for the UX audit artifacts
-  requirements.txt    Pinned dependencies (playwright 1.62.0, python-docx 1.2.0)
+tests/
+  test_validation.py  pytest suite: module imports + QA/UX validator gates
+legacy/
+  Historical QA working scripts (scripts-f3, scripts-t7, scripts-t10-t12, scripts-t16)
+  and intermediate QA data (legacy/data/). Kept for reference, not part of the
+  active toolchain.
 data/
   findings.json       All 70 findings, severity-ranked
   crawl-manifest.json Crawl results for all 201 page/device combinations
@@ -74,11 +81,22 @@ reports/
   injector-world-ux-proposal.docx
 ```
 
+## Project structure
+
+The repository follows standard Python project conventions:
+
+- **`requirements.txt`** at the repo root pins the runtime dependencies; `pyproject.toml` mirrors them under `[project.dependencies]` and adds tooling config for `ruff` (line length 100) and `pytest`.
+- **`scripts/`** holds the active QA/UX toolchain. All validators run from the repo root and use relative paths to `data/` and `reports/`.
+- **`tests/`** contains pytest tests that import every `scripts/` module and run both validation gates as subprocesses.
+- **`legacy/`** archives historical QA working scripts and intermediate data from earlier campaign phases.
+- **`.github/workflows/ci.yml`** runs the smoke test and both validation gates on every push/PR to `main` (Ubuntu, Python 3.14, LibreOffice for the render check).
+- **`LICENSE`** (MIT), **`.editorconfig`**, and **`.gitignore`** provide standard project hygiene.
+
 ## How it was tested
 
 The audit is reproducible:
 
-1. Install dependencies: `pip install -r scripts/requirements.txt`
+1. Install dependencies: `pip install -r requirements.txt`
 2. Crawl a device profile: `python scripts/harness.py desktop|iphone-13|pixel-7`
    The harness walks the seed list, captures full-page and viewport screenshots, records load times, console errors, broken images, and bot-protection signals, and appends results to `data/findings.json` and `data/crawl-manifest.json`.
 3. Regenerate a report: `python scripts/report_builder.py --device mobile|desktop --out <docx> --as-of <ISO>`
@@ -100,7 +118,7 @@ The UX audit is fully reproducible with the scripts below.
 
 The UX audit is reproducible end-to-end:
 
-1. Install dependencies: `pip install -r scripts/requirements.txt`
+1. Install dependencies: `pip install -r requirements.txt`
 2. Run the desktop crawl: `python3 scripts/ux_harness.py desktop`
    Crawls the desktop profile with base crawl plus interaction probes, writing to `evidence/ux/` and `data/ux-manifest.json`.
 3. Run the mobile crawls: `python3 scripts/ux_harness.py iphone-13` and `python3 scripts/ux_harness.py pixel-7`

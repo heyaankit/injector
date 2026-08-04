@@ -304,7 +304,7 @@ def crawl_page(context, url: str, device: str) -> dict:
 
 
 # ---------------------------------------------------------------------------
-# Interaction probes (modeled on scripts-t11/t11_mobile_functional.py)
+# Interaction probes (modeled on legacy/scripts-t11/t11_mobile_functional.py)
 # ---------------------------------------------------------------------------
 def _shot(page, shot_dir: Path, step: str, ts: str, full_page: bool = False) -> str:
     p = shot_dir / f"{step}-{ts}.png"
