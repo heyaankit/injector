@@ -6,6 +6,11 @@ Fresh crawl for the UX audit. Does NOT reuse QA manifest data; writes ONLY to
 
 Usage:
     python scripts/ux_harness.py desktop|iphone-13|pixel-7 [--urls FILE] [--discover] [--validate]
+    python scripts/ux_harness.py desktop --headed --slowmo 250   # watch a live, visible crawl
+
+Options:
+    --headed         run with a visible browser window
+    --slowmo MS      pause between actions in ms (default 0)
 
 Modes:
     default      Full crawl of the URL list (from --urls FILE, else data/ux-coverage.json
@@ -672,6 +677,8 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--urls", help="JSON file of URLs to crawl (list or coverage object)")
     ap.add_argument("--discover", action="store_true", help="run discovery pass after crawl")
     ap.add_argument("--validate", action="store_true", help="probe-crawl the homepage only")
+    ap.add_argument("--headed", action="store_true", help="run with a visible browser window")
+    ap.add_argument("--slowmo", type=int, default=0, metavar="MS", help="pause between actions in ms (default 0)")
     args = ap.parse_args(argv)
 
     try:
@@ -690,7 +697,7 @@ def main(argv: list[str] | None = None) -> int:
         preset_desc = None
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
+        browser = p.chromium.launch(headless=not args.headed, slow_mo=args.slowmo)
         context = desktop_context(browser) if not preset else mobile_context(browser, preset)
 
         if args.validate:

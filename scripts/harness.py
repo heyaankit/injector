@@ -11,6 +11,10 @@ Usage:
     python scripts/harness.py pixel-7           # Pixel 7 emulation
     python scripts/harness.py desktop URL [URL...]   # explicit URL list
 
+Options:
+    --headed         run with a visible browser window
+    --slowmo MS      pause between actions in ms (default 0)
+
 Seed list: read from data/seed-urls.json when present (T2), otherwise a
 curated fallback (homepage + top-level pages) is used so the harness is
 immediately runnable.
@@ -468,6 +472,8 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("device", choices=sorted(DEVICE_ALIASES), help="device profile")
     ap.add_argument("urls", nargs="*", help="explicit URLs to crawl (overrides seed list)")
     ap.add_argument("--headless", action="store_true", default=True, help=argparse.SUPPRESS)
+    ap.add_argument("--headed", action="store_true", help="run with a visible browser window")
+    ap.add_argument("--slowmo", type=int, default=0, metavar="MS", help="pause between actions in ms (default 0)")
     args = ap.parse_args(argv)
 
     label, dev_slug, preset = _resolve_device(args.device)
@@ -498,7 +504,7 @@ def main(argv: list[str] | None = None) -> int:
             print(f"device : {label} ({DESKTOP_VIEWPORT['width']}x{DESKTOP_VIEWPORT['height']})")
         print(f"urls   : {len(urls)} -> {urls[0] if urls else '(none)'}")
 
-        browser = p.chromium.launch(headless=True)
+        browser = p.chromium.launch(headless=not args.headed, slow_mo=args.slowmo)
         context = (
             desktop_context(browser) if not preset else mobile_context(browser, preset)
         )
