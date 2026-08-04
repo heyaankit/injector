@@ -27,7 +27,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Install Playwright browser
-        run: sudo python -m playwright install --with-deps chromium
+        run: sudo "$(which python)" -m playwright install --with-deps chromium
 
       - name: Environment smoke test
         run: python scripts/smoke_test.py
