@@ -43,42 +43,57 @@ Each DOCX report contains an executive summary, a severity summary table, issues
 ## Repo layout
 
 ```
-requirements.txt     Pinned runtime dependencies (playwright 1.62.0, python-docx 1.2.0)
-pyproject.toml       Project metadata, dependencies, and tool config (ruff, pytest)
-scripts/
-  harness.py          Playwright crawl harness: screenshots, load timing, findings + manifest recording
-  report_builder.py   DOCX bug report generator (python-docx)
-  rubric.py           Single source of truth for severity colors and ordering
-  validate_reports.py 6-check validation gate for both reports
-  build_seed.py       Generates the 67-URL seed list
-  smoke_test.py       Environment smoke test
-  ux_rubric.py        Single source of truth for the 17 UX areas, 4 severity tiers, and /10 score
-  ux_harness.py       Interaction-capable UX crawl harness: probes + discovery pass
-  ux_report_builder.py DOCX UX report + proposal generator (python-docx)
-  validate_ux_reports.py  6-check validation gate for the UX audit artifacts
-tests/
-  test_validation.py  pytest suite: module imports + QA/UX validator gates
-legacy/
-  Historical QA working scripts (scripts-f3, scripts-t7, scripts-t10-t12, scripts-t16)
-  and intermediate QA data (legacy/data/). Kept for reference, not part of the
-  active toolchain.
-data/
-  findings.json       All 70 findings, severity-ranked
-  crawl-manifest.json Crawl results for all 201 page/device combinations
-  crawl-manifest-schema.json
-  seed-urls.json      67-URL seed list
-  ux-desktop-findings.json  15 machine-readable desktop UX findings
-  ux-mobile-findings.json   12 machine-readable mobile UX findings
-  ux-scores.json     /10 scores (desktop 4.0, mobile 4.3, overall 4.2) + tier counts + formula
-  ux-priority-dedup.json    20-entry cross-device priority map (7 Both / 8 Desktop / 5 Mobile)
-  ux-coverage.json   67 audited pages
-  ux-manifest.json   Crawl manifest for the UX audit (device profiles)
-reports/
-  injector-world-desktop-bug-report.docx
-  injector-world-mobile-bug-report.docx
-  injector-world-ux-desktop-report.docx
-  injector-world-ux-mobile-report.docx
-  injector-world-ux-proposal.docx
+injector-world-qa/
+├── .editorconfig
+├── .github/
+│   └── workflows/
+│       └── ci.yml
+├── .gitignore
+├── LICENSE
+├── README.md
+├── pyproject.toml
+├── requirements.txt
+├── data/
+│   ├── crawl-manifest-schema.json
+│   ├── crawl-manifest.json
+│   ├── findings.json
+│   ├── seed-urls.json
+│   ├── ux-coverage.json
+│   ├── ux-desktop-findings.json
+│   ├── ux-manifest.json
+│   ├── ux-mobile-findings.json
+│   ├── ux-priority-dedup.json
+│   └── ux-scores.json
+├── legacy/
+│   ├── data/
+│   │   ├── t11-final-diagnostic.json
+│   │   ├── t11-mobile-functional-results.json
+│   │   ├── t11-retest-results.json
+│   │   ├── t12-fix-results.json
+│   │   ├── t12-mobile-results.json
+│   │   └── t5-data-suspects.json
+│   └── scripts-*/  (scripts-f3, scripts-t7, scripts-t10, scripts-t11, scripts-t12, scripts-t16)
+├── reports/
+│   ├── injector-world-desktop-bug-report.docx
+│   ├── injector-world-mobile-bug-report.docx
+│   ├── injector-world-testing-summary.docx
+│   ├── injector-world-testing-summary.md
+│   ├── injector-world-ux-desktop-report.docx
+│   ├── injector-world-ux-mobile-report.docx
+│   └── injector-world-ux-proposal.docx
+├── scripts/
+│   ├── build_seed.py
+│   ├── harness.py
+│   ├── report_builder.py
+│   ├── rubric.py
+│   ├── smoke_test.py
+│   ├── ux_harness.py
+│   ├── ux_report_builder.py
+│   ├── ux_rubric.py
+│   ├── validate_reports.py
+│   └── validate_ux_reports.py
+└── tests/
+    └── test_validation.py
 ```
 
 ## Project structure
