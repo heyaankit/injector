@@ -209,6 +209,8 @@ The UX audit is reproducible end-to-end:
    Collects internal links across crawled pages, diffs them against `data/ux-coverage.json`, and records the bounded delta.
 5. Validate the audit artifacts: `python3 scripts/validate_ux_reports.py`
    Runs six checks (schema, format, coverage, dedup, score, render) and exits 0 with "ALL CHECKS PASSED".
+
+For a quick visual demo, `python3 scripts/ux_harness.py desktop --headed --slowmo 250 --max-urls 5` opens a visible browser and crawls the first 5 URLs at a slow, watchable pace. The `--headed`, `--slowmo MS`, and `--max-urls N` flags are also available on `scripts/harness.py`.
 6. Regenerate the desktop report: `python3 scripts/ux_report_builder.py --device desktop --out reports/injector-world-ux-desktop-report.docx`
    Builds the compact, Word-copyable desktop report from `data/ux-desktop-findings.json` and `data/ux-coverage.json`.
 7. Regenerate the mobile report: `python3 scripts/ux_report_builder.py --device mobile --out reports/injector-world-ux-mobile-report.docx`

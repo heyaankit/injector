@@ -14,6 +14,7 @@ Usage:
 Options:
     --headed         run with a visible browser window
     --slowmo MS      pause between actions in ms (default 0)
+    --max-urls N     crawl at most N URLs (0 = unlimited)
 
 Seed list: read from data/seed-urls.json when present (T2), otherwise a
 curated fallback (homepage + top-level pages) is used so the harness is
@@ -474,10 +475,13 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--headless", action="store_true", default=True, help=argparse.SUPPRESS)
     ap.add_argument("--headed", action="store_true", help="run with a visible browser window")
     ap.add_argument("--slowmo", type=int, default=0, metavar="MS", help="pause between actions in ms (default 0)")
+    ap.add_argument("--max-urls", type=int, default=0, metavar="N", help="crawl at most N URLs (0 = unlimited)")
     args = ap.parse_args(argv)
 
     label, dev_slug, preset = _resolve_device(args.device)
     urls = load_seed_urls(args.urls or None)
+    if args.max_urls > 0:
+        urls = urls[: args.max_urls]
 
     # Resolve device presets up front so a bad preset name fails fast AND the
     # descriptor cache is warm before any sync_playwright context opens

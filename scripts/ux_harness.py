@@ -7,10 +7,12 @@ Fresh crawl for the UX audit. Does NOT reuse QA manifest data; writes ONLY to
 Usage:
     python scripts/ux_harness.py desktop|iphone-13|pixel-7 [--urls FILE] [--discover] [--validate]
     python scripts/ux_harness.py desktop --headed --slowmo 250   # watch a live, visible crawl
+    python scripts/ux_harness.py desktop --headed --slowmo 250 --max-urls 5   # demo: first 5 URLs only
 
 Options:
     --headed         run with a visible browser window
     --slowmo MS      pause between actions in ms (default 0)
+    --max-urls N     crawl at most N URLs (0 = unlimited)
 
 Modes:
     default      Full crawl of the URL list (from --urls FILE, else data/ux-coverage.json
@@ -679,6 +681,7 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--validate", action="store_true", help="probe-crawl the homepage only")
     ap.add_argument("--headed", action="store_true", help="run with a visible browser window")
     ap.add_argument("--slowmo", type=int, default=0, metavar="MS", help="pause between actions in ms (default 0)")
+    ap.add_argument("--max-urls", type=int, default=0, metavar="N", help="crawl at most N URLs (0 = unlimited)")
     args = ap.parse_args(argv)
 
     try:
@@ -726,6 +729,8 @@ def main(argv: list[str] | None = None) -> int:
             return 0
 
         urls = load_urls(args.urls)
+        if args.max_urls > 0 and not (args.validate or args.discover):
+            urls = urls[: args.max_urls]
         print(f"device : {label} ({dev_slug})")
         print(f"urls   : {len(urls)}")
 
