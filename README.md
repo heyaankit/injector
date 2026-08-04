@@ -28,6 +28,15 @@ Note: the homepage stats counters (17,020+, 12,400+) were investigated and work 
 | `data/crawl-manifest.json` | 201 audited pages (67 URLs, each under desktop, iPhone 13, and Pixel 7), 0 failed crawls |
 | `data/seed-urls.json` | The 67-URL seed list used for the crawl |
 | `evidence/` | Screenshot evidence per device and page. Gitignored and regenerable via the harness |
+| `reports/injector-world-ux-desktop-report.docx` | 15 UX findings (2 Critical, 4 Most Important, 8 Important, 1 Normal), /10 score 4.0, coverage (67 pages) |
+| `reports/injector-world-ux-mobile-report.docx` | 12 UX findings (1 Critical, 4 Most Important, 5 Important, 2 Normal), /10 score 4.3, coverage (67 pages) |
+| `reports/injector-world-ux-proposal.docx` | Client proposal: executive summary, desktop + mobile findings, priority-wise list (20 dedup entries), overall /10 score 4.2 |
+| `data/ux-desktop-findings.json` | 15 machine-readable desktop UX findings |
+| `data/ux-mobile-findings.json` | 12 machine-readable mobile UX findings |
+| `data/ux-scores.json` | /10 scores (desktop 4.0, mobile 4.3, overall 4.2) + tier counts + formula |
+| `data/ux-priority-dedup.json` | 20-entry cross-device priority map (7 Both / 8 Desktop / 5 Mobile) |
+| `data/ux-coverage.json` | 67 audited pages |
+| `data/ux-manifest.json` | Crawl manifest for the UX audit (device profiles) |
 
 Each DOCX report contains an executive summary, a severity summary table, issues ordered CRITICAL to LOW with color-coded severity, steps to reproduce, expected vs. actual behavior, and embedded screenshot evidence.
 
@@ -43,6 +52,7 @@ scripts/
   smoke_test.py       Environment smoke test
   ux_rubric.py        Single source of truth for the 17 UX areas, 4 severity tiers, and /10 score
   ux_harness.py       Interaction-capable UX crawl harness: probes + discovery pass
+  ux_report_builder.py DOCX UX report + proposal generator (python-docx)
   validate_ux_reports.py  6-check validation gate for the UX audit artifacts
   requirements.txt    Pinned dependencies (playwright 1.62.0, python-docx 1.2.0)
 data/
@@ -50,9 +60,18 @@ data/
   crawl-manifest.json Crawl results for all 201 page/device combinations
   crawl-manifest-schema.json
   seed-urls.json      67-URL seed list
+  ux-desktop-findings.json  15 machine-readable desktop UX findings
+  ux-mobile-findings.json   12 machine-readable mobile UX findings
+  ux-scores.json     /10 scores (desktop 4.0, mobile 4.3, overall 4.2) + tier counts + formula
+  ux-priority-dedup.json    20-entry cross-device priority map (7 Both / 8 Desktop / 5 Mobile)
+  ux-coverage.json   67 audited pages
+  ux-manifest.json   Crawl manifest for the UX audit (device profiles)
 reports/
   injector-world-desktop-bug-report.docx
   injector-world-mobile-bug-report.docx
+  injector-world-ux-desktop-report.docx
+  injector-world-ux-mobile-report.docx
+  injector-world-ux-proposal.docx
 ```
 
 ## How it was tested
@@ -90,8 +109,28 @@ The UX audit is reproducible end-to-end:
    Collects internal links across crawled pages, diffs them against `data/ux-coverage.json`, and records the bounded delta.
 5. Validate the audit artifacts: `python3 scripts/validate_ux_reports.py`
    Runs six checks (schema, format, coverage, dedup, score, render) and exits 0 with "ALL CHECKS PASSED".
+6. Regenerate the desktop report: `python3 scripts/ux_report_builder.py --device desktop --out reports/injector-world-ux-desktop-report.docx`
+   Builds the compact, Word-copyable desktop report from `data/ux-desktop-findings.json` and `data/ux-coverage.json`.
+7. Regenerate the mobile report: `python3 scripts/ux_report_builder.py --device mobile --out reports/injector-world-ux-mobile-report.docx`
+   Builds the mobile report from `data/ux-mobile-findings.json` and `data/ux-coverage.json`.
+8. Regenerate the client proposal: `python3 scripts/ux_report_builder.py --proposal --out reports/injector-world-ux-proposal.docx`
+   Builds the proposal from both findings stores plus `data/ux-scores.json` and `data/ux-priority-dedup.json`. All three commands accept an optional `--as-of <ISO>` report date (default today).
 
 The harness is non-destructive by design: forms receive invalid or empty data only, bot protection is detected and recorded but never bypassed, and a single failed page never aborts the run.
+
+## UX audit results
+
+All UI/UX testing has been completed, and every artifact is committed to this repo. The audit found **27 UX findings** across desktop and mobile: 15 on desktop and 12 on mobile. Each finding is classified into one of **4 severity tiers** (Critical, Most Important, Important, Normal) and mapped to one of **17 UX areas**.
+
+The /10 UX quality scores:
+
+- **Desktop: 4.0** (2 Critical, 4 Most Important, 8 Important, 1 Normal)
+- **Mobile: 4.3** (1 Critical, 4 Most Important, 5 Important, 2 Normal)
+- **Overall: 4.2** (average of desktop and mobile)
+
+Because several root causes appear on both devices, the cross-device priority map collapses the 27 findings into **20 dedup entries**: 7 affect Both devices, 8 are Desktop-only, and 5 are Mobile-only (2 Critical, 6 Most Important, 10 Important, 2 Normal). This map is what the client proposal presents as the priority-wise list.
+
+The three DOCX deliverables document all of this end-to-end: the desktop report covers the 15 desktop findings, the mobile report covers the 12 mobile findings, and the proposal ties both together with the executive summary, the priority-wise list, and the overall score.
 
 ## Quality gates passed
 
@@ -99,6 +138,8 @@ The harness is non-destructive by design: forms receive invalid or empty data on
 - **Render check.** Both DOCX reports render cleanly via LibreOffice headless (PDF conversion exits 0).
 - **Zero placeholders.** No TBD, `[insert]`, TODO, or lorem text in either report, checked across paragraphs, tables, and raw document XML.
 - **Non-destructive compliance.** No real form submissions or newsletter signups (only invalid and empty input was used), no requests to `/admin/` or `/api/`, no bot-protection bypass, and no Lighthouse runs.
+- **UX validator gate.** `python3 scripts/validate_ux_reports.py` exits 0 with "ALL CHECKS PASSED", covering schema, format, coverage, dedup, score, and render for the UX audit artifacts.
+- **UX live re-verification.** 11 of 27 UX findings (40.7%) were independently re-verified live after the audit; 9 reproduced with matching detail. Two findings (site search returning 0 results, and the clinics directory empty state) no longer reproduce because the production site was updated after the audit crawl of August 1-2, 2026. This is documented in a "Re-verification Note" appended to all three UX reports.
 
 ## Note on evidence/
 
