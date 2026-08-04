@@ -92,6 +92,73 @@ The repository follows standard Python project conventions:
 - **`.github/workflows/ci.yml`** runs the smoke test and both validation gates on every push/PR to `main` (Ubuntu, Python 3.14, LibreOffice for the render check).
 - **`LICENSE`** (MIT), **`.editorconfig`**, and **`.gitignore`** provide standard project hygiene.
 
+## For developers
+
+This section is for developers who want to use, extend, or contribute to the QA/UX toolchain. It covers how the pieces fit together, the module surface, the extension points, the findings schema, and the contribution workflow.
+
+### Architecture and data flow
+
+The toolchain is a linear pipeline: crawl, store, build, validate.
+
+```
+scripts/ux_harness.py (crawl + probes)  ->  data/ux-desktop-findings.json
+                                            data/ux-mobile-findings.json
+                                            data/ux-manifest.json
+                                            data/ux-coverage.json
+scripts/ux_report_builder.py (DOCX)     ->  reports/injector-world-ux-*.docx
+scripts/validate_ux_reports.py (gate)   ->  exit 0 "ALL CHECKS PASSED"
+tests/ + .github/workflows/ci.yml       ->  pytest suite + CI gate
+```
+
+The QA bug-report pipeline mirrors this with `scripts/harness.py`, `scripts/report_builder.py`, and `scripts/validate_reports.py`. Both pipelines share the same shape: a harness writes machine-readable findings to `data/`, a builder renders them into DOCX, and a validator gates the artifacts before they ship.
+
+### Module reference
+
+| Module | What it does | Key entry points |
+|---|---|---|
+| `scripts/harness.py` | QA crawl harness: screenshots, load timing, findings + manifest recording | `python scripts/harness.py desktop\|iphone-13\|pixel-7` |
+| `scripts/report_builder.py` | QA DOCX bug report generator | `python scripts/report_builder.py --device mobile\|desktop --out <docx> --as-of <ISO>` |
+| `scripts/rubric.py` | Single source of truth for QA severity colors and ordering | imported by the QA builder and validator |
+| `scripts/validate_reports.py` | 6-check validation gate for the QA reports | `python scripts/validate_reports.py` |
+| `scripts/build_seed.py` | Generates the 67-URL seed list | `python scripts/build_seed.py` |
+| `scripts/smoke_test.py` | Environment smoke test (launches Chromium) | `python scripts/smoke_test.py` |
+| `scripts/ux_harness.py` | Interaction-capable UX crawl harness: probes + discovery pass | `python3 scripts/ux_harness.py desktop\|iphone-13\|pixel-7 [--urls FILE] [--discover] [--validate]` |
+| `scripts/ux_rubric.py` | Single source of truth for the 17 UX areas, 4 severity tiers, and /10 score | `UX_AREAS`, `UX_TIERS`, `ux_score()`, `overall_score()` |
+| `scripts/ux_report_builder.py` | DOCX UX report + proposal generator | `python3 scripts/ux_report_builder.py --device desktop\|mobile --out <docx> [--as-of <ISO>]` or `--proposal --out <docx>` |
+| `scripts/validate_ux_reports.py` | 6-check validation gate for the UX audit artifacts | `python3 scripts/validate_ux_reports.py [--findings f1.json f2.json] [--reports r1.docx r2.docx r3.docx] [--score] [--expect-fail]` |
+
+### Key extension points
+
+- **Add a new UX area.** Edit `UX_AREAS` in `scripts/ux_rubric.py` (currently 17 areas). The list must stay schema-synced with the validators, which check `primary_area` against it.
+- **Add a new severity tier.** Edit `UX_TIERS` in `scripts/ux_rubric.py`. Each tier carries a `color`, a problem-class `def`, a `decision` rule, and `calibration` examples. Add the tier to `TIER_CEILINGS`, `SEVERITY_ORDER`, and `PENALTY` so scoring stays consistent.
+- **Change the /10 scoring.** Edit `ux_score` and `overall_score` in `scripts/ux_rubric.py`. The current formula is `max(1.0, highest_present_ceiling - 0.2*(n_crit-1) - 0.1*n_mi - 0.05*n_imp - 0.02*n_norm)`, where the ceiling is set by the most severe tier present (Critical 5.0, Most Important 7.0, Important 8.5, Normal 9.5), clamped to `[1.0, 10.0]` and rounded to 1 decimal. `overall_score` is `round((desktop + mobile) / 2, 1)`.
+- **Add a finding.** Append to `data/ux-desktop-findings.json` or `data/ux-mobile-findings.json` following the schema below. Use sequential ids (`UX-D-###` for desktop, `UX-M-###` for mobile).
+- **Add a check to the gate.** Edit `scripts/validate_ux_reports.py`. The gate currently runs 6 checks: schema, format, coverage, dedup, score, and render.
+
+### Findings JSON schema
+
+Each finding in the UX stores must satisfy the validator's schema check:
+
+| Field | Requirement |
+|---|---|
+| `id` | Matches `UX-[DM]-###` (e.g. `UX-D-001`, `UX-M-012`) |
+| `device` | One of `desktop`, `iphone-13`, `pixel-7`, `both` |
+| `url` | Non-empty string |
+| `primary_area` | One of the 17 `UX_AREAS` |
+| `tier` | One of the 4 `UX_TIERS` (Critical, Most Important, Important, Normal) |
+| `title` | Non-empty string |
+| `description` | At most 160 chars, a single sentence, no solution tokens (`fix:`, `recommend`, `should be`, `consider`, `suggest`) |
+| `screenshot_path` | An existing, non-empty `.png` file |
+| `qa_ref` OR `qa_independent` | `qa_ref` must resolve to an id in `data/findings.json`, or `qa_independent` must be `true` |
+
+### Developer workflow and contribution checklist
+
+1. Install dependencies: `pip install -r requirements.txt`. For the test suite, also `pip install pytest`, or install the dev extras with `pip install -e ".[dev]"` (the `pyproject.toml` declares `dev = ["pytest"]`).
+2. Run the tests: `python3 -m pytest tests/ -q`.
+3. Run both gates before pushing. `python3 scripts/validate_reports.py` and `python3 scripts/validate_ux_reports.py` must each exit 0 with "ALL CHECKS PASSED".
+4. CI (`.github/workflows/ci.yml`) runs the smoke test and both validators on every push/PR to `main`. It installs the Playwright browser (`sudo python -m playwright install --with-deps chromium`) and LibreOffice for the render check.
+5. Follow the style config: `ruff` with line length 100, `.editorconfig` (4-space Python), and the `ruff` + `pytest` settings in `pyproject.toml`.
+
 ## How it was tested
 
 The audit is reproducible:
